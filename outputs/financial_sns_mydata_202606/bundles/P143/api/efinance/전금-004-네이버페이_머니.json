@@ -1,0 +1,74 @@
+{
+  "x-api-tran-id": "P143-전금-004-P143-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 5,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP143네00002",
+      "trans_dtime": "20260618222953",
+      "trans_no": "WP14300001",
+      "currency_code": "KRW",
+      "trans_amt": -117500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP143네00015",
+      "trans_dtime": "20260617200031",
+      "trans_no": "WP14300003",
+      "currency_code": "KRW",
+      "trans_amt": -103100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP143네00012",
+      "trans_dtime": "20260609204420",
+      "trans_no": "WP14300002",
+      "currency_code": "KRW",
+      "trans_amt": -56900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "롯데마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP143네00019",
+      "trans_dtime": "20260603102621",
+      "trans_no": "WP14300005",
+      "currency_code": "KRW",
+      "trans_amt": -20400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP143네00016",
+      "trans_dtime": "20260602074911",
+      "trans_no": "WP14300004",
+      "currency_code": "KRW",
+      "trans_amt": -27300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오T 택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

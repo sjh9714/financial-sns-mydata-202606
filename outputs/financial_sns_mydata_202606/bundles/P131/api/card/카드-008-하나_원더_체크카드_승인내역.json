@@ -1,0 +1,113 @@
+{
+  "x-api-tran-id": "P131-카드-008-P131-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "approved_cnt": 8,
+  "approved_list": [
+    {
+      "approved_num": "AP131000006",
+      "approved_dtime": "20260630203727",
+      "status": "01",
+      "pay_type": "01",
+      "trans_dtime": null,
+      "merchant_name": "마켓컬리",
+      "merchant_regno": "624-73-43763",
+      "approved_amt": 21400.0,
+      "modified_amt": null,
+      "total_install_cnt": null,
+      "transaction_id": "P131-T0060"
+    },
+    {
+      "approved_num": "AP131000008",
+      "approved_dtime": "20260629105316",
+      "status": "01",
+      "pay_type": "01",
+      "trans_dtime": null,
+      "merchant_name": "세븐일레븐",
+      "merchant_regno": "239-75-42810",
+      "approved_amt": 23900.0,
+      "modified_amt": null,
+      "total_install_cnt": null,
+      "transaction_id": "P131-T0077"
+    },
+    {
+      "approved_num": "AP131000001",
+      "approved_dtime": "20260624195652",
+      "status": "01",
+      "pay_type": "01",
+      "trans_dtime": null,
+      "merchant_name": "요기요",
+      "merchant_regno": "688-59-40629",
+      "approved_amt": 23900.0,
+      "modified_amt": null,
+      "total_install_cnt": null,
+      "transaction_id": "P131-T0024"
+    },
+    {
+      "approved_num": "AP131000007",
+      "approved_dtime": "20260623194949",
+      "status": "01",
+      "pay_type": "01",
+      "trans_dtime": null,
+      "merchant_name": "스타벅스 합정점",
+      "merchant_regno": "496-55-46707",
+      "approved_amt": 7000.0,
+      "modified_amt": null,
+      "total_install_cnt": null,
+      "transaction_id": "P131-T0061"
+    },
+    {
+      "approved_num": "AP131000004",
+      "approved_dtime": "20260615144643",
+      "status": "01",
+      "pay_type": "01",
+      "trans_dtime": null,
+      "merchant_name": "지그재그",
+      "merchant_regno": "567-31-75451",
+      "approved_amt": 23200.0,
+      "modified_amt": null,
+      "total_install_cnt": null,
+      "transaction_id": "P131-T0040"
+    },
+    {
+      "approved_num": "AP131000003",
+      "approved_dtime": "20260615124623",
+      "status": "01",
+      "pay_type": "01",
+      "trans_dtime": null,
+      "merchant_name": "무신사",
+      "merchant_regno": "348-79-61711",
+      "approved_amt": 31000.0,
+      "modified_amt": null,
+      "total_install_cnt": null,
+      "transaction_id": "P131-T0036"
+    },
+    {
+      "approved_num": "AP131000002",
+      "approved_dtime": "20260608152243",
+      "status": "01",
+      "pay_type": "01",
+      "trans_dtime": null,
+      "merchant_name": "29CM",
+      "merchant_regno": "854-37-59227",
+      "approved_amt": 36900.0,
+      "modified_amt": null,
+      "total_install_cnt": null,
+      "transaction_id": "P131-T0026"
+    },
+    {
+      "approved_num": "AP131000005",
+      "approved_dtime": "20260605134154",
+      "status": "01",
+      "pay_type": "01",
+      "trans_dtime": null,
+      "merchant_name": "클래스101",
+      "merchant_regno": "137-72-10741",
+      "approved_amt": 27200.0,
+      "modified_amt": null,
+      "total_install_cnt": null,
+      "transaction_id": "P131-T0048"
+    }
+  ]
+}

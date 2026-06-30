@@ -1,0 +1,30 @@
+{
+  "persona_id": "P137",
+  "synthetic_name": "가상청년 P137",
+  "age": 25,
+  "birth_year": 2001,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "소비·구독형",
+  "job": "콘텐츠 에디터",
+  "region": "경기 성남시",
+  "monthly_income_krw": 2870000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 2780000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.045,
+  "target_investment_rate": 0.039,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "부모동거",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "배달선호",
+    "온라인쇼핑",
+    "취향소비"
+  ],
+  "financial_goal": "카드혜택 최적화",
+  "sns_tendency": "투자피드형",
+  "target_ledger_rows": 164,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

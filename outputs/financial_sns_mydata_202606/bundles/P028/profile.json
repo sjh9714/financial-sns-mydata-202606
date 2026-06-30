@@ -1,0 +1,30 @@
+{
+  "persona_id": "P028",
+  "synthetic_name": "가상청년 P028",
+  "age": 22,
+  "birth_year": 2004,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "학생/알바",
+  "job": "대학생/카페 아르바이트",
+  "region": "서울 관악구",
+  "monthly_income_krw": 1350000,
+  "income_band": "150만원 미만",
+  "target_monthly_spend_krw": 1060000,
+  "spend_band": "90~150만원",
+  "target_saving_rate": 0.143,
+  "target_investment_rate": 0.054,
+  "risk_score": 1,
+  "risk_attitude": "원금보전형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "간편결제선호",
+    "소액투자",
+    "캠퍼스생활"
+  ],
+  "financial_goal": "독립 준비",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 68,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

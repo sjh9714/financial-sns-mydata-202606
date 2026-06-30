@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P071-전금-004-P071-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP071네00008",
+      "trans_dtime": "20260621112404",
+      "trans_no": "WP07100002",
+      "currency_code": "KRW",
+      "trans_amt": -7300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "던킨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP071네00003",
+      "trans_dtime": "20260617132254",
+      "trans_no": "WP07100001",
+      "currency_code": "KRW",
+      "trans_amt": -4500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "스타벅스 합정점",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

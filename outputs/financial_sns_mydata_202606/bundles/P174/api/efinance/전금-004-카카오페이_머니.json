@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P174-전금-004-P174-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP174카00016",
+      "trans_dtime": "20260622192402",
+      "trans_no": "WP17400003",
+      "currency_code": "KRW",
+      "trans_amt": -6800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "던킨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP174카00010",
+      "trans_dtime": "20260618111424",
+      "trans_no": "WP17400002",
+      "currency_code": "KRW",
+      "trans_amt": -24700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노션",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP174카00004",
+      "trans_dtime": "20260614121620",
+      "trans_no": "WP17400001",
+      "currency_code": "KRW",
+      "trans_amt": -49200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

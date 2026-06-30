@@ -1,0 +1,30 @@
+{
+  "persona_id": "P098",
+  "synthetic_name": "가상청년 P098",
+  "age": 30,
+  "birth_year": 1996,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "도시 직장인",
+  "job": "서비스 기획자",
+  "region": "서울 성동구",
+  "monthly_income_krw": 4280000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2060000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.253,
+  "target_investment_rate": 0.097,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "대중교통",
+    "도심생활",
+    "외식"
+  ],
+  "financial_goal": "커리어전환",
+  "sns_tendency": "목표공유형",
+  "target_ledger_rows": 107,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

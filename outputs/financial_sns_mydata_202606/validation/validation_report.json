@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "error_count": 0,
+  "warning_count": 0,
+  "errors": [],
+  "warnings": [],
+  "cluster": {
+    "k": 6,
+    "feature_columns": [
+      "log_monthly_income_krw",
+      "savings_rate",
+      "investment_rate",
+      "spend_rate",
+      "risk_score"
+    ],
+    "best_restart": 432,
+    "silhouette_score": 0.2893,
+    "cluster_sizes": {
+      "0": 41,
+      "1": 15,
+      "2": 28,
+      "3": 81,
+      "4": 8,
+      "5": 26
+    },
+    "min_cluster_size": 8,
+    "passes_threshold": true
+  }
+}

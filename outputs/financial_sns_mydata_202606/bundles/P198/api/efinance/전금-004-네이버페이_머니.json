@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P198-전금-004-P198-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP198네00006",
+      "trans_dtime": "20260622161851",
+      "trans_no": "WP19800002",
+      "currency_code": "KRW",
+      "trans_amt": -114500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "GS25",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP198네00004",
+      "trans_dtime": "20260618231640",
+      "trans_no": "WP19800001",
+      "currency_code": "KRW",
+      "trans_amt": -186500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "클래스101",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    }
+  ]
+}

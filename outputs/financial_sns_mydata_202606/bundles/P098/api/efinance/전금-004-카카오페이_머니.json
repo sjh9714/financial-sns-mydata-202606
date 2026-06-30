@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P098-전금-004-P098-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP098카00007",
+      "trans_dtime": "20260627185403",
+      "trans_no": "WP09800004",
+      "currency_code": "KRW",
+      "trans_amt": -14700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오버스",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP098카00001",
+      "trans_dtime": "20260624094903",
+      "trans_no": "WP09800001",
+      "currency_code": "KRW",
+      "trans_amt": -18200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "요기요",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP098카00002",
+      "trans_dtime": "20260607102738",
+      "trans_no": "WP09800002",
+      "currency_code": "KRW",
+      "trans_amt": -50100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "올리브영",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP098카00003",
+      "trans_dtime": "20260607080030",
+      "trans_no": "WP09800003",
+      "currency_code": "KRW",
+      "trans_amt": -14400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "요기요",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

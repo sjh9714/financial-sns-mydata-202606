@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P070-전금-004-P070-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP070카00005",
+      "trans_dtime": "20260624110451",
+      "trans_no": "WP07000002",
+      "currency_code": "KRW",
+      "trans_amt": -13700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "주식회사 우아한형제들",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP070카00001",
+      "trans_dtime": "20260613090920",
+      "trans_no": "WP07000001",
+      "currency_code": "KRW",
+      "trans_amt": -11800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "담소소사골순대",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP070카00006",
+      "trans_dtime": "20260606180331",
+      "trans_no": "WP07000003",
+      "currency_code": "KRW",
+      "trans_amt": -21900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

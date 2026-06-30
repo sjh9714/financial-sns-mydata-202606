@@ -1,0 +1,63 @@
+{
+  "x-api-tran-id": "P072-금투-003-P072-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "prod_name": "KODEX 미국나스닥100TR",
+      "prod_code": "379810",
+      "trans_dtime": "20260626101356",
+      "Bod": "매도",
+      "trans_no": "STKP0720003",
+      "trans_type": "201",
+      "trans_type_detail": "현금매도",
+      "trans_num": 3.0,
+      "trans_unit": "좌",
+      "base_amt": 17406.0,
+      "trans_amt": 52218.0,
+      "settle_amt": 52118.0,
+      "balance_amt": 161569.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 미국나스닥100TR 일부 매도",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "KODEX 미국나스닥100TR",
+      "prod_code": "379810",
+      "trans_dtime": "20260616120034",
+      "Bod": "매수",
+      "trans_no": "STKP0720002",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 12.0,
+      "trans_unit": "좌",
+      "base_amt": 18000.0,
+      "trans_amt": 216000.0,
+      "settle_amt": 216100.0,
+      "balance_amt": 325551.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 미국나스닥100TR 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "KODEX 반도체",
+      "prod_code": "091160",
+      "trans_dtime": "20260610154402",
+      "Bod": "매수",
+      "trans_no": "STKP0720001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 4.0,
+      "trans_unit": "좌",
+      "base_amt": 45000.0,
+      "trans_amt": 180000.0,
+      "settle_amt": 180100.0,
+      "balance_amt": 289551.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 반도체 매수",
+      "ex_code": "001"
+    }
+  ]
+}

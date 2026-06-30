@@ -1,0 +1,30 @@
+{
+  "persona_id": "P169",
+  "synthetic_name": "가상청년 P169",
+  "age": 34,
+  "birth_year": 1992,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "투자적극형",
+  "job": "증권사 주니어",
+  "region": "서울 관악구",
+  "monthly_income_krw": 4710000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2240000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.194,
+  "target_investment_rate": 0.219,
+  "risk_score": 5,
+  "risk_attitude": "공격투자형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "경제뉴스",
+    "배달선호",
+    "투자공유"
+  ],
+  "financial_goal": "배당소득",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 99,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

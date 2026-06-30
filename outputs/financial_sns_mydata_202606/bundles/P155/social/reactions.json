@@ -1,0 +1,26 @@
+{
+  "persona_id": "P155",
+  "reactions": [
+    {
+      "reaction_id": "P155-R001",
+      "actor_persona_id": "P155",
+      "target_persona_id": "P092",
+      "reaction_type": "question",
+      "created_at": "2026-06-13T11:58:00+09:00"
+    },
+    {
+      "reaction_id": "P155-R002",
+      "actor_persona_id": "P155",
+      "target_persona_id": "P096",
+      "reaction_type": "question",
+      "created_at": "2026-06-12T11:17:00+09:00"
+    },
+    {
+      "reaction_id": "P155-R003",
+      "actor_persona_id": "P155",
+      "target_persona_id": "P198",
+      "reaction_type": "cheer",
+      "created_at": "2026-06-17T22:54:00+09:00"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "x-api-tran-id": "P124-카드-014-P124-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 20,
+  "purchase_list": [
+    {
+      "approved_num": "AP124000017",
+      "merchant_name": "메가박스",
+      "merchant_regno": "766-82-69251",
+      "purchase_dtime": "20260630103817",
+      "purchase_amt": 46400.0,
+      "transaction_id": "P124-T0116"
+    },
+    {
+      "approved_num": "AP124000020",
+      "merchant_name": "우티",
+      "merchant_regno": "470-74-20736",
+      "purchase_dtime": "20260629093837",
+      "purchase_amt": 6900.0,
+      "transaction_id": "P124-T0124"
+    },
+    {
+      "approved_num": "AP124000018",
+      "merchant_name": "넷플릭스",
+      "merchant_regno": "664-44-77489",
+      "purchase_dtime": "20260628220634",
+      "purchase_amt": 19200.0,
+      "transaction_id": "P124-T0122"
+    },
+    {
+      "approved_num": "AP124000009",
+      "merchant_name": "담소소사골순대",
+      "merchant_regno": "471-40-17413",
+      "purchase_dtime": "20260623211912",
+      "purchase_amt": 14400.0,
+      "transaction_id": "P124-T0067"
+    },
+    {
+      "approved_num": "AP124000004",
+      "merchant_name": "온누리약국",
+      "merchant_regno": "671-57-61182",
+      "purchase_dtime": "20260622104305",
+      "purchase_amt": 21600.0,
+      "transaction_id": "P124-T0046"
+    },
+    {
+      "approved_num": "AP124000016",
+      "merchant_name": "우티",
+      "merchant_regno": "470-74-20736",
+      "purchase_dtime": "20260621080755",
+      "purchase_amt": 16700.0,
+      "transaction_id": "P124-T0102"
+    },
+    {
+      "approved_num": "AP124000006",
+      "merchant_name": "한솥도시락 신촌점",
+      "merchant_regno": "766-48-21989",
+      "purchase_dtime": "20260619181333",
+      "purchase_amt": 10500.0,
+      "transaction_id": "P124-T0053"
+    },
+    {
+      "approved_num": "AP124000005",
+      "merchant_name": "우티",
+      "merchant_regno": "470-74-20736",
+      "purchase_dtime": "20260619070121",
+      "purchase_amt": 12500.0,
+      "transaction_id": "P124-T0049"
+    },
+    {
+      "approved_num": "AP124000013",
+      "merchant_name": "마켓컬리",
+      "merchant_regno": "227-39-79055",
+      "purchase_dtime": "20260617193548",
+      "purchase_amt": 32200.0,
+      "transaction_id": "P124-T0082"
+    },
+    {
+      "approved_num": "AP124000003",
+      "merchant_name": "챗GPT",
+      "merchant_regno": "249-42-60103",
+      "purchase_dtime": "20260617130247",
+      "purchase_amt": 25800.0,
+      "transaction_id": "P124-T0042"
+    },
+    {
+      "approved_num": "AP124000007",
+      "merchant_name": "우티",
+      "merchant_regno": "470-74-20736",
+      "purchase_dtime": "20260616094941",
+      "purchase_amt": 13600.0,
+      "transaction_id": "P124-T0063"
+    },
+    {
+      "approved_num": "AP124000019",
+      "merchant_name": "카카오T 택시",
+      "merchant_regno": "794-86-66484",
+      "purchase_dtime": "20260615221225",
+      "purchase_amt": 10900.0,
+      "transaction_id": "P124-T0123"
+    },
+    {
+      "approved_num": "AP124000002",
+      "merchant_name": "인터파크티켓",
+      "merchant_regno": "167-88-16651",
+      "purchase_dtime": "20260614165453",
+      "purchase_amt": 40600.0,
+      "transaction_id": "P124-T0018"
+    },
+    {
+      "approved_num": "AP124000001",
+      "merchant_name": "마켓컬리",
+      "merchant_regno": "227-39-79055",
+      "purchase_dtime": "20260613125840",
+      "purchase_amt": 27200.0,
+      "transaction_id": "P124-T0015"
+    },
+    {
+      "approved_num": "AP124000011",
+      "merchant_name": "티머니",
+      "merchant_regno": "549-62-84126",
+      "purchase_dtime": "20260606220547",
+      "purchase_amt": 6400.0,
+      "transaction_id": "P124-T0076"
+    },
+    {
+      "approved_num": "AP124000008",
+      "merchant_name": "넷플릭스",
+      "merchant_regno": "664-44-77489",
+      "purchase_dtime": "20260606090125",
+      "purchase_amt": 13500.0,
+      "transaction_id": "P124-T0064"
+    },
+    {
+      "approved_num": "AP124000015",
+      "merchant_name": "이마트24",
+      "merchant_regno": "267-79-63920",
+      "purchase_dtime": "20260605174614",
+      "purchase_amt": 56700.0,
+      "transaction_id": "P124-T0091"
+    },
+    {
+      "approved_num": "AP124000012",
+      "merchant_name": "서울교통공사",
+      "merchant_regno": "306-50-80415",
+      "purchase_dtime": "20260605091833",
+      "purchase_amt": 12000.0,
+      "transaction_id": "P124-T0077"
+    },
+    {
+      "approved_num": "AP124000014",
+      "merchant_name": "넷플릭스",
+      "merchant_regno": "664-44-77489",
+      "purchase_dtime": "20260603091300",
+      "purchase_amt": 39200.0,
+      "transaction_id": "P124-T0083"
+    },
+    {
+      "approved_num": "AP124000010",
+      "merchant_name": "카카오T 택시",
+      "merchant_regno": "794-86-66484",
+      "purchase_dtime": "20260603091212",
+      "purchase_amt": 10500.0,
+      "transaction_id": "P124-T0074"
+    }
+  ]
+}

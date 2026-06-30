@@ -1,0 +1,89 @@
+{
+  "x-api-tran-id": "P166-카드-014-P166-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 10,
+  "purchase_list": [
+    {
+      "approved_num": "AP166000005",
+      "merchant_name": "CU",
+      "merchant_regno": "752-11-14973",
+      "purchase_dtime": "20260630163450",
+      "purchase_amt": 34000.0,
+      "transaction_id": "P166-T0045"
+    },
+    {
+      "approved_num": "AP166000002",
+      "merchant_name": "넷플릭스",
+      "merchant_regno": "283-47-36044",
+      "purchase_dtime": "20260629214105",
+      "purchase_amt": 27900.0,
+      "transaction_id": "P166-T0028"
+    },
+    {
+      "approved_num": "AP166000001",
+      "merchant_name": "이마트",
+      "merchant_regno": "676-12-61921",
+      "purchase_dtime": "20260627091758",
+      "purchase_amt": 49200.0,
+      "transaction_id": "P166-T0014"
+    },
+    {
+      "approved_num": "AP166000004",
+      "merchant_name": "노티드",
+      "merchant_regno": "471-63-73167",
+      "purchase_dtime": "20260627084233",
+      "purchase_amt": 8300.0,
+      "transaction_id": "P166-T0034"
+    },
+    {
+      "approved_num": "AP166000010",
+      "merchant_name": "마켓컬리",
+      "merchant_regno": "348-79-62819",
+      "purchase_dtime": "20260626212801",
+      "purchase_amt": 28500.0,
+      "transaction_id": "P166-T0070"
+    },
+    {
+      "approved_num": "AP166000003",
+      "merchant_name": "담소소사골순대",
+      "merchant_regno": "230-28-47733",
+      "purchase_dtime": "20260626110255",
+      "purchase_amt": 16100.0,
+      "transaction_id": "P166-T0030"
+    },
+    {
+      "approved_num": "AP166000006",
+      "merchant_name": "스타벅스 합정점",
+      "merchant_regno": "111-34-18308",
+      "purchase_dtime": "20260621215955",
+      "purchase_amt": 6000.0,
+      "transaction_id": "P166-T0046"
+    },
+    {
+      "approved_num": "AP166000007",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "493-43-39384",
+      "purchase_dtime": "20260621101624",
+      "purchase_amt": 57600.0,
+      "transaction_id": "P166-T0047"
+    },
+    {
+      "approved_num": "AP166000009",
+      "merchant_name": "클래스101",
+      "merchant_regno": "205-70-68100",
+      "purchase_dtime": "20260619221302",
+      "purchase_amt": 56800.0,
+      "transaction_id": "P166-T0066"
+    },
+    {
+      "approved_num": "AP166000008",
+      "merchant_name": "패스트캠퍼스",
+      "merchant_regno": "644-64-83518",
+      "purchase_dtime": "20260608105831",
+      "purchase_amt": 51700.0,
+      "transaction_id": "P166-T0059"
+    }
+  ]
+}

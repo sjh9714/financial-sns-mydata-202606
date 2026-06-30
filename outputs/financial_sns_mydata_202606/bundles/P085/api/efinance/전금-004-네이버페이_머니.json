@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P085-전금-004-P085-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP085네00007",
+      "trans_dtime": "20260617171437",
+      "trans_no": "WP08500001",
+      "currency_code": "KRW",
+      "trans_amt": -56600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "GS25",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP085네00010",
+      "trans_dtime": "20260611220242",
+      "trans_no": "WP08500003",
+      "currency_code": "KRW",
+      "trans_amt": -23100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "세븐일레븐",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP085네00009",
+      "trans_dtime": "20260611165614",
+      "trans_no": "WP08500002",
+      "currency_code": "KRW",
+      "trans_amt": -136100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    }
+  ]
+}

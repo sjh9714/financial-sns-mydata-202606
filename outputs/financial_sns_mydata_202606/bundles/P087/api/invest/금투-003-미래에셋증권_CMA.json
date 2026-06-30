@@ -1,0 +1,45 @@
+{
+  "x-api-tran-id": "P087-금투-003-P087-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "prod_name": "NAVER",
+      "prod_code": "035420",
+      "trans_dtime": "20260616125027",
+      "Bod": "매수",
+      "trans_no": "STKP0870002",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 1.0,
+      "trans_unit": "주",
+      "base_amt": 185000.0,
+      "trans_amt": 185000.0,
+      "settle_amt": 185100.0,
+      "balance_amt": 628038.0,
+      "currency_code": "KRW",
+      "trans_memo": "NAVER 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "카카오",
+      "prod_code": "035720",
+      "trans_dtime": "20260614144701",
+      "Bod": "매수",
+      "trans_no": "STKP0870001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 4.0,
+      "trans_unit": "주",
+      "base_amt": 48000.0,
+      "trans_amt": 192000.0,
+      "settle_amt": 192100.0,
+      "balance_amt": 635038.0,
+      "currency_code": "KRW",
+      "trans_memo": "카카오 매수",
+      "ex_code": "001"
+    }
+  ]
+}

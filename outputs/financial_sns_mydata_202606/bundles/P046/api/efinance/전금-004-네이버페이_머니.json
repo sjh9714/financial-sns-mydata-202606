@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P046-전금-004-P046-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP046네00002",
+      "trans_dtime": "20260621223852",
+      "trans_no": "WP04600002",
+      "currency_code": "KRW",
+      "trans_amt": -49600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP046네00001",
+      "trans_dtime": "20260603235026",
+      "trans_no": "WP04600001",
+      "currency_code": "KRW",
+      "trans_amt": -46200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP046네00005",
+      "trans_dtime": "20260601132047",
+      "trans_no": "WP04600003",
+      "currency_code": "KRW",
+      "trans_amt": -15500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "김밥천국 홍대점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "persona_id": "P015",
+  "posts": [
+    {
+      "post_id": "P015-POST-001",
+      "persona_id": "P015",
+      "handle": "fin_p015_folio",
+      "created_at": "2026-06-26T18:02:00+09:00",
+      "post_type": "saving_milestone",
+      "visibility": "followers",
+      "source": "derived_from_ledger",
+      "title": "이번 달 저축률 기록",
+      "body": "6월 수입 대비 저축률 12.2% 달성",
+      "metrics": {
+        "like_count": 46,
+        "comment_count": 13,
+        "save_count": 9
+      }
+    },
+    {
+      "post_id": "P015-POST-002",
+      "persona_id": "P015",
+      "handle": "fin_p015_folio",
+      "created_at": "2026-06-13T09:02:00+09:00",
+      "post_type": "investment_trade",
+      "visibility": "public",
+      "source": "derived_from_ledger",
+      "title": "포트폴리오 업데이트",
+      "body": "6월 투자 매수 285,200원, 보유 종목 2개",
+      "metrics": {
+        "like_count": 38,
+        "comment_count": 2,
+        "save_count": 12
+      }
+    },
+    {
+      "post_id": "P015-POST-003",
+      "persona_id": "P015",
+      "handle": "fin_p015_folio",
+      "created_at": "2026-06-10T18:30:00+09:00",
+      "post_type": "spend_pattern",
+      "visibility": "public",
+      "source": "derived_from_ledger",
+      "title": "소비 카테고리 회고",
+      "body": "가장 큰 소비 카테고리는 식비",
+      "metrics": {
+        "like_count": 9,
+        "comment_count": 11,
+        "save_count": 5
+      }
+    }
+  ]
+}

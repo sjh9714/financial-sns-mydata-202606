@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P146-전금-004-P146-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP146네00004",
+      "trans_dtime": "20260629160359",
+      "trans_no": "WP14600002",
+      "currency_code": "KRW",
+      "trans_amt": -107600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "에이블리",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP146네00002",
+      "trans_dtime": "20260612193527",
+      "trans_no": "WP14600001",
+      "currency_code": "KRW",
+      "trans_amt": -23900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "주식회사 우아한형제들",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

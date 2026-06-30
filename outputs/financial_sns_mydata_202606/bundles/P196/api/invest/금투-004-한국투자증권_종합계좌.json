@@ -1,0 +1,59 @@
+{
+  "x-api-tran-id": "P196-금투-004-P196-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "search_timestamp": "20260630235900",
+  "next_page": null,
+  "base_date": "20260630",
+  "prod_cnt": 3,
+  "prod_list": [
+    {
+      "prod_type": "101",
+      "prod_type_detail": "001",
+      "prod_code": "035420",
+      "ex_code": "001",
+      "prod_name": "NAVER",
+      "pos_type": "01",
+      "credit_type": "00",
+      "is_tax_benefits": false,
+      "purchase_amt": 1110000.0,
+      "holding_num": 6.0,
+      "trans_unit": "주",
+      "eval_amt": 1206820.852,
+      "is_execution": true,
+      "currency_code": "KRW"
+    },
+    {
+      "prod_type": "101",
+      "prod_type_detail": "001",
+      "prod_code": "373220",
+      "ex_code": "001",
+      "prod_name": "LG에너지솔루션",
+      "pos_type": "01",
+      "credit_type": "00",
+      "is_tax_benefits": false,
+      "purchase_amt": 1050000.0,
+      "holding_num": 3.0,
+      "trans_unit": "주",
+      "eval_amt": 1049869.357,
+      "is_execution": true,
+      "currency_code": "KRW"
+    },
+    {
+      "prod_type": "201",
+      "prod_type_detail": "001",
+      "prod_code": "379810",
+      "ex_code": "001",
+      "prod_name": "KODEX 미국나스닥100TR",
+      "pos_type": "01",
+      "credit_type": "00",
+      "is_tax_benefits": true,
+      "purchase_amt": 1152000.0,
+      "holding_num": 64.0,
+      "trans_unit": "좌",
+      "eval_amt": 1226204.374,
+      "is_execution": true,
+      "currency_code": "KRW"
+    }
+  ]
+}

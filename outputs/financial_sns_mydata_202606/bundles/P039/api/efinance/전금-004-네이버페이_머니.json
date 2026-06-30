@@ -1,0 +1,22 @@
+{
+  "x-api-tran-id": "P039-전금-004-P039-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 1,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP039네00003",
+      "trans_dtime": "20260628084430",
+      "trans_no": "WP03900001",
+      "currency_code": "KRW",
+      "trans_amt": -7900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

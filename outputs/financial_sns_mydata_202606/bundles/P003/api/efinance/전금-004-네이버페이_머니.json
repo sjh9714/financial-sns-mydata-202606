@@ -1,0 +1,74 @@
+{
+  "x-api-tran-id": "P003-전금-004-P003-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 5,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP003네00003",
+      "trans_dtime": "20260626234659",
+      "trans_no": "WP00300002",
+      "currency_code": "KRW",
+      "trans_amt": -33500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP003네00011",
+      "trans_dtime": "20260611122956",
+      "trans_no": "WP00300005",
+      "currency_code": "KRW",
+      "trans_amt": -3700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "파리바게뜨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP003네00002",
+      "trans_dtime": "20260607233633",
+      "trans_no": "WP00300001",
+      "currency_code": "KRW",
+      "trans_amt": -12400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "타다",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP003네00009",
+      "trans_dtime": "20260605123239",
+      "trans_no": "WP00300003",
+      "currency_code": "KRW",
+      "trans_amt": -37100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "클래스101",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP003네00010",
+      "trans_dtime": "20260601133453",
+      "trans_no": "WP00300004",
+      "currency_code": "KRW",
+      "trans_amt": -3500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "던킨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

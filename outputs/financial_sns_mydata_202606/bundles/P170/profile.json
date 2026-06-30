@@ -1,0 +1,30 @@
+{
+  "persona_id": "P170",
+  "synthetic_name": "가상청년 P170",
+  "age": 28,
+  "birth_year": 1998,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "투자적극형",
+  "job": "데이터 엔지니어",
+  "region": "인천 부평구",
+  "monthly_income_krw": 3040000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 1850000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.305,
+  "target_investment_rate": 0.307,
+  "risk_score": 5,
+  "risk_attitude": "공격투자형",
+  "household_type": "부모동거",
+  "household_size": 4,
+  "lifestyle_tags": [
+    "경제뉴스",
+    "리밸런싱",
+    "소액투자"
+  ],
+  "financial_goal": "파이어",
+  "sns_tendency": "목표공유형",
+  "target_ledger_rows": 117,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

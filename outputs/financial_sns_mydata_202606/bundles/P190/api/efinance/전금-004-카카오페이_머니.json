@@ -1,0 +1,74 @@
+{
+  "x-api-tran-id": "P190-전금-004-P190-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 5,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP190카00011",
+      "trans_dtime": "20260624092749",
+      "trans_no": "WP19000004",
+      "currency_code": "KRW",
+      "trans_amt": -6100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "우티",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP190카00006",
+      "trans_dtime": "20260612231641",
+      "trans_no": "WP19000002",
+      "currency_code": "KRW",
+      "trans_amt": -27600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "플랜 B",
+      "trans_title": "약국 결제",
+      "trans_category": "의료/건강"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP190카00019",
+      "trans_dtime": "20260612182634",
+      "trans_no": "WP19000005",
+      "currency_code": "KRW",
+      "trans_amt": -4200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "스타벅스 합정점",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP190카00009",
+      "trans_dtime": "20260609104426",
+      "trans_no": "WP19000003",
+      "currency_code": "KRW",
+      "trans_amt": -35300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP190카00002",
+      "trans_dtime": "20260605203802",
+      "trans_no": "WP19000001",
+      "currency_code": "KRW",
+      "trans_amt": -46300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "CU",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

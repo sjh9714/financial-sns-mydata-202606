@@ -1,0 +1,30 @@
+{
+  "persona_id": "P173",
+  "synthetic_name": "가상청년 P173",
+  "age": 28,
+  "birth_year": 1998,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "투자적극형",
+  "job": "증권사 주니어",
+  "region": "서울 성동구",
+  "monthly_income_krw": 4560000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 1660000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.131,
+  "target_investment_rate": 0.338,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "부모동거",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "경제뉴스",
+    "리밸런싱",
+    "배달선호"
+  ],
+  "financial_goal": "포트폴리오 성장",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 129,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

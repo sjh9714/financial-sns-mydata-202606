@@ -1,0 +1,73 @@
+{
+  "x-api-tran-id": "P059-카드-014-P059-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 8,
+  "purchase_list": [
+    {
+      "approved_num": "AP059000005",
+      "merchant_name": "컴포즈커피",
+      "merchant_regno": "115-80-47293",
+      "purchase_dtime": "20260630113921",
+      "purchase_amt": 5400.0,
+      "transaction_id": "P059-T0048"
+    },
+    {
+      "approved_num": "AP059000006",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "692-71-24199",
+      "purchase_dtime": "20260627191100",
+      "purchase_amt": 12800.0,
+      "transaction_id": "P059-T0052"
+    },
+    {
+      "approved_num": "AP059000001",
+      "merchant_name": "구독 서비스",
+      "merchant_regno": "753-69-59834",
+      "purchase_dtime": "20260616181936",
+      "purchase_amt": 43200.0,
+      "transaction_id": "P059-T0006"
+    },
+    {
+      "approved_num": "AP059000008",
+      "merchant_name": "한솥도시락 신촌점",
+      "merchant_regno": "733-54-86479",
+      "purchase_dtime": "20260613135620",
+      "purchase_amt": 9500.0,
+      "transaction_id": "P059-T0058"
+    },
+    {
+      "approved_num": "AP059000003",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "639-18-83518",
+      "purchase_dtime": "20260611121817",
+      "purchase_amt": 101000.0,
+      "transaction_id": "P059-T0039"
+    },
+    {
+      "approved_num": "AP059000007",
+      "merchant_name": "아이엠택시",
+      "merchant_regno": "547-73-84372",
+      "purchase_dtime": "20260610220554",
+      "purchase_amt": 18000.0,
+      "transaction_id": "P059-T0053"
+    },
+    {
+      "approved_num": "AP059000004",
+      "merchant_name": "카카오버스",
+      "merchant_regno": "100-10-49692",
+      "purchase_dtime": "20260607070447",
+      "purchase_amt": 25000.0,
+      "transaction_id": "P059-T0042"
+    },
+    {
+      "approved_num": "AP059000002",
+      "merchant_name": "노티드",
+      "merchant_regno": "686-36-65983",
+      "purchase_dtime": "20260604184638",
+      "purchase_amt": 5900.0,
+      "transaction_id": "P059-T0026"
+    }
+  ]
+}

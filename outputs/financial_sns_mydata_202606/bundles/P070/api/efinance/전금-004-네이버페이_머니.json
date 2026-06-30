@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P070-전금-004-P070-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP070네00001",
+      "trans_dtime": "20260617174057",
+      "trans_no": "WP07000001",
+      "currency_code": "KRW",
+      "trans_amt": -80500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "에이블리",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP070네00008",
+      "trans_dtime": "20260605182338",
+      "trans_no": "WP07000002",
+      "currency_code": "KRW",
+      "trans_amt": -47600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "해커스",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    }
+  ]
+}

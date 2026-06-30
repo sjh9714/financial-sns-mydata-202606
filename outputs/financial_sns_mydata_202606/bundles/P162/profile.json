@@ -1,0 +1,30 @@
+{
+  "persona_id": "P162",
+  "synthetic_name": "가상청년 P162",
+  "age": 25,
+  "birth_year": 2001,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "프리랜서",
+  "job": "프리랜서 디자이너",
+  "region": "서울 관악구",
+  "monthly_income_krw": 4200000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2180000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.115,
+  "target_investment_rate": 0.042,
+  "risk_score": 3,
+  "risk_attitude": "중립형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "배달선호",
+    "불규칙수입",
+    "자기계발"
+  ],
+  "financial_goal": "장비구매",
+  "sns_tendency": "눈팅형",
+  "target_ledger_rows": 91,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

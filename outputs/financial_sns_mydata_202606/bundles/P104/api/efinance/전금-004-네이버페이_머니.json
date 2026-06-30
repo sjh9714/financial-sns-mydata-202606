@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P104-전금-004-P104-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP104네00001",
+      "trans_dtime": "20260617101401",
+      "trans_no": "WP10400001",
+      "currency_code": "KRW",
+      "trans_amt": -37700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "CU",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP104네00004",
+      "trans_dtime": "20260611093732",
+      "trans_no": "WP10400002",
+      "currency_code": "KRW",
+      "trans_amt": -16600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP104네00006",
+      "trans_dtime": "20260605222033",
+      "trans_no": "WP10400003",
+      "currency_code": "KRW",
+      "trans_amt": -25500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP104네00008",
+      "trans_dtime": "20260603080046",
+      "trans_no": "WP10400004",
+      "currency_code": "KRW",
+      "trans_amt": -4400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "스타벅스 합정점",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

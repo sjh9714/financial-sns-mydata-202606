@@ -1,0 +1,30 @@
+{
+  "persona_id": "P140",
+  "synthetic_name": "가상청년 P140",
+  "age": 27,
+  "birth_year": 1999,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "소비·구독형",
+  "job": "영상 편집자",
+  "region": "대전 서구",
+  "monthly_income_krw": 2940000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 2000000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.062,
+  "target_investment_rate": 0.038,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "구독다수",
+    "배달선호",
+    "온라인쇼핑"
+  ],
+  "financial_goal": "취미생활",
+  "sns_tendency": "소비인사이트형",
+  "target_ledger_rows": 179,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

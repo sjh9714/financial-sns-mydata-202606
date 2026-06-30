@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P081-전금-004-P081-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP081네00009",
+      "trans_dtime": "20260627124350",
+      "trans_no": "WP08100004",
+      "currency_code": "KRW",
+      "trans_amt": -216600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "여기어때",
+      "trans_title": "숙박 결제",
+      "trans_category": "여행/숙박"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP081네00001",
+      "trans_dtime": "20260617143649",
+      "trans_no": "WP08100001",
+      "currency_code": "KRW",
+      "trans_amt": -92200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "29CM",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP081네00004",
+      "trans_dtime": "20260617102926",
+      "trans_no": "WP08100003",
+      "currency_code": "KRW",
+      "trans_amt": -64900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP081네00003",
+      "trans_dtime": "20260610082039",
+      "trans_no": "WP08100002",
+      "currency_code": "KRW",
+      "trans_amt": -22600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "김밥천국 홍대점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

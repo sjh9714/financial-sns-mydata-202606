@@ -1,0 +1,87 @@
+{
+  "x-api-tran-id": "P119-전금-004-P119-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 6,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP119네00001",
+      "trans_dtime": "20260624232045",
+      "trans_no": "WP11900001",
+      "currency_code": "KRW",
+      "trans_amt": -8500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP119네00003",
+      "trans_dtime": "20260623070410",
+      "trans_no": "WP11900002",
+      "currency_code": "KRW",
+      "trans_amt": -11600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "아이엠택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP119네00006",
+      "trans_dtime": "20260621204813",
+      "trans_no": "WP11900005",
+      "currency_code": "KRW",
+      "trans_amt": -44400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "마켓컬리",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP119네00005",
+      "trans_dtime": "20260620084023",
+      "trans_no": "WP11900004",
+      "currency_code": "KRW",
+      "trans_amt": -7300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "모바일티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP119네00007",
+      "trans_dtime": "20260618153901",
+      "trans_no": "WP11900006",
+      "currency_code": "KRW",
+      "trans_amt": -79300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "지그재그",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP119네00004",
+      "trans_dtime": "20260601231542",
+      "trans_no": "WP11900003",
+      "currency_code": "KRW",
+      "trans_amt": -60000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

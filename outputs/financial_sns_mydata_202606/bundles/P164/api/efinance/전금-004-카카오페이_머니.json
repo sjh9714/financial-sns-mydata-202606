@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P164-전금-004-P164-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP164카00003",
+      "trans_dtime": "20260603183649",
+      "trans_no": "WP16400001",
+      "currency_code": "KRW",
+      "trans_amt": -44800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "지그재그",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP164카00004",
+      "trans_dtime": "20260601194657",
+      "trans_no": "WP16400002",
+      "currency_code": "KRW",
+      "trans_amt": -70600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "유튜브 프리미엄",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

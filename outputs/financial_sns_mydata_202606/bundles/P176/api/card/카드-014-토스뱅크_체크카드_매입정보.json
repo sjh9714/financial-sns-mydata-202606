@@ -1,0 +1,153 @@
+{
+  "x-api-tran-id": "P176-카드-014-P176-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 18,
+  "purchase_list": [
+    {
+      "approved_num": "AP176000014",
+      "merchant_name": "컴포즈커피",
+      "merchant_regno": "784-27-88637",
+      "purchase_dtime": "20260629201519",
+      "purchase_amt": 6200.0,
+      "transaction_id": "P176-T0057"
+    },
+    {
+      "approved_num": "AP176000018",
+      "merchant_name": "모바일티머니",
+      "merchant_regno": "456-15-19812",
+      "purchase_dtime": "20260628185738",
+      "purchase_amt": 26500.0,
+      "transaction_id": "P176-T0077"
+    },
+    {
+      "approved_num": "AP176000003",
+      "merchant_name": "이디야커피",
+      "merchant_regno": "537-15-55018",
+      "purchase_dtime": "20260623194133",
+      "purchase_amt": 8400.0,
+      "transaction_id": "P176-T0022"
+    },
+    {
+      "approved_num": "AP176000015",
+      "merchant_name": "아고다",
+      "merchant_regno": "798-86-56392",
+      "purchase_dtime": "20260621135130",
+      "purchase_amt": 206600.0,
+      "transaction_id": "P176-T0066"
+    },
+    {
+      "approved_num": "AP176000007",
+      "merchant_name": "클래스101",
+      "merchant_regno": "406-42-51808",
+      "purchase_dtime": "20260620215628",
+      "purchase_amt": 71500.0,
+      "transaction_id": "P176-T0035"
+    },
+    {
+      "approved_num": "AP176000012",
+      "merchant_name": "배스킨라빈스",
+      "merchant_regno": "676-23-40198",
+      "purchase_dtime": "20260620211037",
+      "purchase_amt": 9200.0,
+      "transaction_id": "P176-T0051"
+    },
+    {
+      "approved_num": "AP176000004",
+      "merchant_name": "컴포즈커피",
+      "merchant_regno": "784-27-88637",
+      "purchase_dtime": "20260620111812",
+      "purchase_amt": 9300.0,
+      "transaction_id": "P176-T0025"
+    },
+    {
+      "approved_num": "AP176000010",
+      "merchant_name": "패스트캠퍼스",
+      "merchant_regno": "629-39-83763",
+      "purchase_dtime": "20260619190715",
+      "purchase_amt": 129200.0,
+      "transaction_id": "P176-T0046"
+    },
+    {
+      "approved_num": "AP176000001",
+      "merchant_name": "이디야커피",
+      "merchant_regno": "537-15-55018",
+      "purchase_dtime": "20260619184929",
+      "purchase_amt": 5300.0,
+      "transaction_id": "P176-T0016"
+    },
+    {
+      "approved_num": "AP176000017",
+      "merchant_name": "우티",
+      "merchant_regno": "763-47-79897",
+      "purchase_dtime": "20260618181212",
+      "purchase_amt": 15000.0,
+      "transaction_id": "P176-T0075"
+    },
+    {
+      "approved_num": "AP176000009",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "143-73-54926",
+      "purchase_dtime": "20260617102757",
+      "purchase_amt": 55200.0,
+      "transaction_id": "P176-T0045"
+    },
+    {
+      "approved_num": "AP176000016",
+      "merchant_name": "한솥도시락 신촌점",
+      "merchant_regno": "560-30-67820",
+      "purchase_dtime": "20260615193702",
+      "purchase_amt": 12600.0,
+      "transaction_id": "P176-T0071"
+    },
+    {
+      "approved_num": "AP176000013",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "311-74-81954",
+      "purchase_dtime": "20260612082236",
+      "purchase_amt": 9300.0,
+      "transaction_id": "P176-T0056"
+    },
+    {
+      "approved_num": "AP176000005",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "418-55-82639",
+      "purchase_dtime": "20260608230152",
+      "purchase_amt": 59800.0,
+      "transaction_id": "P176-T0031"
+    },
+    {
+      "approved_num": "AP176000006",
+      "merchant_name": "아고다",
+      "merchant_regno": "798-86-56392",
+      "purchase_dtime": "20260606110835",
+      "purchase_amt": 93500.0,
+      "transaction_id": "P176-T0034"
+    },
+    {
+      "approved_num": "AP176000011",
+      "merchant_name": "해커스",
+      "merchant_regno": "791-85-22299",
+      "purchase_dtime": "20260605143610",
+      "purchase_amt": 154800.0,
+      "transaction_id": "P176-T0047"
+    },
+    {
+      "approved_num": "AP176000008",
+      "merchant_name": "이마트",
+      "merchant_regno": "659-21-32689",
+      "purchase_dtime": "20260604204017",
+      "purchase_amt": 36500.0,
+      "transaction_id": "P176-T0040"
+    },
+    {
+      "approved_num": "AP176000002",
+      "merchant_name": "멜론",
+      "merchant_regno": "581-67-55452",
+      "purchase_dtime": "20260604132849",
+      "purchase_amt": 19500.0,
+      "transaction_id": "P176-T0021"
+    }
+  ]
+}

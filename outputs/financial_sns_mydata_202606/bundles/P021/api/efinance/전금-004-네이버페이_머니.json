@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P021-전금-004-P021-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP021네00004",
+      "trans_dtime": "20260623111842",
+      "trans_no": "WP02100002",
+      "currency_code": "KRW",
+      "trans_amt": -30500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "GS25",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP021네00006",
+      "trans_dtime": "20260611194136",
+      "trans_no": "WP02100003",
+      "currency_code": "KRW",
+      "trans_amt": -12600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배민스토어",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP021네00007",
+      "trans_dtime": "20260606122601",
+      "trans_no": "WP02100004",
+      "currency_code": "KRW",
+      "trans_amt": -37100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가박스",
+      "trans_title": "공연/영화 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP021네00003",
+      "trans_dtime": "20260604213136",
+      "trans_no": "WP02100001",
+      "currency_code": "KRW",
+      "trans_amt": -15300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "인터파크티켓",
+      "trans_title": "공연/영화 결제",
+      "trans_category": "문화/여가"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "x-api-tran-id": "P106-금투-003-P106-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "prod_name": "NAVER",
+      "prod_code": "035420",
+      "trans_dtime": "20260612145945",
+      "Bod": "매수",
+      "trans_no": "STKP1060001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 1.0,
+      "trans_unit": "주",
+      "base_amt": 185000.0,
+      "trans_amt": 185000.0,
+      "settle_amt": 185100.0,
+      "balance_amt": 619846.0,
+      "currency_code": "KRW",
+      "trans_memo": "NAVER 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "카카오",
+      "prod_code": "035720",
+      "trans_dtime": "20260612120513",
+      "Bod": "매수",
+      "trans_no": "STKP1060003",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 7.0,
+      "trans_unit": "주",
+      "base_amt": 48000.0,
+      "trans_amt": 336000.0,
+      "settle_amt": 336100.0,
+      "balance_amt": 770846.0,
+      "currency_code": "KRW",
+      "trans_memo": "카카오 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "KODEX 미국나스닥100TR",
+      "prod_code": "379810",
+      "trans_dtime": "20260609124231",
+      "Bod": "매수",
+      "trans_no": "STKP1060002",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 19.0,
+      "trans_unit": "좌",
+      "base_amt": 18000.0,
+      "trans_amt": 342000.0,
+      "settle_amt": 342100.0,
+      "balance_amt": 776846.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 미국나스닥100TR 매수",
+      "ex_code": "001"
+    }
+  ]
+}

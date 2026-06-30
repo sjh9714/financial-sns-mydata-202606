@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P127-전금-004-P127-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP127카00005",
+      "trans_dtime": "20260627110520",
+      "trans_no": "WP12700002",
+      "currency_code": "KRW",
+      "trans_amt": -44000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP127카00011",
+      "trans_dtime": "20260624212454",
+      "trans_no": "WP12700003",
+      "currency_code": "KRW",
+      "trans_amt": -3800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가MGC커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP127카00003",
+      "trans_dtime": "20260612082824",
+      "trans_no": "WP12700001",
+      "currency_code": "KRW",
+      "trans_amt": -20100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

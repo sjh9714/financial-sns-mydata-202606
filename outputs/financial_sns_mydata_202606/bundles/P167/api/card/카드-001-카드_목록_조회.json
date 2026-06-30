@@ -1,0 +1,34 @@
+{
+  "x-api-tran-id": "P167-카드-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "search_timestamp": "20260630235900",
+  "next_page": null,
+  "card_cnt": 3,
+  "card_list": [
+    {
+      "card_id": "P167-CARD-01",
+      "card_num": "91044-****-****-5286",
+      "is_consent": true,
+      "card_name": "하나 원더 체크카드",
+      "card_member": "1",
+      "card_type": "02"
+    },
+    {
+      "card_id": "P167-CARD-02",
+      "card_num": "97551-****-****-4558",
+      "is_consent": true,
+      "card_name": "신한 Deep Dream 체크",
+      "card_member": "1",
+      "card_type": "02"
+    },
+    {
+      "card_id": "P167-CARD-03",
+      "card_num": "94112-****-****-1945",
+      "is_consent": true,
+      "card_name": "토스뱅크 체크카드",
+      "card_member": "1",
+      "card_type": "02"
+    }
+  ]
+}

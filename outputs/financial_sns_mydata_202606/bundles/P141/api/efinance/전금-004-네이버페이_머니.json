@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P141-전금-004-P141-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP141네00004",
+      "trans_dtime": "20260622125052",
+      "trans_no": "WP14100001",
+      "currency_code": "KRW",
+      "trans_amt": -65600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "인터파크티켓",
+      "trans_title": "공연/영화 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP141네00006",
+      "trans_dtime": "20260612121614",
+      "trans_no": "WP14100002",
+      "currency_code": "KRW",
+      "trans_amt": -22300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "김밥천국 홍대점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP141네00007",
+      "trans_dtime": "20260609204643",
+      "trans_no": "WP14100003",
+      "currency_code": "KRW",
+      "trans_amt": -7800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배스킨라빈스",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP141네00011",
+      "trans_dtime": "20260602233000",
+      "trans_no": "WP14100004",
+      "currency_code": "KRW",
+      "trans_amt": -32900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "우티",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

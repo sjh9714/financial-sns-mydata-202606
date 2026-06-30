@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P150-전금-004-P150-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP150카00001",
+      "trans_dtime": "20260627191955",
+      "trans_no": "WP15000001",
+      "currency_code": "KRW",
+      "trans_amt": -5100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노티드",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP150카00003",
+      "trans_dtime": "20260622201443",
+      "trans_no": "WP15000002",
+      "currency_code": "KRW",
+      "trans_amt": -12400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노티드",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP150카00009",
+      "trans_dtime": "20260618122440",
+      "trans_no": "WP15000003",
+      "currency_code": "KRW",
+      "trans_amt": -29000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "교보문고",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP150카00010",
+      "trans_dtime": "20260611222350",
+      "trans_no": "WP15000004",
+      "currency_code": "KRW",
+      "trans_amt": -40200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P103-전금-004-P103-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP103카00008",
+      "trans_dtime": "20260629105028",
+      "trans_no": "WP10300003",
+      "currency_code": "KRW",
+      "trans_amt": -17300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP103카00004",
+      "trans_dtime": "20260627091210",
+      "trans_no": "WP10300002",
+      "currency_code": "KRW",
+      "trans_amt": -32500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP103카00003",
+      "trans_dtime": "20260617221710",
+      "trans_no": "WP10300001",
+      "currency_code": "KRW",
+      "trans_amt": -29300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "GS25",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP103카00009",
+      "trans_dtime": "20260614180235",
+      "trans_no": "WP10300004",
+      "currency_code": "KRW",
+      "trans_amt": -135800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "여기어때",
+      "trans_title": "숙박 결제",
+      "trans_category": "여행/숙박"
+    }
+  ]
+}

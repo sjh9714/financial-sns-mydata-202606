@@ -1,0 +1,297 @@
+{
+  "x-api-tran-id": "P194-카드-014-P194-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 36,
+  "purchase_list": [
+    {
+      "approved_num": "AP194000017",
+      "merchant_name": "이마트24",
+      "merchant_regno": "519-69-84493",
+      "purchase_dtime": "20260630221855",
+      "purchase_amt": 21500.0,
+      "transaction_id": "P194-T0069"
+    },
+    {
+      "approved_num": "AP194000027",
+      "merchant_name": "인프런",
+      "merchant_regno": "620-50-85609",
+      "purchase_dtime": "20260630210201",
+      "purchase_amt": 98500.0,
+      "transaction_id": "P194-T0110"
+    },
+    {
+      "approved_num": "AP194000036",
+      "merchant_name": "챗GPT",
+      "merchant_regno": "228-39-33086",
+      "purchase_dtime": "20260630194226",
+      "purchase_amt": 21800.0,
+      "transaction_id": "P194-T0142"
+    },
+    {
+      "approved_num": "AP194000013",
+      "merchant_name": "메가박스",
+      "merchant_regno": "622-84-16686",
+      "purchase_dtime": "20260630144403",
+      "purchase_amt": 27000.0,
+      "transaction_id": "P194-T0051"
+    },
+    {
+      "approved_num": "AP194000005",
+      "merchant_name": "교보문고",
+      "merchant_regno": "335-20-33218",
+      "purchase_dtime": "20260630134556",
+      "purchase_amt": 16400.0,
+      "transaction_id": "P194-T0020"
+    },
+    {
+      "approved_num": "AP194000015",
+      "merchant_name": "클래스101",
+      "merchant_regno": "879-41-75721",
+      "purchase_dtime": "20260630131221",
+      "purchase_amt": 61200.0,
+      "transaction_id": "P194-T0063"
+    },
+    {
+      "approved_num": "AP194000018",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "578-21-48621",
+      "purchase_dtime": "20260629201614",
+      "purchase_amt": 23600.0,
+      "transaction_id": "P194-T0070"
+    },
+    {
+      "approved_num": "AP194000029",
+      "merchant_name": "티머니",
+      "merchant_regno": "195-46-62315",
+      "purchase_dtime": "20260629071317",
+      "purchase_amt": 9400.0,
+      "transaction_id": "P194-T0120"
+    },
+    {
+      "approved_num": "AP194000032",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "251-43-29396",
+      "purchase_dtime": "20260628132909",
+      "purchase_amt": 16500.0,
+      "transaction_id": "P194-T0126"
+    },
+    {
+      "approved_num": "AP194000016",
+      "merchant_name": "GS25",
+      "merchant_regno": "857-15-71042",
+      "purchase_dtime": "20260628130024",
+      "purchase_amt": 21200.0,
+      "transaction_id": "P194-T0066"
+    },
+    {
+      "approved_num": "AP194000012",
+      "merchant_name": "CU",
+      "merchant_regno": "844-13-72395",
+      "purchase_dtime": "20260627220643",
+      "purchase_amt": 23400.0,
+      "transaction_id": "P194-T0050"
+    },
+    {
+      "approved_num": "AP194000001",
+      "merchant_name": "구독 서비스",
+      "merchant_regno": "325-19-62140",
+      "purchase_dtime": "20260626182756",
+      "purchase_amt": 24400.0,
+      "transaction_id": "P194-T0005"
+    },
+    {
+      "approved_num": "AP194000007",
+      "merchant_name": "CU",
+      "merchant_regno": "844-13-72395",
+      "purchase_dtime": "20260626144813",
+      "purchase_amt": 49300.0,
+      "transaction_id": "P194-T0033"
+    },
+    {
+      "approved_num": "AP194000022",
+      "merchant_name": "유튜브 프리미엄",
+      "merchant_regno": "195-23-62684",
+      "purchase_dtime": "20260625181810",
+      "purchase_amt": 13700.0,
+      "transaction_id": "P194-T0093"
+    },
+    {
+      "approved_num": "AP194000008",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "251-43-29396",
+      "purchase_dtime": "20260624095345",
+      "purchase_amt": 15300.0,
+      "transaction_id": "P194-T0036"
+    },
+    {
+      "approved_num": "AP194000003",
+      "merchant_name": "요기요",
+      "merchant_regno": "777-26-23221",
+      "purchase_dtime": "20260622094612",
+      "purchase_amt": 13600.0,
+      "transaction_id": "P194-T0012"
+    },
+    {
+      "approved_num": "AP194000019",
+      "merchant_name": "요기요",
+      "merchant_regno": "777-26-23221",
+      "purchase_dtime": "20260621205613",
+      "purchase_amt": 14900.0,
+      "transaction_id": "P194-T0077"
+    },
+    {
+      "approved_num": "AP194000033",
+      "merchant_name": "챗GPT",
+      "merchant_regno": "228-39-33086",
+      "purchase_dtime": "20260621110653",
+      "purchase_amt": 15300.0,
+      "transaction_id": "P194-T0131"
+    },
+    {
+      "approved_num": "AP194000011",
+      "merchant_name": "서울교통공사",
+      "merchant_regno": "648-54-28134",
+      "purchase_dtime": "20260619183246",
+      "purchase_amt": 19000.0,
+      "transaction_id": "P194-T0048"
+    },
+    {
+      "approved_num": "AP194000014",
+      "merchant_name": "카카오버스",
+      "merchant_regno": "477-75-70336",
+      "purchase_dtime": "20260615185240",
+      "purchase_amt": 2100.0,
+      "transaction_id": "P194-T0061"
+    },
+    {
+      "approved_num": "AP194000024",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "521-24-28370",
+      "purchase_dtime": "20260614192609",
+      "purchase_amt": 14800.0,
+      "transaction_id": "P194-T0102"
+    },
+    {
+      "approved_num": "AP194000035",
+      "merchant_name": "주식회사 우아한형제들",
+      "merchant_regno": "167-19-34251",
+      "purchase_dtime": "20260614182210",
+      "purchase_amt": 11300.0,
+      "transaction_id": "P194-T0136"
+    },
+    {
+      "approved_num": "AP194000030",
+      "merchant_name": "넷플릭스",
+      "merchant_regno": "730-42-13310",
+      "purchase_dtime": "20260614131430",
+      "purchase_amt": 24300.0,
+      "transaction_id": "P194-T0123"
+    },
+    {
+      "approved_num": "AP194000034",
+      "merchant_name": "메가박스",
+      "merchant_regno": "622-84-16686",
+      "purchase_dtime": "20260613123527",
+      "purchase_amt": 18500.0,
+      "transaction_id": "P194-T0133"
+    },
+    {
+      "approved_num": "AP194000009",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "251-43-29396",
+      "purchase_dtime": "20260611131958",
+      "purchase_amt": 21400.0,
+      "transaction_id": "P194-T0044"
+    },
+    {
+      "approved_num": "AP194000002",
+      "merchant_name": "실손보험료",
+      "merchant_regno": "117-69-88585",
+      "purchase_dtime": "20260611111504",
+      "purchase_amt": 76900.0,
+      "transaction_id": "P194-T0006"
+    },
+    {
+      "approved_num": "AP194000028",
+      "merchant_name": "아이엠택시",
+      "merchant_regno": "279-12-39798",
+      "purchase_dtime": "20260611083426",
+      "purchase_amt": 11800.0,
+      "transaction_id": "P194-T0117"
+    },
+    {
+      "approved_num": "AP194000026",
+      "merchant_name": "이디야커피",
+      "merchant_regno": "759-35-16696",
+      "purchase_dtime": "20260610124745",
+      "purchase_amt": 3700.0,
+      "transaction_id": "P194-T0107"
+    },
+    {
+      "approved_num": "AP194000020",
+      "merchant_name": "쿠팡이츠",
+      "merchant_regno": "616-60-14224",
+      "purchase_dtime": "20260609214317",
+      "purchase_amt": 18100.0,
+      "transaction_id": "P194-T0080"
+    },
+    {
+      "approved_num": "AP194000025",
+      "merchant_name": "CU",
+      "merchant_regno": "844-13-72395",
+      "purchase_dtime": "20260609171652",
+      "purchase_amt": 16900.0,
+      "transaction_id": "P194-T0106"
+    },
+    {
+      "approved_num": "AP194000031",
+      "merchant_name": "지그재그",
+      "merchant_regno": "583-21-88991",
+      "purchase_dtime": "20260609144814",
+      "purchase_amt": 59000.0,
+      "transaction_id": "P194-T0125"
+    },
+    {
+      "approved_num": "AP194000004",
+      "merchant_name": "노션",
+      "merchant_regno": "324-30-58817",
+      "purchase_dtime": "20260607154725",
+      "purchase_amt": 17400.0,
+      "transaction_id": "P194-T0018"
+    },
+    {
+      "approved_num": "AP194000021",
+      "merchant_name": "인프런",
+      "merchant_regno": "620-50-85609",
+      "purchase_dtime": "20260607111413",
+      "purchase_amt": 105900.0,
+      "transaction_id": "P194-T0083"
+    },
+    {
+      "approved_num": "AP194000023",
+      "merchant_name": "지그재그",
+      "merchant_regno": "583-21-88991",
+      "purchase_dtime": "20260605155841",
+      "purchase_amt": 26500.0,
+      "transaction_id": "P194-T0094"
+    },
+    {
+      "approved_num": "AP194000010",
+      "merchant_name": "던킨",
+      "merchant_regno": "121-58-46247",
+      "purchase_dtime": "20260605080305",
+      "purchase_amt": 7300.0,
+      "transaction_id": "P194-T0047"
+    },
+    {
+      "approved_num": "AP194000006",
+      "merchant_name": "타다",
+      "merchant_regno": "404-42-26700",
+      "purchase_dtime": "20260603090404",
+      "purchase_amt": 21800.0,
+      "transaction_id": "P194-T0025"
+    }
+  ]
+}

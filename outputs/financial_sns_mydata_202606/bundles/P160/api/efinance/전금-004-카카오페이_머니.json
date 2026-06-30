@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P160-전금-004-P160-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP160카00007",
+      "trans_dtime": "20260613082855",
+      "trans_no": "WP16000002",
+      "currency_code": "KRW",
+      "trans_amt": -6600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "스타벅스 합정점",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP160카00003",
+      "trans_dtime": "20260605215307",
+      "trans_no": "WP16000001",
+      "currency_code": "KRW",
+      "trans_amt": -16100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP160카00014",
+      "trans_dtime": "20260601102313",
+      "trans_no": "WP16000003",
+      "currency_code": "KRW",
+      "trans_amt": -36800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "CU",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

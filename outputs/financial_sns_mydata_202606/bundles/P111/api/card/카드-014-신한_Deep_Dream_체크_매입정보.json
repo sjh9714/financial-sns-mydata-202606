@@ -1,0 +1,169 @@
+{
+  "x-api-tran-id": "P111-카드-014-P111-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 20,
+  "purchase_list": [
+    {
+      "approved_num": "AP111000001",
+      "merchant_name": "담소소사골순대",
+      "merchant_regno": "336-43-35187",
+      "purchase_dtime": "20260630203738",
+      "purchase_amt": 13400.0,
+      "transaction_id": "P111-T0015"
+    },
+    {
+      "approved_num": "AP111000006",
+      "merchant_name": "교보문고",
+      "merchant_regno": "360-81-11373",
+      "purchase_dtime": "20260630185650",
+      "purchase_amt": 16400.0,
+      "transaction_id": "P111-T0052"
+    },
+    {
+      "approved_num": "AP111000003",
+      "merchant_name": "이마트24",
+      "merchant_regno": "379-84-16852",
+      "purchase_dtime": "20260630133721",
+      "purchase_amt": 30200.0,
+      "transaction_id": "P111-T0039"
+    },
+    {
+      "approved_num": "AP111000005",
+      "merchant_name": "이마트24",
+      "merchant_regno": "379-84-16852",
+      "purchase_dtime": "20260627232335",
+      "purchase_amt": 21300.0,
+      "transaction_id": "P111-T0045"
+    },
+    {
+      "approved_num": "AP111000019",
+      "merchant_name": "롯데마트",
+      "merchant_regno": "323-30-34078",
+      "purchase_dtime": "20260627123010",
+      "purchase_amt": 12100.0,
+      "transaction_id": "P111-T0106"
+    },
+    {
+      "approved_num": "AP111000010",
+      "merchant_name": "무신사",
+      "merchant_regno": "534-49-29602",
+      "purchase_dtime": "20260627122115",
+      "purchase_amt": 36500.0,
+      "transaction_id": "P111-T0059"
+    },
+    {
+      "approved_num": "AP111000011",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "160-18-27543",
+      "purchase_dtime": "20260626230015",
+      "purchase_amt": 52700.0,
+      "transaction_id": "P111-T0066"
+    },
+    {
+      "approved_num": "AP111000017",
+      "merchant_name": "CGV",
+      "merchant_regno": "315-63-35801",
+      "purchase_dtime": "20260623190834",
+      "purchase_amt": 27200.0,
+      "transaction_id": "P111-T0082"
+    },
+    {
+      "approved_num": "AP111000009",
+      "merchant_name": "온누리약국",
+      "merchant_regno": "897-43-11292",
+      "purchase_dtime": "20260622103931",
+      "purchase_amt": 33900.0,
+      "transaction_id": "P111-T0058"
+    },
+    {
+      "approved_num": "AP111000013",
+      "merchant_name": "무신사",
+      "merchant_regno": "534-49-29602",
+      "purchase_dtime": "20260621163012",
+      "purchase_amt": 46300.0,
+      "transaction_id": "P111-T0071"
+    },
+    {
+      "approved_num": "AP111000012",
+      "merchant_name": "우티",
+      "merchant_regno": "265-67-16412",
+      "purchase_dtime": "20260621083634",
+      "purchase_amt": 3300.0,
+      "transaction_id": "P111-T0069"
+    },
+    {
+      "approved_num": "AP111000008",
+      "merchant_name": "플랜 B",
+      "merchant_regno": "218-26-70686",
+      "purchase_dtime": "20260619164244",
+      "purchase_amt": 27900.0,
+      "transaction_id": "P111-T0055"
+    },
+    {
+      "approved_num": "AP111000007",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "379-27-75990",
+      "purchase_dtime": "20260618134443",
+      "purchase_amt": 14400.0,
+      "transaction_id": "P111-T0054"
+    },
+    {
+      "approved_num": "AP111000015",
+      "merchant_name": "이마트24",
+      "merchant_regno": "379-84-16852",
+      "purchase_dtime": "20260615204821",
+      "purchase_amt": 19600.0,
+      "transaction_id": "P111-T0077"
+    },
+    {
+      "approved_num": "AP111000004",
+      "merchant_name": "티머니",
+      "merchant_regno": "587-79-45852",
+      "purchase_dtime": "20260614193635",
+      "purchase_amt": 10400.0,
+      "transaction_id": "P111-T0040"
+    },
+    {
+      "approved_num": "AP111000002",
+      "merchant_name": "클래스101",
+      "merchant_regno": "244-64-69518",
+      "purchase_dtime": "20260611215115",
+      "purchase_amt": 102300.0,
+      "transaction_id": "P111-T0025"
+    },
+    {
+      "approved_num": "AP111000016",
+      "merchant_name": "요기요",
+      "merchant_regno": "466-39-15935",
+      "purchase_dtime": "20260611214646",
+      "purchase_amt": 13900.0,
+      "transaction_id": "P111-T0080"
+    },
+    {
+      "approved_num": "AP111000020",
+      "merchant_name": "롯데마트",
+      "merchant_regno": "323-30-34078",
+      "purchase_dtime": "20260608101241",
+      "purchase_amt": 44200.0,
+      "transaction_id": "P111-T0119"
+    },
+    {
+      "approved_num": "AP111000014",
+      "merchant_name": "던킨",
+      "merchant_regno": "230-74-86071",
+      "purchase_dtime": "20260607211134",
+      "purchase_amt": 3900.0,
+      "transaction_id": "P111-T0075"
+    },
+    {
+      "approved_num": "AP111000018",
+      "merchant_name": "유튜브 프리미엄",
+      "merchant_regno": "196-69-43361",
+      "purchase_dtime": "20260606225147",
+      "purchase_amt": 16100.0,
+      "transaction_id": "P111-T0086"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persona_id": "P144",
+  "synthetic_name": "가상청년 P144",
+  "age": 23,
+  "birth_year": 2003,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "소비·구독형",
+  "job": "SNS 운영자",
+  "region": "광주 동구",
+  "monthly_income_krw": 3600000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2390000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.177,
+  "target_investment_rate": 0.085,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "구독다수",
+    "소액투자",
+    "온라인쇼핑"
+  ],
+  "financial_goal": "취미생활",
+  "sns_tendency": "소비인사이트형",
+  "target_ledger_rows": 171,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

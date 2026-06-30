@@ -1,0 +1,209 @@
+{
+  "x-api-tran-id": "P167-카드-014-P167-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 25,
+  "purchase_list": [
+    {
+      "approved_num": "AP167000010",
+      "merchant_name": "365약국",
+      "merchant_regno": "764-13-37804",
+      "purchase_dtime": "20260630192340",
+      "purchase_amt": 17800.0,
+      "transaction_id": "P167-T0059"
+    },
+    {
+      "approved_num": "AP167000023",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "181-78-18990",
+      "purchase_dtime": "20260627221145",
+      "purchase_amt": 37700.0,
+      "transaction_id": "P167-T0119"
+    },
+    {
+      "approved_num": "AP167000018",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "654-32-65488",
+      "purchase_dtime": "20260627204549",
+      "purchase_amt": 52900.0,
+      "transaction_id": "P167-T0101"
+    },
+    {
+      "approved_num": "AP167000024",
+      "merchant_name": "스타벅스 합정점",
+      "merchant_regno": "310-28-66446",
+      "purchase_dtime": "20260627183835",
+      "purchase_amt": 5200.0,
+      "transaction_id": "P167-T0121"
+    },
+    {
+      "approved_num": "AP167000001",
+      "merchant_name": "구독 서비스",
+      "merchant_regno": "807-31-21315",
+      "purchase_dtime": "20260626081323",
+      "purchase_amt": 42700.0,
+      "transaction_id": "P167-T0007"
+    },
+    {
+      "approved_num": "AP167000019",
+      "merchant_name": "한솥도시락 신촌점",
+      "merchant_regno": "545-85-39818",
+      "purchase_dtime": "20260625131048",
+      "purchase_amt": 17000.0,
+      "transaction_id": "P167-T0105"
+    },
+    {
+      "approved_num": "AP167000020",
+      "merchant_name": "해커스",
+      "merchant_regno": "737-89-30479",
+      "purchase_dtime": "20260625101125",
+      "purchase_amt": 96700.0,
+      "transaction_id": "P167-T0114"
+    },
+    {
+      "approved_num": "AP167000014",
+      "merchant_name": "주식회사 우아한형제들",
+      "merchant_regno": "694-60-30230",
+      "purchase_dtime": "20260624215331",
+      "purchase_amt": 29700.0,
+      "transaction_id": "P167-T0083"
+    },
+    {
+      "approved_num": "AP167000016",
+      "merchant_name": "요기요",
+      "merchant_regno": "100-55-76584",
+      "purchase_dtime": "20260621181311",
+      "purchase_amt": 8200.0,
+      "transaction_id": "P167-T0086"
+    },
+    {
+      "approved_num": "AP167000007",
+      "merchant_name": "해커스",
+      "merchant_regno": "737-89-30479",
+      "purchase_dtime": "20260621092748",
+      "purchase_amt": 96300.0,
+      "transaction_id": "P167-T0041"
+    },
+    {
+      "approved_num": "AP167000013",
+      "merchant_name": "요기요",
+      "merchant_regno": "100-55-76584",
+      "purchase_dtime": "20260620204226",
+      "purchase_amt": 18100.0,
+      "transaction_id": "P167-T0080"
+    },
+    {
+      "approved_num": "AP167000022",
+      "merchant_name": "알라딘",
+      "merchant_regno": "120-81-18001",
+      "purchase_dtime": "20260620103114",
+      "purchase_amt": 20900.0,
+      "transaction_id": "P167-T0117"
+    },
+    {
+      "approved_num": "AP167000006",
+      "merchant_name": "한솥도시락 신촌점",
+      "merchant_regno": "545-85-39818",
+      "purchase_dtime": "20260619181323",
+      "purchase_amt": 21700.0,
+      "transaction_id": "P167-T0031"
+    },
+    {
+      "approved_num": "AP167000025",
+      "merchant_name": "GS25",
+      "merchant_regno": "871-40-62182",
+      "purchase_dtime": "20260618110255",
+      "purchase_amt": 64100.0,
+      "transaction_id": "P167-T0123"
+    },
+    {
+      "approved_num": "AP167000003",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "654-32-65488",
+      "purchase_dtime": "20260617213115",
+      "purchase_amt": 44600.0,
+      "transaction_id": "P167-T0020"
+    },
+    {
+      "approved_num": "AP167000005",
+      "merchant_name": "넷플릭스",
+      "merchant_regno": "182-78-66806",
+      "purchase_dtime": "20260616154534",
+      "purchase_amt": 30200.0,
+      "transaction_id": "P167-T0030"
+    },
+    {
+      "approved_num": "AP167000002",
+      "merchant_name": "스타벅스 합정점",
+      "merchant_regno": "310-28-66446",
+      "purchase_dtime": "20260612210335",
+      "purchase_amt": 7300.0,
+      "transaction_id": "P167-T0018"
+    },
+    {
+      "approved_num": "AP167000017",
+      "merchant_name": "무신사",
+      "merchant_regno": "796-52-26299",
+      "purchase_dtime": "20260612174011",
+      "purchase_amt": 54100.0,
+      "transaction_id": "P167-T0099"
+    },
+    {
+      "approved_num": "AP167000012",
+      "merchant_name": "예스24",
+      "merchant_regno": "245-53-56841",
+      "purchase_dtime": "20260611130542",
+      "purchase_amt": 55400.0,
+      "transaction_id": "P167-T0078"
+    },
+    {
+      "approved_num": "AP167000004",
+      "merchant_name": "이마트24",
+      "merchant_regno": "183-21-85144",
+      "purchase_dtime": "20260611115904",
+      "purchase_amt": 23500.0,
+      "transaction_id": "P167-T0027"
+    },
+    {
+      "approved_num": "AP167000009",
+      "merchant_name": "인프런",
+      "merchant_regno": "886-19-37506",
+      "purchase_dtime": "20260610191459",
+      "purchase_amt": 92000.0,
+      "transaction_id": "P167-T0047"
+    },
+    {
+      "approved_num": "AP167000021",
+      "merchant_name": "카카오버스",
+      "merchant_regno": "773-71-26359",
+      "purchase_dtime": "20260609225157",
+      "purchase_amt": 23100.0,
+      "transaction_id": "P167-T0116"
+    },
+    {
+      "approved_num": "AP167000011",
+      "merchant_name": "배스킨라빈스",
+      "merchant_regno": "246-76-74318",
+      "purchase_dtime": "20260607185523",
+      "purchase_amt": 8600.0,
+      "transaction_id": "P167-T0067"
+    },
+    {
+      "approved_num": "AP167000015",
+      "merchant_name": "챗GPT",
+      "merchant_regno": "173-66-86990",
+      "purchase_dtime": "20260604183848",
+      "purchase_amt": 26700.0,
+      "transaction_id": "P167-T0085"
+    },
+    {
+      "approved_num": "AP167000008",
+      "merchant_name": "담소소사골순대",
+      "merchant_regno": "890-42-39045",
+      "purchase_dtime": "20260603112318",
+      "purchase_amt": 17200.0,
+      "transaction_id": "P167-T0046"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "x-api-tran-id": "P096-전금-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "search_timestamp": "20260630235900",
+  "next_page": null,
+  "account_cnt": 2,
+  "account_list": [
+    {
+      "account_id": "P096-WALLET-KAKAO",
+      "is_consent": true,
+      "fob_name": "카카오페이 머니",
+      "account_type": "01",
+      "account_status": "01"
+    },
+    {
+      "account_id": "P096-WALLET-NAVER",
+      "is_consent": true,
+      "fob_name": "네이버페이 머니",
+      "account_type": "01",
+      "account_status": "01"
+    }
+  ]
+}

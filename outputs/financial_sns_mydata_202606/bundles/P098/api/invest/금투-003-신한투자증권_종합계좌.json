@@ -1,0 +1,27 @@
+{
+  "x-api-tran-id": "P098-금투-003-P098-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 1,
+  "trans_list": [
+    {
+      "prod_name": "KODEX 미국나스닥100TR",
+      "prod_code": "379810",
+      "trans_dtime": "20260612124741",
+      "Bod": "매수",
+      "trans_no": "STKP0980001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 23.0,
+      "trans_unit": "좌",
+      "base_amt": 18000.0,
+      "trans_amt": 414000.0,
+      "settle_amt": 414100.0,
+      "balance_amt": 660942.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 미국나스닥100TR 매수",
+      "ex_code": "001"
+    }
+  ]
+}

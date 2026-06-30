@@ -1,0 +1,22 @@
+{
+  "x-api-tran-id": "P100-전금-004-P100-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 1,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP100카00002",
+      "trans_dtime": "20260605223854",
+      "trans_no": "WP10000001",
+      "currency_code": "KRW",
+      "trans_amt": -14600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "아이엠택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

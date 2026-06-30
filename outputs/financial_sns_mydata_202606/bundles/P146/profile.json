@@ -1,0 +1,30 @@
+{
+  "persona_id": "P146",
+  "synthetic_name": "가상청년 P146",
+  "age": 27,
+  "birth_year": 1999,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "소비·구독형",
+  "job": "SNS 운영자",
+  "region": "인천 부평구",
+  "monthly_income_krw": 3120000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 2650000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.153,
+  "target_investment_rate": 0.092,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "소액투자",
+    "온라인쇼핑",
+    "취향소비"
+  ],
+  "financial_goal": "카드혜택 최적화",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 151,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P063-전금-004-P063-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP063카00009",
+      "trans_dtime": "20260628203317",
+      "trans_no": "WP06300002",
+      "currency_code": "KRW",
+      "trans_amt": -65500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP063카00011",
+      "trans_dtime": "20260619125624",
+      "trans_no": "WP06300003",
+      "currency_code": "KRW",
+      "trans_amt": -84900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "해커스",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP063카00008",
+      "trans_dtime": "20260615172241",
+      "trans_no": "WP06300001",
+      "currency_code": "KRW",
+      "trans_amt": -35200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "마켓컬리",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

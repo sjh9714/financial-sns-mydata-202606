@@ -1,0 +1,53 @@
+{
+  "persona_id": "P131",
+  "posts": [
+    {
+      "post_id": "P131-POST-001",
+      "persona_id": "P131",
+      "handle": "fin_p131_young",
+      "created_at": "2026-06-24T21:43:00+09:00",
+      "post_type": "saving_milestone",
+      "visibility": "challenge_group",
+      "source": "derived_from_ledger",
+      "title": "이번 달 저축률 기록",
+      "body": "6월 수입 대비 저축률 40.5% 달성",
+      "metrics": {
+        "like_count": 73,
+        "comment_count": 4,
+        "save_count": 3
+      }
+    },
+    {
+      "post_id": "P131-POST-002",
+      "persona_id": "P131",
+      "handle": "fin_p131_young",
+      "created_at": "2026-06-26T17:46:00+09:00",
+      "post_type": "investment_trade",
+      "visibility": "challenge_group",
+      "source": "derived_from_ledger",
+      "title": "포트폴리오 업데이트",
+      "body": "6월 투자 매수 316,200원, 보유 종목 2개",
+      "metrics": {
+        "like_count": 29,
+        "comment_count": 2,
+        "save_count": 2
+      }
+    },
+    {
+      "post_id": "P131-POST-003",
+      "persona_id": "P131",
+      "handle": "fin_p131_young",
+      "created_at": "2026-06-15T19:35:00+09:00",
+      "post_type": "spend_pattern",
+      "visibility": "public",
+      "source": "derived_from_ledger",
+      "title": "소비 카테고리 회고",
+      "body": "가장 큰 소비 카테고리는 생활",
+      "metrics": {
+        "like_count": 27,
+        "comment_count": 11,
+        "save_count": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persona_id": "P175",
+  "synthetic_name": "가상청년 P175",
+  "age": 28,
+  "birth_year": 1998,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "투자적극형",
+  "job": "데이터 엔지니어",
+  "region": "대구 중구",
+  "monthly_income_krw": 5690000,
+  "income_band": "500~700만원",
+  "target_monthly_spend_krw": 2330000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.159,
+  "target_investment_rate": 0.365,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "부모동거",
+  "household_size": 4,
+  "lifestyle_tags": [
+    "리밸런싱",
+    "배달선호",
+    "투자공유"
+  ],
+  "financial_goal": "배당소득",
+  "sns_tendency": "눈팅형",
+  "target_ledger_rows": 107,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

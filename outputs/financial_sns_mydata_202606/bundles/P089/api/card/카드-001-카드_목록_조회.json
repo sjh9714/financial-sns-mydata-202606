@@ -1,0 +1,34 @@
+{
+  "x-api-tran-id": "P089-카드-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "search_timestamp": "20260630235900",
+  "next_page": null,
+  "card_cnt": 3,
+  "card_list": [
+    {
+      "card_id": "P089-CARD-01",
+      "card_num": "95249-****-****-4531",
+      "is_consent": true,
+      "card_name": "어피치 스윗 체크카드",
+      "card_member": "1",
+      "card_type": "02"
+    },
+    {
+      "card_id": "P089-CARD-02",
+      "card_num": "91770-****-****-4228",
+      "is_consent": true,
+      "card_name": "신한 Deep Dream 체크",
+      "card_member": "1",
+      "card_type": "02"
+    },
+    {
+      "card_id": "P089-CARD-03",
+      "card_num": "94693-****-****-6341",
+      "is_consent": true,
+      "card_name": "토스뱅크 체크카드",
+      "card_member": "1",
+      "card_type": "02"
+    }
+  ]
+}

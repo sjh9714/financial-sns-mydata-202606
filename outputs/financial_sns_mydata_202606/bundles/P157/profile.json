@@ -1,0 +1,30 @@
+{
+  "persona_id": "P157",
+  "synthetic_name": "가상청년 P157",
+  "age": 27,
+  "birth_year": 1999,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "프리랜서",
+  "job": "강사",
+  "region": "인천 부평구",
+  "monthly_income_krw": 5190000,
+  "income_band": "500~700만원",
+  "target_monthly_spend_krw": 4110000,
+  "spend_band": "320만원 이상",
+  "target_saving_rate": 0.085,
+  "target_investment_rate": 0.09,
+  "risk_score": 3,
+  "risk_attitude": "중립형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "불규칙수입",
+    "예산관리",
+    "카페작업"
+  ],
+  "financial_goal": "장비구매",
+  "sns_tendency": "목표공유형",
+  "target_ledger_rows": 144,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

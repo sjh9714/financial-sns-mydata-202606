@@ -1,0 +1,100 @@
+{
+  "x-api-tran-id": "P010-전금-004-P010-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 7,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP010카00002",
+      "trans_dtime": "20260616143005",
+      "trans_no": "WP01000001",
+      "currency_code": "KRW",
+      "trans_amt": -115400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "세븐일레븐",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP010카00010",
+      "trans_dtime": "20260613220904",
+      "trans_no": "WP01000004",
+      "currency_code": "KRW",
+      "trans_amt": -15800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "아이엠택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP010카00011",
+      "trans_dtime": "20260613122106",
+      "trans_no": "WP01000005",
+      "currency_code": "KRW",
+      "trans_amt": -71500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP010카00015",
+      "trans_dtime": "20260613080738",
+      "trans_no": "WP01000006",
+      "currency_code": "KRW",
+      "trans_amt": -40800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "타다",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP010카00008",
+      "trans_dtime": "20260611134734",
+      "trans_no": "WP01000003",
+      "currency_code": "KRW",
+      "trans_amt": -49700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "챗GPT",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP010카00016",
+      "trans_dtime": "20260609202432",
+      "trans_no": "WP01000007",
+      "currency_code": "KRW",
+      "trans_amt": -41500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "한솥도시락 신촌점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP010카00006",
+      "trans_dtime": "20260605080934",
+      "trans_no": "WP01000002",
+      "currency_code": "KRW",
+      "trans_amt": -27900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "담소소사골순대",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

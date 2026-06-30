@@ -1,0 +1,113 @@
+{
+  "x-api-tran-id": "P130-카드-014-P130-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 13,
+  "purchase_list": [
+    {
+      "approved_num": "AP130000007",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "720-52-21616",
+      "purchase_dtime": "20260628110029",
+      "purchase_amt": 11900.0,
+      "transaction_id": "P130-T0047"
+    },
+    {
+      "approved_num": "AP130000011",
+      "merchant_name": "365약국",
+      "merchant_regno": "478-29-85721",
+      "purchase_dtime": "20260627195932",
+      "purchase_amt": 21000.0,
+      "transaction_id": "P130-T0081"
+    },
+    {
+      "approved_num": "AP130000009",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "720-52-21616",
+      "purchase_dtime": "20260626091925",
+      "purchase_amt": 14100.0,
+      "transaction_id": "P130-T0065"
+    },
+    {
+      "approved_num": "AP130000012",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "754-34-82419",
+      "purchase_dtime": "20260623214801",
+      "purchase_amt": 53500.0,
+      "transaction_id": "P130-T0082"
+    },
+    {
+      "approved_num": "AP130000008",
+      "merchant_name": "패스트캠퍼스",
+      "merchant_regno": "853-26-63165",
+      "purchase_dtime": "20260621201707",
+      "purchase_amt": 99900.0,
+      "transaction_id": "P130-T0058"
+    },
+    {
+      "approved_num": "AP130000010",
+      "merchant_name": "한솥도시락 신촌점",
+      "merchant_regno": "632-74-56317",
+      "purchase_dtime": "20260618190358",
+      "purchase_amt": 15700.0,
+      "transaction_id": "P130-T0073"
+    },
+    {
+      "approved_num": "AP130000002",
+      "merchant_name": "멜론",
+      "merchant_regno": "206-59-62500",
+      "purchase_dtime": "20260613134925",
+      "purchase_amt": 47400.0,
+      "transaction_id": "P130-T0018"
+    },
+    {
+      "approved_num": "AP130000003",
+      "merchant_name": "지그재그",
+      "merchant_regno": "493-89-34645",
+      "purchase_dtime": "20260612134251",
+      "purchase_amt": 63600.0,
+      "transaction_id": "P130-T0023"
+    },
+    {
+      "approved_num": "AP130000005",
+      "merchant_name": "담소소사골순대",
+      "merchant_regno": "508-22-65354",
+      "purchase_dtime": "20260612092047",
+      "purchase_amt": 18400.0,
+      "transaction_id": "P130-T0028"
+    },
+    {
+      "approved_num": "AP130000004",
+      "merchant_name": "카카오T 택시",
+      "merchant_regno": "121-24-70001",
+      "purchase_dtime": "20260611191844",
+      "purchase_amt": 10200.0,
+      "transaction_id": "P130-T0027"
+    },
+    {
+      "approved_num": "AP130000006",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "802-76-36823",
+      "purchase_dtime": "20260607205959",
+      "purchase_amt": 34000.0,
+      "transaction_id": "P130-T0040"
+    },
+    {
+      "approved_num": "AP130000001",
+      "merchant_name": "타다",
+      "merchant_regno": "877-52-10736",
+      "purchase_dtime": "20260607194727",
+      "purchase_amt": 16400.0,
+      "transaction_id": "P130-T0016"
+    },
+    {
+      "approved_num": "AP130000013",
+      "merchant_name": "CGV",
+      "merchant_regno": "470-28-24305",
+      "purchase_dtime": "20260607093135",
+      "purchase_amt": 33700.0,
+      "transaction_id": "P130-T0083"
+    }
+  ]
+}

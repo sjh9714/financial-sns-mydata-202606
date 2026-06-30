@@ -1,0 +1,30 @@
+{
+  "persona_id": "P109",
+  "synthetic_name": "가상청년 P109",
+  "age": 34,
+  "birth_year": 1992,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "도시 직장인",
+  "job": "데이터 분석가",
+  "region": "서울 마포구",
+  "monthly_income_krw": 4180000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2030000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.285,
+  "target_investment_rate": 0.16,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "도심생활",
+    "모바일뱅킹",
+    "소액투자"
+  ],
+  "financial_goal": "내집마련",
+  "sns_tendency": "투자피드형",
+  "target_ledger_rows": 168,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

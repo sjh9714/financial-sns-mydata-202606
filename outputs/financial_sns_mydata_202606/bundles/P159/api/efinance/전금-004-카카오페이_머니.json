@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P159-전금-004-P159-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP159카00001",
+      "trans_dtime": "20260630213956",
+      "trans_no": "WP15900001",
+      "currency_code": "KRW",
+      "trans_amt": -61000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "인프런",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP159카00002",
+      "trans_dtime": "20260623111543",
+      "trans_no": "WP15900002",
+      "currency_code": "KRW",
+      "trans_amt": -9200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "던킨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP159카00003",
+      "trans_dtime": "20260620180851",
+      "trans_no": "WP15900003",
+      "currency_code": "KRW",
+      "trans_amt": -8100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "컴포즈커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP159카00005",
+      "trans_dtime": "20260614185258",
+      "trans_no": "WP15900004",
+      "currency_code": "KRW",
+      "trans_amt": -9700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "우티",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

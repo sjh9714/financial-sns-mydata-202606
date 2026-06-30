@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P035-전금-004-P035-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP035카00007",
+      "trans_dtime": "20260629185306",
+      "trans_no": "WP03500001",
+      "currency_code": "KRW",
+      "trans_amt": -15600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "주식회사 우아한형제들",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP035카00008",
+      "trans_dtime": "20260606080055",
+      "trans_no": "WP03500002",
+      "currency_code": "KRW",
+      "trans_amt": -11300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "요기요",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

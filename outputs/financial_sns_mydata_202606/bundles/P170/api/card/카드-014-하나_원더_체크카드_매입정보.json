@@ -1,0 +1,209 @@
+{
+  "x-api-tran-id": "P170-카드-014-P170-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 25,
+  "purchase_list": [
+    {
+      "approved_num": "AP170000005",
+      "merchant_name": "패스트캠퍼스",
+      "merchant_regno": "779-72-35283",
+      "purchase_dtime": "20260630164520",
+      "purchase_amt": 65300.0,
+      "transaction_id": "P170-T0038"
+    },
+    {
+      "approved_num": "AP170000003",
+      "merchant_name": "아고다",
+      "merchant_regno": "254-54-35919",
+      "purchase_dtime": "20260630122918",
+      "purchase_amt": 215200.0,
+      "transaction_id": "P170-T0026"
+    },
+    {
+      "approved_num": "AP170000025",
+      "merchant_name": "아이엠택시",
+      "merchant_regno": "387-62-13222",
+      "purchase_dtime": "20260630093436",
+      "purchase_amt": 19400.0,
+      "transaction_id": "P170-T0108"
+    },
+    {
+      "approved_num": "AP170000024",
+      "merchant_name": "해커스",
+      "merchant_regno": "664-79-53797",
+      "purchase_dtime": "20260629215554",
+      "purchase_amt": 57500.0,
+      "transaction_id": "P170-T0106"
+    },
+    {
+      "approved_num": "AP170000017",
+      "merchant_name": "패스트캠퍼스",
+      "merchant_regno": "779-72-35283",
+      "purchase_dtime": "20260629110701",
+      "purchase_amt": 65400.0,
+      "transaction_id": "P170-T0079"
+    },
+    {
+      "approved_num": "AP170000012",
+      "merchant_name": "스타벅스 합정점",
+      "merchant_regno": "688-14-48445",
+      "purchase_dtime": "20260627111037",
+      "purchase_amt": 4400.0,
+      "transaction_id": "P170-T0062"
+    },
+    {
+      "approved_num": "AP170000006",
+      "merchant_name": "인프런",
+      "merchant_regno": "555-29-72865",
+      "purchase_dtime": "20260626185845",
+      "purchase_amt": 72000.0,
+      "transaction_id": "P170-T0044"
+    },
+    {
+      "approved_num": "AP170000021",
+      "merchant_name": "무신사",
+      "merchant_regno": "199-35-31176",
+      "purchase_dtime": "20260624204627",
+      "purchase_amt": 45200.0,
+      "transaction_id": "P170-T0090"
+    },
+    {
+      "approved_num": "AP170000013",
+      "merchant_name": "무신사뷰티",
+      "merchant_regno": "370-25-31066",
+      "purchase_dtime": "20260620133559",
+      "purchase_amt": 44600.0,
+      "transaction_id": "P170-T0066"
+    },
+    {
+      "approved_num": "AP170000014",
+      "merchant_name": "인프런",
+      "merchant_regno": "555-29-72865",
+      "purchase_dtime": "20260618143143",
+      "purchase_amt": 17700.0,
+      "transaction_id": "P170-T0070"
+    },
+    {
+      "approved_num": "AP170000020",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "339-21-73095",
+      "purchase_dtime": "20260618103726",
+      "purchase_amt": 64900.0,
+      "transaction_id": "P170-T0089"
+    },
+    {
+      "approved_num": "AP170000004",
+      "merchant_name": "GS25",
+      "merchant_regno": "684-82-85921",
+      "purchase_dtime": "20260617105430",
+      "purchase_amt": 23400.0,
+      "transaction_id": "P170-T0033"
+    },
+    {
+      "approved_num": "AP170000023",
+      "merchant_name": "예스24",
+      "merchant_regno": "432-80-89164",
+      "purchase_dtime": "20260616232840",
+      "purchase_amt": 18800.0,
+      "transaction_id": "P170-T0105"
+    },
+    {
+      "approved_num": "AP170000008",
+      "merchant_name": "배민스토어",
+      "merchant_regno": "374-37-44913",
+      "purchase_dtime": "20260613215536",
+      "purchase_amt": 22600.0,
+      "transaction_id": "P170-T0049"
+    },
+    {
+      "approved_num": "AP170000015",
+      "merchant_name": "서울교통공사",
+      "merchant_regno": "277-58-36290",
+      "purchase_dtime": "20260613081142",
+      "purchase_amt": 9800.0,
+      "transaction_id": "P170-T0076"
+    },
+    {
+      "approved_num": "AP170000009",
+      "merchant_name": "배스킨라빈스",
+      "merchant_regno": "355-57-57773",
+      "purchase_dtime": "20260612124003",
+      "purchase_amt": 4400.0,
+      "transaction_id": "P170-T0053"
+    },
+    {
+      "approved_num": "AP170000002",
+      "merchant_name": "해커스",
+      "merchant_regno": "664-79-53797",
+      "purchase_dtime": "20260611142006",
+      "purchase_amt": 88300.0,
+      "transaction_id": "P170-T0025"
+    },
+    {
+      "approved_num": "AP170000011",
+      "merchant_name": "11번가",
+      "merchant_regno": "834-57-73379",
+      "purchase_dtime": "20260610221450",
+      "purchase_amt": 33500.0,
+      "transaction_id": "P170-T0061"
+    },
+    {
+      "approved_num": "AP170000022",
+      "merchant_name": "카카오T 택시",
+      "merchant_regno": "442-13-61903",
+      "purchase_dtime": "20260610191218",
+      "purchase_amt": 27400.0,
+      "transaction_id": "P170-T0099"
+    },
+    {
+      "approved_num": "AP170000001",
+      "merchant_name": "교보문고",
+      "merchant_regno": "202-36-55300",
+      "purchase_dtime": "20260609193028",
+      "purchase_amt": 28500.0,
+      "transaction_id": "P170-T0018"
+    },
+    {
+      "approved_num": "AP170000019",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "836-80-71472",
+      "purchase_dtime": "20260608125757",
+      "purchase_amt": 17400.0,
+      "transaction_id": "P170-T0082"
+    },
+    {
+      "approved_num": "AP170000016",
+      "merchant_name": "패스트캠퍼스",
+      "merchant_regno": "779-72-35283",
+      "purchase_dtime": "20260607192544",
+      "purchase_amt": 37500.0,
+      "transaction_id": "P170-T0078"
+    },
+    {
+      "approved_num": "AP170000010",
+      "merchant_name": "한솥도시락 신촌점",
+      "merchant_regno": "821-10-37686",
+      "purchase_dtime": "20260607135711",
+      "purchase_amt": 18700.0,
+      "transaction_id": "P170-T0059"
+    },
+    {
+      "approved_num": "AP170000007",
+      "merchant_name": "11번가",
+      "merchant_regno": "834-57-73379",
+      "purchase_dtime": "20260603202857",
+      "purchase_amt": 108300.0,
+      "transaction_id": "P170-T0045"
+    },
+    {
+      "approved_num": "AP170000018",
+      "merchant_name": "GS25",
+      "merchant_regno": "684-82-85921",
+      "purchase_dtime": "20260603093330",
+      "purchase_amt": 66600.0,
+      "transaction_id": "P170-T0080"
+    }
+  ]
+}

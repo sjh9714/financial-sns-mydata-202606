@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P108-전금-004-P108-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP108카00003",
+      "trans_dtime": "20260629211442",
+      "trans_no": "WP10800002",
+      "currency_code": "KRW",
+      "trans_amt": -20600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "유튜브 프리미엄",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP108카00001",
+      "trans_dtime": "20260622123427",
+      "trans_no": "WP10800001",
+      "currency_code": "KRW",
+      "trans_amt": -25500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP108카00011",
+      "trans_dtime": "20260616070421",
+      "trans_no": "WP10800004",
+      "currency_code": "KRW",
+      "trans_amt": -6900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오T 택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP108카00009",
+      "trans_dtime": "20260605182443",
+      "trans_no": "WP10800003",
+      "currency_code": "KRW",
+      "trans_amt": -28500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노션",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

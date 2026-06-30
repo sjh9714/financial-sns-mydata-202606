@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P027-전금-004-P027-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP027네00005",
+      "trans_dtime": "20260610193050",
+      "trans_no": "WP02700002",
+      "currency_code": "KRW",
+      "trans_amt": -20500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "김밥천국 홍대점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP027네00002",
+      "trans_dtime": "20260609155531",
+      "trans_no": "WP02700001",
+      "currency_code": "KRW",
+      "trans_amt": -17700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "넷플릭스",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

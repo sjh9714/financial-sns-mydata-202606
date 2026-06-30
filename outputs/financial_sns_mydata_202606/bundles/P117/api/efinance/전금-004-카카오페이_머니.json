@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P117-전금-004-P117-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP117카00003",
+      "trans_dtime": "20260608184052",
+      "trans_no": "WP11700002",
+      "currency_code": "KRW",
+      "trans_amt": -8900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "타다",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP117카00009",
+      "trans_dtime": "20260603185547",
+      "trans_no": "WP11700004",
+      "currency_code": "KRW",
+      "trans_amt": -13800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배민스토어",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP117카00007",
+      "trans_dtime": "20260601233527",
+      "trans_no": "WP11700003",
+      "currency_code": "KRW",
+      "trans_amt": -24100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "CGV",
+      "trans_title": "공연/영화 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP117카00002",
+      "trans_dtime": "20260601223841",
+      "trans_no": "WP11700001",
+      "currency_code": "KRW",
+      "trans_amt": -2400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오버스",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

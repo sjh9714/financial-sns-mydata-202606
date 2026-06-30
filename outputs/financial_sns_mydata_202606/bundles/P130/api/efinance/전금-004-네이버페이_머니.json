@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P130-전금-004-P130-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP130네00001",
+      "trans_dtime": "20260617233335",
+      "trans_no": "WP13000001",
+      "currency_code": "KRW",
+      "trans_amt": -38600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "롯데마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP130네00003",
+      "trans_dtime": "20260606200509",
+      "trans_no": "WP13000002",
+      "currency_code": "KRW",
+      "trans_amt": -38800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "365약국",
+      "trans_title": "약국 결제",
+      "trans_category": "의료/건강"
+    }
+  ]
+}

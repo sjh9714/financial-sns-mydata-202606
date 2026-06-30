@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P090-전금-004-P090-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP090네00014",
+      "trans_dtime": "20260627141530",
+      "trans_no": "WP09000004",
+      "currency_code": "KRW",
+      "trans_amt": -40400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이마트24",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP090네00007",
+      "trans_dtime": "20260623123156",
+      "trans_no": "WP09000002",
+      "currency_code": "KRW",
+      "trans_amt": -143700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "아고다",
+      "trans_title": "숙박 결제",
+      "trans_category": "여행/숙박"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP090네00008",
+      "trans_dtime": "20260620093131",
+      "trans_no": "WP09000003",
+      "currency_code": "KRW",
+      "trans_amt": -5200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배스킨라빈스",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP090네00004",
+      "trans_dtime": "20260605214219",
+      "trans_no": "WP09000001",
+      "currency_code": "KRW",
+      "trans_amt": -27900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "멜론",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

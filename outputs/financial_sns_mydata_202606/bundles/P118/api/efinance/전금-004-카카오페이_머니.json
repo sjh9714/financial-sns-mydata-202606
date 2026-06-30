@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P118-전금-004-P118-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP118카00011",
+      "trans_dtime": "20260625161550",
+      "trans_no": "WP11800003",
+      "currency_code": "KRW",
+      "trans_amt": -24000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "홈플러스",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP118카00009",
+      "trans_dtime": "20260622071358",
+      "trans_no": "WP11800002",
+      "currency_code": "KRW",
+      "trans_amt": -6500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "서울교통공사",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP118카00001",
+      "trans_dtime": "20260605200613",
+      "trans_no": "WP11800001",
+      "currency_code": "KRW",
+      "trans_amt": -63200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "29CM",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P187-전금-004-P187-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP187네00005",
+      "trans_dtime": "20260626111600",
+      "trans_no": "WP18700004",
+      "currency_code": "KRW",
+      "trans_amt": -14400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP187네00004",
+      "trans_dtime": "20260605225702",
+      "trans_no": "WP18700003",
+      "currency_code": "KRW",
+      "trans_amt": -62900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "멜론",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP187네00002",
+      "trans_dtime": "20260605125335",
+      "trans_no": "WP18700002",
+      "currency_code": "KRW",
+      "trans_amt": -42100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "지그재그",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP187네00001",
+      "trans_dtime": "20260602200028",
+      "trans_no": "WP18700001",
+      "currency_code": "KRW",
+      "trans_amt": -2700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노티드",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

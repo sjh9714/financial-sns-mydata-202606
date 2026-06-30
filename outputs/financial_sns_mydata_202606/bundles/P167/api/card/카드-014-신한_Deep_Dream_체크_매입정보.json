@@ -1,0 +1,129 @@
+{
+  "x-api-tran-id": "P167-카드-014-P167-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 15,
+  "purchase_list": [
+    {
+      "approved_num": "AP167000008",
+      "merchant_name": "이디야커피",
+      "merchant_regno": "610-60-75270",
+      "purchase_dtime": "20260630192903",
+      "purchase_amt": 8700.0,
+      "transaction_id": "P167-T0076"
+    },
+    {
+      "approved_num": "AP167000011",
+      "merchant_name": "세븐일레븐",
+      "merchant_regno": "290-14-33399",
+      "purchase_dtime": "20260630115624",
+      "purchase_amt": 26700.0,
+      "transaction_id": "P167-T0103"
+    },
+    {
+      "approved_num": "AP167000001",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "200-24-63176",
+      "purchase_dtime": "20260626080531",
+      "purchase_amt": 18700.0,
+      "transaction_id": "P167-T0016"
+    },
+    {
+      "approved_num": "AP167000006",
+      "merchant_name": "11번가",
+      "merchant_regno": "779-49-74606",
+      "purchase_dtime": "20260624204939",
+      "purchase_amt": 67500.0,
+      "transaction_id": "P167-T0064"
+    },
+    {
+      "approved_num": "AP167000004",
+      "merchant_name": "메가MGC커피",
+      "merchant_regno": "661-21-14166",
+      "purchase_dtime": "20260622200625",
+      "purchase_amt": 6300.0,
+      "transaction_id": "P167-T0042"
+    },
+    {
+      "approved_num": "AP167000010",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "200-24-63176",
+      "purchase_dtime": "20260621080120",
+      "purchase_amt": 11800.0,
+      "transaction_id": "P167-T0090"
+    },
+    {
+      "approved_num": "AP167000002",
+      "merchant_name": "요기요",
+      "merchant_regno": "100-55-76584",
+      "purchase_dtime": "20260614121633",
+      "purchase_amt": 26500.0,
+      "transaction_id": "P167-T0017"
+    },
+    {
+      "approved_num": "AP167000003",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "695-60-10661",
+      "purchase_dtime": "20260613093400",
+      "purchase_amt": 24700.0,
+      "transaction_id": "P167-T0036"
+    },
+    {
+      "approved_num": "AP167000012",
+      "merchant_name": "지그재그",
+      "merchant_regno": "774-37-56698",
+      "purchase_dtime": "20260612140845",
+      "purchase_amt": 42900.0,
+      "transaction_id": "P167-T0107"
+    },
+    {
+      "approved_num": "AP167000015",
+      "merchant_name": "29CM",
+      "merchant_regno": "583-67-89852",
+      "purchase_dtime": "20260611234741",
+      "purchase_amt": 63600.0,
+      "transaction_id": "P167-T0133"
+    },
+    {
+      "approved_num": "AP167000007",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "654-32-65488",
+      "purchase_dtime": "20260609220934",
+      "purchase_amt": 50800.0,
+      "transaction_id": "P167-T0065"
+    },
+    {
+      "approved_num": "AP167000014",
+      "merchant_name": "마켓컬리",
+      "merchant_regno": "469-51-60366",
+      "purchase_dtime": "20260607144327",
+      "purchase_amt": 3500.0,
+      "transaction_id": "P167-T0130"
+    },
+    {
+      "approved_num": "AP167000009",
+      "merchant_name": "이마트",
+      "merchant_regno": "103-56-44461",
+      "purchase_dtime": "20260606104256",
+      "purchase_amt": 48700.0,
+      "transaction_id": "P167-T0089"
+    },
+    {
+      "approved_num": "AP167000005",
+      "merchant_name": "플랜 B",
+      "merchant_regno": "573-43-60067",
+      "purchase_dtime": "20260606091044",
+      "purchase_amt": 16300.0,
+      "transaction_id": "P167-T0057"
+    },
+    {
+      "approved_num": "AP167000013",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "654-32-65488",
+      "purchase_dtime": "20260603224716",
+      "purchase_amt": 31300.0,
+      "transaction_id": "P167-T0115"
+    }
+  ]
+}

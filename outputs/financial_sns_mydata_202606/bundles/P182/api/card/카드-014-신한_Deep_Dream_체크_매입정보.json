@@ -1,0 +1,121 @@
+{
+  "x-api-tran-id": "P182-카드-014-P182-CARD-03",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 14,
+  "purchase_list": [
+    {
+      "approved_num": "AP182000001",
+      "merchant_name": "무신사",
+      "merchant_regno": "656-78-60258",
+      "purchase_dtime": "20260630211342",
+      "purchase_amt": 29500.0,
+      "transaction_id": "P182-T0014"
+    },
+    {
+      "approved_num": "AP182000003",
+      "merchant_name": "요기요",
+      "merchant_regno": "497-89-14892",
+      "purchase_dtime": "20260630123841",
+      "purchase_amt": 12600.0,
+      "transaction_id": "P182-T0029"
+    },
+    {
+      "approved_num": "AP182000009",
+      "merchant_name": "클래스101",
+      "merchant_regno": "709-17-12508",
+      "purchase_dtime": "20260630101220",
+      "purchase_amt": 90400.0,
+      "transaction_id": "P182-T0054"
+    },
+    {
+      "approved_num": "AP182000008",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "185-56-11175",
+      "purchase_dtime": "20260628211521",
+      "purchase_amt": 23400.0,
+      "transaction_id": "P182-T0052"
+    },
+    {
+      "approved_num": "AP182000005",
+      "merchant_name": "유튜브 프리미엄",
+      "merchant_regno": "181-21-18806",
+      "purchase_dtime": "20260627224709",
+      "purchase_amt": 35000.0,
+      "transaction_id": "P182-T0039"
+    },
+    {
+      "approved_num": "AP182000007",
+      "merchant_name": "해커스",
+      "merchant_regno": "177-55-15052",
+      "purchase_dtime": "20260625100012",
+      "purchase_amt": 61900.0,
+      "transaction_id": "P182-T0048"
+    },
+    {
+      "approved_num": "AP182000011",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "833-46-44948",
+      "purchase_dtime": "20260624112429",
+      "purchase_amt": 15100.0,
+      "transaction_id": "P182-T0075"
+    },
+    {
+      "approved_num": "AP182000010",
+      "merchant_name": "요기요",
+      "merchant_regno": "497-89-14892",
+      "purchase_dtime": "20260619084448",
+      "purchase_amt": 21600.0,
+      "transaction_id": "P182-T0060"
+    },
+    {
+      "approved_num": "AP182000006",
+      "merchant_name": "지그재그",
+      "merchant_regno": "895-32-59722",
+      "purchase_dtime": "20260614111339",
+      "purchase_amt": 33300.0,
+      "transaction_id": "P182-T0046"
+    },
+    {
+      "approved_num": "AP182000012",
+      "merchant_name": "인프런",
+      "merchant_regno": "830-80-22240",
+      "purchase_dtime": "20260612113856",
+      "purchase_amt": 66300.0,
+      "transaction_id": "P182-T0090"
+    },
+    {
+      "approved_num": "AP182000002",
+      "merchant_name": "타다",
+      "merchant_regno": "599-12-62469",
+      "purchase_dtime": "20260611223807",
+      "purchase_amt": 11500.0,
+      "transaction_id": "P182-T0023"
+    },
+    {
+      "approved_num": "AP182000004",
+      "merchant_name": "인프런",
+      "merchant_regno": "830-80-22240",
+      "purchase_dtime": "20260611184341",
+      "purchase_amt": 40700.0,
+      "transaction_id": "P182-T0036"
+    },
+    {
+      "approved_num": "AP182000013",
+      "merchant_name": "알라딘",
+      "merchant_regno": "464-62-57843",
+      "purchase_dtime": "20260609111547",
+      "purchase_amt": 24700.0,
+      "transaction_id": "P182-T0099"
+    },
+    {
+      "approved_num": "AP182000014",
+      "merchant_name": "파리바게뜨",
+      "merchant_regno": "416-20-64178",
+      "purchase_dtime": "20260608124615",
+      "purchase_amt": 6100.0,
+      "transaction_id": "P182-T0100"
+    }
+  ]
+}

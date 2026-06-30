@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P052-전금-004-P052-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP052네00009",
+      "trans_dtime": "20260615212134",
+      "trans_no": "WP05200003",
+      "currency_code": "KRW",
+      "trans_amt": -15200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "김밥천국 홍대점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP052네00008",
+      "trans_dtime": "20260607201558",
+      "trans_no": "WP05200002",
+      "currency_code": "KRW",
+      "trans_amt": -10500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가MGC커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP052네00004",
+      "trans_dtime": "20260606222902",
+      "trans_no": "WP05200001",
+      "currency_code": "KRW",
+      "trans_amt": -20600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오버스",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

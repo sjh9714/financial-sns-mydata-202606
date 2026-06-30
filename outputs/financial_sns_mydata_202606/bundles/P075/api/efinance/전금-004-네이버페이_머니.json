@@ -1,0 +1,100 @@
+{
+  "x-api-tran-id": "P075-전금-004-P075-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 7,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP075네00002",
+      "trans_dtime": "20260629131425",
+      "trans_no": "WP07500001",
+      "currency_code": "KRW",
+      "trans_amt": -3900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노티드",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP075네00003",
+      "trans_dtime": "20260628183939",
+      "trans_no": "WP07500002",
+      "currency_code": "KRW",
+      "trans_amt": -4500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "마켓컬리",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP075네00010",
+      "trans_dtime": "20260626232640",
+      "trans_no": "WP07500005",
+      "currency_code": "KRW",
+      "trans_amt": -3100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "서울교통공사",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP075네00012",
+      "trans_dtime": "20260626193613",
+      "trans_no": "WP07500006",
+      "currency_code": "KRW",
+      "trans_amt": -17800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "모바일티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP075네00008",
+      "trans_dtime": "20260613103227",
+      "trans_no": "WP07500004",
+      "currency_code": "KRW",
+      "trans_amt": -18700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP075네00014",
+      "trans_dtime": "20260607131610",
+      "trans_no": "WP07500007",
+      "currency_code": "KRW",
+      "trans_amt": -15100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배민스토어",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP075네00007",
+      "trans_dtime": "20260605094412",
+      "trans_no": "WP07500003",
+      "currency_code": "KRW",
+      "trans_amt": -14700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "서울교통공사",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

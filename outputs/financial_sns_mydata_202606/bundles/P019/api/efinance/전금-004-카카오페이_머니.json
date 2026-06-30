@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P019-전금-004-P019-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP019카00008",
+      "trans_dtime": "20260626135220",
+      "trans_no": "WP01900002",
+      "currency_code": "KRW",
+      "trans_amt": -70700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "클래스101",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP019카00002",
+      "trans_dtime": "20260601192848",
+      "trans_no": "WP01900001",
+      "currency_code": "KRW",
+      "trans_amt": -13300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "김밥천국 홍대점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

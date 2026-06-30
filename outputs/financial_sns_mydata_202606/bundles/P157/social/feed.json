@@ -1,0 +1,37 @@
+{
+  "persona_id": "P157",
+  "posts": [
+    {
+      "post_id": "P157-POST-001",
+      "persona_id": "P157",
+      "handle": "fin_p157_save",
+      "created_at": "2026-06-16T09:56:00+09:00",
+      "post_type": "saving_milestone",
+      "visibility": "followers",
+      "source": "derived_from_ledger",
+      "title": "이번 달 저축률 기록",
+      "body": "6월 수입 대비 저축률 8.7% 달성",
+      "metrics": {
+        "like_count": 8,
+        "comment_count": 4,
+        "save_count": 3
+      }
+    },
+    {
+      "post_id": "P157-POST-002",
+      "persona_id": "P157",
+      "handle": "fin_p157_save",
+      "created_at": "2026-06-17T18:45:00+09:00",
+      "post_type": "investment_trade",
+      "visibility": "followers",
+      "source": "derived_from_ledger",
+      "title": "포트폴리오 업데이트",
+      "body": "6월 투자 매수 464,200원, 보유 종목 2개",
+      "metrics": {
+        "like_count": 28,
+        "comment_count": 1,
+        "save_count": 16
+      }
+    }
+  ]
+}

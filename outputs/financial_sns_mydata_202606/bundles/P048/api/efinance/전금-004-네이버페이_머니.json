@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P048-전금-004-P048-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP048네00006",
+      "trans_dtime": "20260612160813",
+      "trans_no": "WP04800001",
+      "currency_code": "KRW",
+      "trans_amt": -18100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "알라딘",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP048네00008",
+      "trans_dtime": "20260602134747",
+      "trans_no": "WP04800002",
+      "currency_code": "KRW",
+      "trans_amt": -9100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노티드",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

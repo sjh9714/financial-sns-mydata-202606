@@ -1,0 +1,30 @@
+{
+  "persona_id": "P164",
+  "synthetic_name": "가상청년 P164",
+  "age": 26,
+  "birth_year": 2000,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "프리랜서",
+  "job": "강사",
+  "region": "서울 마포구",
+  "monthly_income_krw": 2060000,
+  "income_band": "150~250만원",
+  "target_monthly_spend_krw": 1730000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.203,
+  "target_investment_rate": 0.124,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "불규칙수입",
+    "소액투자",
+    "카페작업"
+  ],
+  "financial_goal": "장비구매",
+  "sns_tendency": "눈팅형",
+  "target_ledger_rows": 79,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

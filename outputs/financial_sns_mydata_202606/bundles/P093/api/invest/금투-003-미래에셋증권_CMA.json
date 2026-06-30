@@ -1,0 +1,45 @@
+{
+  "x-api-tran-id": "P093-금투-003-P093-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "prod_name": "KODEX 미국나스닥100TR",
+      "prod_code": "379810",
+      "trans_dtime": "20260616150635",
+      "Bod": "매수",
+      "trans_no": "STKP0930001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 21.0,
+      "trans_unit": "좌",
+      "base_amt": 18000.0,
+      "trans_amt": 378000.0,
+      "settle_amt": 378100.0,
+      "balance_amt": 481754.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 미국나스닥100TR 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "KODEX 200",
+      "prod_code": "069500",
+      "trans_dtime": "20260611093019",
+      "Bod": "매수",
+      "trans_no": "STKP0930002",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 9.0,
+      "trans_unit": "좌",
+      "base_amt": 39000.0,
+      "trans_amt": 351000.0,
+      "settle_amt": 351100.0,
+      "balance_amt": 454754.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 200 매수",
+      "ex_code": "001"
+    }
+  ]
+}

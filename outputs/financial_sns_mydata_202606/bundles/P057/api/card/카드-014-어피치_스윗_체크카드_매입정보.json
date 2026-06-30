@@ -1,0 +1,145 @@
+{
+  "x-api-tran-id": "P057-카드-014-P057-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 17,
+  "purchase_list": [
+    {
+      "approved_num": "AP057000012",
+      "merchant_name": "배스킨라빈스",
+      "merchant_regno": "311-85-42754",
+      "purchase_dtime": "20260628183149",
+      "purchase_amt": 10300.0,
+      "transaction_id": "P057-T0051"
+    },
+    {
+      "approved_num": "AP057000017",
+      "merchant_name": "알라딘",
+      "merchant_regno": "136-26-79479",
+      "purchase_dtime": "20260626220807",
+      "purchase_amt": 57300.0,
+      "transaction_id": "P057-T0084"
+    },
+    {
+      "approved_num": "AP057000001",
+      "merchant_name": "구독 서비스",
+      "merchant_regno": "203-13-70869",
+      "purchase_dtime": "20260626185527",
+      "purchase_amt": 39300.0,
+      "transaction_id": "P057-T0007"
+    },
+    {
+      "approved_num": "AP057000015",
+      "merchant_name": "이디야커피",
+      "merchant_regno": "434-57-52733",
+      "purchase_dtime": "20260626123801",
+      "purchase_amt": 6600.0,
+      "transaction_id": "P057-T0070"
+    },
+    {
+      "approved_num": "AP057000014",
+      "merchant_name": "요기요",
+      "merchant_regno": "573-89-38774",
+      "purchase_dtime": "20260622081626",
+      "purchase_amt": 13600.0,
+      "transaction_id": "P057-T0069"
+    },
+    {
+      "approved_num": "AP057000008",
+      "merchant_name": "모바일티머니",
+      "merchant_regno": "800-41-61130",
+      "purchase_dtime": "20260621083409",
+      "purchase_amt": 13700.0,
+      "transaction_id": "P057-T0039"
+    },
+    {
+      "approved_num": "AP057000007",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "549-17-58649",
+      "purchase_dtime": "20260620182541",
+      "purchase_amt": 10600.0,
+      "transaction_id": "P057-T0036"
+    },
+    {
+      "approved_num": "AP057000016",
+      "merchant_name": "요기요",
+      "merchant_regno": "573-89-38774",
+      "purchase_dtime": "20260620132240",
+      "purchase_amt": 14600.0,
+      "transaction_id": "P057-T0071"
+    },
+    {
+      "approved_num": "AP057000003",
+      "merchant_name": "던킨",
+      "merchant_regno": "572-20-76190",
+      "purchase_dtime": "20260616111820",
+      "purchase_amt": 8800.0,
+      "transaction_id": "P057-T0026"
+    },
+    {
+      "approved_num": "AP057000002",
+      "merchant_name": "카카오버스",
+      "merchant_regno": "572-77-54651",
+      "purchase_dtime": "20260614184141",
+      "purchase_amt": 6100.0,
+      "transaction_id": "P057-T0014"
+    },
+    {
+      "approved_num": "AP057000004",
+      "merchant_name": "타다",
+      "merchant_regno": "501-55-64615",
+      "purchase_dtime": "20260609184409",
+      "purchase_amt": 14600.0,
+      "transaction_id": "P057-T0028"
+    },
+    {
+      "approved_num": "AP057000013",
+      "merchant_name": "무신사",
+      "merchant_regno": "757-12-58912",
+      "purchase_dtime": "20260607200016",
+      "purchase_amt": 54600.0,
+      "transaction_id": "P057-T0056"
+    },
+    {
+      "approved_num": "AP057000005",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "549-17-58649",
+      "purchase_dtime": "20260607133317",
+      "purchase_amt": 9600.0,
+      "transaction_id": "P057-T0030"
+    },
+    {
+      "approved_num": "AP057000011",
+      "merchant_name": "주식회사 우아한형제들",
+      "merchant_regno": "568-54-43636",
+      "purchase_dtime": "20260606090104",
+      "purchase_amt": 20100.0,
+      "transaction_id": "P057-T0048"
+    },
+    {
+      "approved_num": "AP057000010",
+      "merchant_name": "챗GPT",
+      "merchant_regno": "355-12-67804",
+      "purchase_dtime": "20260605232527",
+      "purchase_amt": 65900.0,
+      "transaction_id": "P057-T0045"
+    },
+    {
+      "approved_num": "AP057000006",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "549-17-58649",
+      "purchase_dtime": "20260604123106",
+      "purchase_amt": 30000.0,
+      "transaction_id": "P057-T0031"
+    },
+    {
+      "approved_num": "AP057000009",
+      "merchant_name": "인터파크티켓",
+      "merchant_regno": "629-51-46102",
+      "purchase_dtime": "20260603172458",
+      "purchase_amt": 46300.0,
+      "transaction_id": "P057-T0040"
+    }
+  ]
+}

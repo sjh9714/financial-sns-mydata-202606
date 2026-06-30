@@ -1,0 +1,74 @@
+{
+  "x-api-tran-id": "P116-전금-004-P116-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 5,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP116카00011",
+      "trans_dtime": "20260629142804",
+      "trans_no": "WP11600005",
+      "currency_code": "KRW",
+      "trans_amt": -20200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "챗GPT",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP116카00007",
+      "trans_dtime": "20260629121214",
+      "trans_no": "WP11600003",
+      "currency_code": "KRW",
+      "trans_amt": -12200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배민스토어",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP116카00010",
+      "trans_dtime": "20260628162432",
+      "trans_no": "WP11600004",
+      "currency_code": "KRW",
+      "trans_amt": -9400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "롯데마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP116카00002",
+      "trans_dtime": "20260626102434",
+      "trans_no": "WP11600001",
+      "currency_code": "KRW",
+      "trans_amt": -57900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP116카00004",
+      "trans_dtime": "20260614070709",
+      "trans_no": "WP11600002",
+      "currency_code": "KRW",
+      "trans_amt": -12200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오T 택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

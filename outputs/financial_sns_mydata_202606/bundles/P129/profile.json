@@ -1,0 +1,30 @@
+{
+  "persona_id": "P129",
+  "synthetic_name": "가상청년 P129",
+  "age": 26,
+  "birth_year": 2000,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "절약·저축형",
+  "job": "공공기관 계약직",
+  "region": "대전 서구",
+  "monthly_income_krw": 4190000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 1720000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.468,
+  "target_investment_rate": 0.021,
+  "risk_score": 1,
+  "risk_attitude": "원금보전형",
+  "household_type": "부모동거",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "도시락",
+    "모바일결제",
+    "자동저축"
+  ],
+  "financial_goal": "목돈 만들기",
+  "sns_tendency": "눈팅형",
+  "target_ledger_rows": 74,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

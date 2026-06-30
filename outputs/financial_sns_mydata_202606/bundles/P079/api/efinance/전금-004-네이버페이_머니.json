@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P079-전금-004-P079-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP079네00008",
+      "trans_dtime": "20260618094239",
+      "trans_no": "WP07900003",
+      "currency_code": "KRW",
+      "trans_amt": -22500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "담소소사골순대",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP079네00005",
+      "trans_dtime": "20260612163033",
+      "trans_no": "WP07900002",
+      "currency_code": "KRW",
+      "trans_amt": -66400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "홈플러스",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP079네00001",
+      "trans_dtime": "20260609184728",
+      "trans_no": "WP07900001",
+      "currency_code": "KRW",
+      "trans_amt": -8400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "던킨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

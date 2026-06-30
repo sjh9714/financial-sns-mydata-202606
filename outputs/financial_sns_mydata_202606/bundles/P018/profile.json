@@ -1,0 +1,30 @@
+{
+  "persona_id": "P018",
+  "synthetic_name": "가상청년 P018",
+  "age": 21,
+  "birth_year": 2005,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "학생/알바",
+  "job": "대학생/카페 아르바이트",
+  "region": "광주 동구",
+  "monthly_income_krw": 1420000,
+  "income_band": "150만원 미만",
+  "target_monthly_spend_krw": 1130000,
+  "spend_band": "90~150만원",
+  "target_saving_rate": 0.099,
+  "target_investment_rate": 0.075,
+  "risk_score": 1,
+  "risk_attitude": "원금보전형",
+  "household_type": "쉐어하우스",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "간편결제선호",
+    "모바일결제",
+    "캠퍼스생활"
+  ],
+  "financial_goal": "독립 준비",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 108,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

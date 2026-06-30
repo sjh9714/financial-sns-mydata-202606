@@ -1,0 +1,89 @@
+{
+  "x-api-tran-id": "P131-카드-014-P131-CARD-03",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 10,
+  "purchase_list": [
+    {
+      "approved_num": "AP131000010",
+      "merchant_name": "서울교통공사",
+      "merchant_regno": "888-42-26552",
+      "purchase_dtime": "20260627095209",
+      "purchase_amt": 11400.0,
+      "transaction_id": "P131-T0074"
+    },
+    {
+      "approved_num": "AP131000004",
+      "merchant_name": "패스트캠퍼스",
+      "merchant_regno": "347-33-64726",
+      "purchase_dtime": "20260623123000",
+      "purchase_amt": 122000.0,
+      "transaction_id": "P131-T0049"
+    },
+    {
+      "approved_num": "AP131000007",
+      "merchant_name": "지그재그",
+      "merchant_regno": "567-31-75451",
+      "purchase_dtime": "20260621185032",
+      "purchase_amt": 42100.0,
+      "transaction_id": "P131-T0063"
+    },
+    {
+      "approved_num": "AP131000009",
+      "merchant_name": "메가MGC커피",
+      "merchant_regno": "327-31-61402",
+      "purchase_dtime": "20260620210228",
+      "purchase_amt": 4500.0,
+      "transaction_id": "P131-T0071"
+    },
+    {
+      "approved_num": "AP131000005",
+      "merchant_name": "모바일티머니",
+      "merchant_regno": "255-55-71858",
+      "purchase_dtime": "20260620181455",
+      "purchase_amt": 12700.0,
+      "transaction_id": "P131-T0051"
+    },
+    {
+      "approved_num": "AP131000006",
+      "merchant_name": "롯데마트",
+      "merchant_regno": "740-78-72264",
+      "purchase_dtime": "20260619232123",
+      "purchase_amt": 49600.0,
+      "transaction_id": "P131-T0062"
+    },
+    {
+      "approved_num": "AP131000002",
+      "merchant_name": "이마트",
+      "merchant_regno": "815-77-25131",
+      "purchase_dtime": "20260617090057",
+      "purchase_amt": 16100.0,
+      "transaction_id": "P131-T0015"
+    },
+    {
+      "approved_num": "AP131000003",
+      "merchant_name": "CU",
+      "merchant_regno": "523-47-21786",
+      "purchase_dtime": "20260610113736",
+      "purchase_amt": 42300.0,
+      "transaction_id": "P131-T0037"
+    },
+    {
+      "approved_num": "AP131000008",
+      "merchant_name": "CU",
+      "merchant_regno": "523-47-21786",
+      "purchase_dtime": "20260607135120",
+      "purchase_amt": 44500.0,
+      "transaction_id": "P131-T0064"
+    },
+    {
+      "approved_num": "AP131000001",
+      "merchant_name": "카카오버스",
+      "merchant_regno": "136-15-39910",
+      "purchase_dtime": "20260604181948",
+      "purchase_amt": 3400.0,
+      "transaction_id": "P131-T0014"
+    }
+  ]
+}

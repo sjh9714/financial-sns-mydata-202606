@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P031-전금-004-P031-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP031카00001",
+      "trans_dtime": "20260617151759",
+      "trans_no": "WP03100001",
+      "currency_code": "KRW",
+      "trans_amt": -51400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "패스트캠퍼스",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP031카00003",
+      "trans_dtime": "20260615115745",
+      "trans_no": "WP03100003",
+      "currency_code": "KRW",
+      "trans_amt": -19000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "담소소사골순대",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP031카00002",
+      "trans_dtime": "20260606112825",
+      "trans_no": "WP03100002",
+      "currency_code": "KRW",
+      "trans_amt": -50000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

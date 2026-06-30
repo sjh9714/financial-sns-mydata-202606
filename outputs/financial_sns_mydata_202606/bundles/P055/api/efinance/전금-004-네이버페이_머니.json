@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P055-전금-004-P055-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP055네00009",
+      "trans_dtime": "20260618200124",
+      "trans_no": "WP05500003",
+      "currency_code": "KRW",
+      "trans_amt": -34400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP055네00012",
+      "trans_dtime": "20260612145351",
+      "trans_no": "WP05500004",
+      "currency_code": "KRW",
+      "trans_amt": -113400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "인프런",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP055네00008",
+      "trans_dtime": "20260604204511",
+      "trans_no": "WP05500002",
+      "currency_code": "KRW",
+      "trans_amt": -48900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP055네00004",
+      "trans_dtime": "20260604195411",
+      "trans_no": "WP05500001",
+      "currency_code": "KRW",
+      "trans_amt": -30700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "알라딘",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    }
+  ]
+}

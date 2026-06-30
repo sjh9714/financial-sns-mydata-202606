@@ -1,0 +1,30 @@
+{
+  "persona_id": "P031",
+  "synthetic_name": "가상청년 P031",
+  "age": 23,
+  "birth_year": 2003,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "취준·지원",
+  "job": "인턴 준비생",
+  "region": "대구 중구",
+  "monthly_income_krw": 1220000,
+  "income_band": "150만원 미만",
+  "target_monthly_spend_krw": 830000,
+  "spend_band": "90만원 미만",
+  "target_saving_rate": 0.051,
+  "target_investment_rate": 0.033,
+  "risk_score": 1,
+  "risk_attitude": "원금보전형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "교육투자",
+    "모바일결제",
+    "불규칙수입"
+  ],
+  "financial_goal": "비상금",
+  "sns_tendency": "소비인사이트형",
+  "target_ledger_rows": 101,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

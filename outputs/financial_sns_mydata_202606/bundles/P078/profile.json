@@ -1,0 +1,30 @@
+{
+  "persona_id": "P078",
+  "synthetic_name": "가상청년 P078",
+  "age": 32,
+  "birth_year": 1994,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "도시 직장인",
+  "job": "브랜드 매니저",
+  "region": "인천 부평구",
+  "monthly_income_krw": 3450000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 1910000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.369,
+  "target_investment_rate": 0.172,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "모바일뱅킹",
+    "소액투자",
+    "외식"
+  ],
+  "financial_goal": "여행",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 108,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

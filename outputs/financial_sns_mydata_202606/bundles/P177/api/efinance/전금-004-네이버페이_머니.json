@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P177-전금-004-P177-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP177네00007",
+      "trans_dtime": "20260621123831",
+      "trans_no": "WP17700001",
+      "currency_code": "KRW",
+      "trans_amt": -11300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이디야커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP177네00012",
+      "trans_dtime": "20260601091917",
+      "trans_no": "WP17700002",
+      "currency_code": "KRW",
+      "trans_amt": -14100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

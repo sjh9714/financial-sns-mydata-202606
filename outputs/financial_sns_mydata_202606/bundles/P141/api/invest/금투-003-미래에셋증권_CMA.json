@@ -1,0 +1,45 @@
+{
+  "x-api-tran-id": "P141-금투-003-P141-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "prod_name": "NAVER",
+      "prod_code": "035420",
+      "trans_dtime": "20260615095850",
+      "Bod": "매수",
+      "trans_no": "STKP1410001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 1.0,
+      "trans_unit": "주",
+      "base_amt": 185000.0,
+      "trans_amt": 185000.0,
+      "settle_amt": 185100.0,
+      "balance_amt": 213585.0,
+      "currency_code": "KRW",
+      "trans_memo": "NAVER 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "KODEX 코스닥150",
+      "prod_code": "229200",
+      "trans_dtime": "20260610112327",
+      "Bod": "매수",
+      "trans_no": "STKP1410002",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 1.0,
+      "trans_unit": "좌",
+      "base_amt": 13000.0,
+      "trans_amt": 13000.0,
+      "settle_amt": 13100.0,
+      "balance_amt": 41585.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 코스닥150 매수",
+      "ex_code": "001"
+    }
+  ]
+}

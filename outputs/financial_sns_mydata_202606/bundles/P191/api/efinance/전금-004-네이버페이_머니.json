@@ -1,0 +1,74 @@
+{
+  "x-api-tran-id": "P191-전금-004-P191-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 5,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP191네00013",
+      "trans_dtime": "20260626223143",
+      "trans_no": "WP19100004",
+      "currency_code": "KRW",
+      "trans_amt": -8700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP191네00012",
+      "trans_dtime": "20260623135435",
+      "trans_no": "WP19100003",
+      "currency_code": "KRW",
+      "trans_amt": -49900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "인프런",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP191네00011",
+      "trans_dtime": "20260622202349",
+      "trans_no": "WP19100002",
+      "currency_code": "KRW",
+      "trans_amt": -64800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP191네00015",
+      "trans_dtime": "20260609160804",
+      "trans_no": "WP19100005",
+      "currency_code": "KRW",
+      "trans_amt": -24900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "롯데마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP191네00001",
+      "trans_dtime": "20260604120022",
+      "trans_no": "WP19100001",
+      "currency_code": "KRW",
+      "trans_amt": -20600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "마켓컬리",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

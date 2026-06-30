@@ -1,0 +1,22 @@
+{
+  "x-api-tran-id": "P129-전금-004-P129-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 1,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP129카00004",
+      "trans_dtime": "20260603221503",
+      "trans_no": "WP12900001",
+      "currency_code": "KRW",
+      "trans_amt": -28300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "마켓컬리",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

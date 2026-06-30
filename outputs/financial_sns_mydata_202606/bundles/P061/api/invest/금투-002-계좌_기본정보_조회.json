@@ -1,0 +1,17 @@
+{
+  "x-api-tran-id": "P061-금투-002",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "search_timestamp": "20260630235900",
+  "base_date": "20260630",
+  "basic_cnt": 1,
+  "basic_list": [
+    {
+      "currency_code": "KRW",
+      "withholdings_amt": 0.0,
+      "credit_loan_amt": 0.0,
+      "mortgage_amt": 0.0,
+      "avail_balance": 331094.0
+    }
+  ]
+}

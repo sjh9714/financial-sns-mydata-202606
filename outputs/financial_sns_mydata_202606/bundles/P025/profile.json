@@ -1,0 +1,30 @@
+{
+  "persona_id": "P025",
+  "synthetic_name": "가상청년 P025",
+  "age": 19,
+  "birth_year": 2007,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "학생/알바",
+  "job": "휴학생/단기알바",
+  "region": "대구 중구",
+  "monthly_income_krw": 950000,
+  "income_band": "150만원 미만",
+  "target_monthly_spend_krw": 820000,
+  "spend_band": "90만원 미만",
+  "target_saving_rate": 0.077,
+  "target_investment_rate": 0.059,
+  "risk_score": 3,
+  "risk_attitude": "중립형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "간편결제선호",
+    "대중교통",
+    "캠퍼스생활"
+  ],
+  "financial_goal": "독립 준비",
+  "sns_tendency": "투자피드형",
+  "target_ledger_rows": 95,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

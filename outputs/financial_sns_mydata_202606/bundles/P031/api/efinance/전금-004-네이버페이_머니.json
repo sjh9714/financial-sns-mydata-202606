@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P031-전금-004-P031-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP031네00006",
+      "trans_dtime": "20260628233038",
+      "trans_no": "WP03100002",
+      "currency_code": "KRW",
+      "trans_amt": -30700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "클래스101",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP031네00004",
+      "trans_dtime": "20260628215330",
+      "trans_no": "WP03100001",
+      "currency_code": "KRW",
+      "trans_amt": -16600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP031네00010",
+      "trans_dtime": "20260608114750",
+      "trans_no": "WP03100004",
+      "currency_code": "KRW",
+      "trans_amt": -29300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "GS25",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP031네00007",
+      "trans_dtime": "20260605100211",
+      "trans_no": "WP03100003",
+      "currency_code": "KRW",
+      "trans_amt": -49100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "패스트캠퍼스",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    }
+  ]
+}

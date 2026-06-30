@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P138-전금-004-P138-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP138네00001",
+      "trans_dtime": "20260628090329",
+      "trans_no": "WP13800001",
+      "currency_code": "KRW",
+      "trans_amt": -56900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "올리브영",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP138네00003",
+      "trans_dtime": "20260612215050",
+      "trans_no": "WP13800003",
+      "currency_code": "KRW",
+      "trans_amt": -28400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "홈플러스",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP138네00002",
+      "trans_dtime": "20260605130920",
+      "trans_no": "WP13800002",
+      "currency_code": "KRW",
+      "trans_amt": -15500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "주식회사 우아한형제들",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP138네00004",
+      "trans_dtime": "20260603132832",
+      "trans_no": "WP13800004",
+      "currency_code": "KRW",
+      "trans_amt": -42600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가박스",
+      "trans_title": "공연/영화 결제",
+      "trans_category": "문화/여가"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "x-api-tran-id": "P191-카드-014-P191-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 17,
+  "purchase_list": [
+    {
+      "approved_num": "AP191000001",
+      "merchant_name": "인프런",
+      "merchant_regno": "893-66-54984",
+      "purchase_dtime": "20260630200248",
+      "purchase_amt": 56900.0,
+      "transaction_id": "P191-T0015"
+    },
+    {
+      "approved_num": "AP191000005",
+      "merchant_name": "한솥도시락 신촌점",
+      "merchant_regno": "507-45-30523",
+      "purchase_dtime": "20260629093733",
+      "purchase_amt": 17500.0,
+      "transaction_id": "P191-T0050"
+    },
+    {
+      "approved_num": "AP191000009",
+      "merchant_name": "아이엠택시",
+      "merchant_regno": "697-15-21799",
+      "purchase_dtime": "20260627221631",
+      "purchase_amt": 10800.0,
+      "transaction_id": "P191-T0083"
+    },
+    {
+      "approved_num": "AP191000004",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "328-65-10140",
+      "purchase_dtime": "20260627200308",
+      "purchase_amt": 56500.0,
+      "transaction_id": "P191-T0049"
+    },
+    {
+      "approved_num": "AP191000014",
+      "merchant_name": "유튜브 프리미엄",
+      "merchant_regno": "541-84-15757",
+      "purchase_dtime": "20260627132103",
+      "purchase_amt": 25200.0,
+      "transaction_id": "P191-T0109"
+    },
+    {
+      "approved_num": "AP191000012",
+      "merchant_name": "배민스토어",
+      "merchant_regno": "680-47-55521",
+      "purchase_dtime": "20260627081711",
+      "purchase_amt": 21100.0,
+      "transaction_id": "P191-T0095"
+    },
+    {
+      "approved_num": "AP191000017",
+      "merchant_name": "파리바게뜨",
+      "merchant_regno": "491-54-10583",
+      "purchase_dtime": "20260626184633",
+      "purchase_amt": 5900.0,
+      "transaction_id": "P191-T0127"
+    },
+    {
+      "approved_num": "AP191000011",
+      "merchant_name": "주식회사 우아한형제들",
+      "merchant_regno": "188-56-86314",
+      "purchase_dtime": "20260626184131",
+      "purchase_amt": 17700.0,
+      "transaction_id": "P191-T0088"
+    },
+    {
+      "approved_num": "AP191000010",
+      "merchant_name": "마켓컬리",
+      "merchant_regno": "286-13-17583",
+      "purchase_dtime": "20260625140110",
+      "purchase_amt": 62200.0,
+      "transaction_id": "P191-T0085"
+    },
+    {
+      "approved_num": "AP191000016",
+      "merchant_name": "노션",
+      "merchant_regno": "809-77-37993",
+      "purchase_dtime": "20260625113239",
+      "purchase_amt": 25400.0,
+      "transaction_id": "P191-T0123"
+    },
+    {
+      "approved_num": "AP191000003",
+      "merchant_name": "배민스토어",
+      "merchant_regno": "680-47-55521",
+      "purchase_dtime": "20260622111517",
+      "purchase_amt": 11100.0,
+      "transaction_id": "P191-T0039"
+    },
+    {
+      "approved_num": "AP191000002",
+      "merchant_name": "CU",
+      "merchant_regno": "522-24-50709",
+      "purchase_dtime": "20260621183623",
+      "purchase_amt": 31900.0,
+      "transaction_id": "P191-T0023"
+    },
+    {
+      "approved_num": "AP191000008",
+      "merchant_name": "이마트24",
+      "merchant_regno": "739-78-54479",
+      "purchase_dtime": "20260621183443",
+      "purchase_amt": 35500.0,
+      "transaction_id": "P191-T0069"
+    },
+    {
+      "approved_num": "AP191000006",
+      "merchant_name": "인터파크티켓",
+      "merchant_regno": "843-24-69072",
+      "purchase_dtime": "20260615210546",
+      "purchase_amt": 22300.0,
+      "transaction_id": "P191-T0060"
+    },
+    {
+      "approved_num": "AP191000015",
+      "merchant_name": "서울교통공사",
+      "merchant_regno": "439-69-25533",
+      "purchase_dtime": "20260613084118",
+      "purchase_amt": 16500.0,
+      "transaction_id": "P191-T0118"
+    },
+    {
+      "approved_num": "AP191000013",
+      "merchant_name": "멜론",
+      "merchant_regno": "687-13-66291",
+      "purchase_dtime": "20260606154113",
+      "purchase_amt": 30400.0,
+      "transaction_id": "P191-T0106"
+    },
+    {
+      "approved_num": "AP191000007",
+      "merchant_name": "365약국",
+      "merchant_regno": "557-63-16804",
+      "purchase_dtime": "20260605215704",
+      "purchase_amt": 31500.0,
+      "transaction_id": "P191-T0064"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "x-api-tran-id": "P126-전금-004-P126-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 7,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP126카00016",
+      "trans_dtime": "20260630112410",
+      "trans_no": "WP12600007",
+      "currency_code": "KRW",
+      "trans_amt": -11900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP126카00013",
+      "trans_dtime": "20260629123515",
+      "trans_no": "WP12600005",
+      "currency_code": "KRW",
+      "trans_amt": -39200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "에이블리",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP126카00004",
+      "trans_dtime": "20260628082415",
+      "trans_no": "WP12600001",
+      "currency_code": "KRW",
+      "trans_amt": -7600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP126카00011",
+      "trans_dtime": "20260622221441",
+      "trans_no": "WP12600004",
+      "currency_code": "KRW",
+      "trans_amt": -6300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "온누리약국",
+      "trans_title": "약국 결제",
+      "trans_category": "의료/건강"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP126카00014",
+      "trans_dtime": "20260618081004",
+      "trans_no": "WP12600006",
+      "currency_code": "KRW",
+      "trans_amt": -6700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "모바일티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP126카00005",
+      "trans_dtime": "20260616114107",
+      "trans_no": "WP12600002",
+      "currency_code": "KRW",
+      "trans_amt": -33100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "세븐일레븐",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP126카00008",
+      "trans_dtime": "20260613090101",
+      "trans_no": "WP12600003",
+      "currency_code": "KRW",
+      "trans_amt": -9100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "모바일티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

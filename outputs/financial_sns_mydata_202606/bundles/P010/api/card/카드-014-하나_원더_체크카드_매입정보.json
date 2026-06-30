@@ -1,0 +1,209 @@
+{
+  "x-api-tran-id": "P010-카드-014-P010-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 25,
+  "purchase_list": [
+    {
+      "approved_num": "AP010000003",
+      "merchant_name": "해커스",
+      "merchant_regno": "668-45-43028",
+      "purchase_dtime": "20260630233317",
+      "purchase_amt": 118700.0,
+      "transaction_id": "P010-T0030"
+    },
+    {
+      "approved_num": "AP010000022",
+      "merchant_name": "해커스",
+      "merchant_regno": "668-45-43028",
+      "purchase_dtime": "20260630124132",
+      "purchase_amt": 112900.0,
+      "transaction_id": "P010-T0101"
+    },
+    {
+      "approved_num": "AP010000015",
+      "merchant_name": "교보문고",
+      "merchant_regno": "769-82-49436",
+      "purchase_dtime": "20260630102316",
+      "purchase_amt": 29500.0,
+      "transaction_id": "P010-T0073"
+    },
+    {
+      "approved_num": "AP010000017",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "499-44-61292",
+      "purchase_dtime": "20260629204145",
+      "purchase_amt": 47200.0,
+      "transaction_id": "P010-T0076"
+    },
+    {
+      "approved_num": "AP010000005",
+      "merchant_name": "아모레몰",
+      "merchant_regno": "403-87-29531",
+      "purchase_dtime": "20260628145011",
+      "purchase_amt": 67800.0,
+      "transaction_id": "P010-T0032"
+    },
+    {
+      "approved_num": "AP010000019",
+      "merchant_name": "무신사뷰티",
+      "merchant_regno": "894-43-41568",
+      "purchase_dtime": "20260625194129",
+      "purchase_amt": 116800.0,
+      "transaction_id": "P010-T0082"
+    },
+    {
+      "approved_num": "AP010000007",
+      "merchant_name": "메가MGC커피",
+      "merchant_regno": "790-28-36391",
+      "purchase_dtime": "20260625092644",
+      "purchase_amt": 5600.0,
+      "transaction_id": "P010-T0036"
+    },
+    {
+      "approved_num": "AP010000011",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "499-44-61292",
+      "purchase_dtime": "20260624232637",
+      "purchase_amt": 136100.0,
+      "transaction_id": "P010-T0051"
+    },
+    {
+      "approved_num": "AP010000021",
+      "merchant_name": "아모레몰",
+      "merchant_regno": "403-87-29531",
+      "purchase_dtime": "20260624215434",
+      "purchase_amt": 51000.0,
+      "transaction_id": "P010-T0093"
+    },
+    {
+      "approved_num": "AP010000013",
+      "merchant_name": "타다",
+      "merchant_regno": "489-19-74337",
+      "purchase_dtime": "20260622182525",
+      "purchase_amt": 18400.0,
+      "transaction_id": "P010-T0062"
+    },
+    {
+      "approved_num": "AP010000014",
+      "merchant_name": "우티",
+      "merchant_regno": "251-65-64473",
+      "purchase_dtime": "20260620093510",
+      "purchase_amt": 6900.0,
+      "transaction_id": "P010-T0066"
+    },
+    {
+      "approved_num": "AP010000020",
+      "merchant_name": "모바일티머니",
+      "merchant_regno": "334-43-64971",
+      "purchase_dtime": "20260619181912",
+      "purchase_amt": 39900.0,
+      "transaction_id": "P010-T0083"
+    },
+    {
+      "approved_num": "AP010000016",
+      "merchant_name": "홈플러스",
+      "merchant_regno": "738-55-80141",
+      "purchase_dtime": "20260618221003",
+      "purchase_amt": 114300.0,
+      "transaction_id": "P010-T0075"
+    },
+    {
+      "approved_num": "AP010000002",
+      "merchant_name": "배민스토어",
+      "merchant_regno": "200-81-37823",
+      "purchase_dtime": "20260618091603",
+      "purchase_amt": 30700.0,
+      "transaction_id": "P010-T0024"
+    },
+    {
+      "approved_num": "AP010000001",
+      "merchant_name": "휴대폰 요금",
+      "merchant_regno": "315-29-19616",
+      "purchase_dtime": "20260616195400",
+      "purchase_amt": 61000.0,
+      "transaction_id": "P010-T0006"
+    },
+    {
+      "approved_num": "AP010000023",
+      "merchant_name": "모바일티머니",
+      "merchant_regno": "334-43-64971",
+      "purchase_dtime": "20260615082936",
+      "purchase_amt": 32500.0,
+      "transaction_id": "P010-T0104"
+    },
+    {
+      "approved_num": "AP010000018",
+      "merchant_name": "홈플러스",
+      "merchant_regno": "738-55-80141",
+      "purchase_dtime": "20260611214525",
+      "purchase_amt": 25100.0,
+      "transaction_id": "P010-T0077"
+    },
+    {
+      "approved_num": "AP010000006",
+      "merchant_name": "야놀자",
+      "merchant_regno": "473-40-25782",
+      "purchase_dtime": "20260610143836",
+      "purchase_amt": 166200.0,
+      "transaction_id": "P010-T0035"
+    },
+    {
+      "approved_num": "AP010000008",
+      "merchant_name": "한솥도시락 신촌점",
+      "merchant_regno": "665-67-61305",
+      "purchase_dtime": "20260607123330",
+      "purchase_amt": 25300.0,
+      "transaction_id": "P010-T0039"
+    },
+    {
+      "approved_num": "AP010000024",
+      "merchant_name": "유튜브 프리미엄",
+      "merchant_regno": "511-68-75016",
+      "purchase_dtime": "20260606195820",
+      "purchase_amt": 31800.0,
+      "transaction_id": "P010-T0112"
+    },
+    {
+      "approved_num": "AP010000004",
+      "merchant_name": "파리바게뜨",
+      "merchant_regno": "454-26-50088",
+      "purchase_dtime": "20260606193107",
+      "purchase_amt": 8800.0,
+      "transaction_id": "P010-T0031"
+    },
+    {
+      "approved_num": "AP010000010",
+      "merchant_name": "타다",
+      "merchant_regno": "489-19-74337",
+      "purchase_dtime": "20260606082620",
+      "purchase_amt": 33300.0,
+      "transaction_id": "P010-T0050"
+    },
+    {
+      "approved_num": "AP010000009",
+      "merchant_name": "카카오버스",
+      "merchant_regno": "858-72-28581",
+      "purchase_dtime": "20260605194333",
+      "purchase_amt": 19100.0,
+      "transaction_id": "P010-T0048"
+    },
+    {
+      "approved_num": "AP010000025",
+      "merchant_name": "에이블리",
+      "merchant_regno": "809-65-66423",
+      "purchase_dtime": "20260605183859",
+      "purchase_amt": 98600.0,
+      "transaction_id": "P010-T0119"
+    },
+    {
+      "approved_num": "AP010000012",
+      "merchant_name": "CGV",
+      "merchant_regno": "229-28-87794",
+      "purchase_dtime": "20260604133944",
+      "purchase_amt": 87100.0,
+      "transaction_id": "P010-T0060"
+    }
+  ]
+}

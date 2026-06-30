@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P178-전금-004-P178-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP178카00002",
+      "trans_dtime": "20260626155827",
+      "trans_no": "WP17800001",
+      "currency_code": "KRW",
+      "trans_amt": -18400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "CGV",
+      "trans_title": "공연/영화 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP178카00004",
+      "trans_dtime": "20260622223130",
+      "trans_no": "WP17800002",
+      "currency_code": "KRW",
+      "trans_amt": -8600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "타다",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP178카00006",
+      "trans_dtime": "20260622145312",
+      "trans_no": "WP17800003",
+      "currency_code": "KRW",
+      "trans_amt": -50000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "CU",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

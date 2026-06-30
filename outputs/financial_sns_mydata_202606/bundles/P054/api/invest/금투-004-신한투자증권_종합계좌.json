@@ -1,0 +1,43 @@
+{
+  "x-api-tran-id": "P054-금투-004-P054-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "search_timestamp": "20260630235900",
+  "next_page": null,
+  "base_date": "20260630",
+  "prod_cnt": 2,
+  "prod_list": [
+    {
+      "prod_type": "101",
+      "prod_type_detail": "001",
+      "prod_code": "373220",
+      "ex_code": "001",
+      "prod_name": "LG에너지솔루션",
+      "pos_type": "01",
+      "credit_type": "00",
+      "is_tax_benefits": false,
+      "purchase_amt": 350000.0,
+      "holding_num": 1.0,
+      "trans_unit": "주",
+      "eval_amt": 357388.535,
+      "is_execution": true,
+      "currency_code": "KRW"
+    },
+    {
+      "prod_type": "201",
+      "prod_type_detail": "001",
+      "prod_code": "379810",
+      "ex_code": "001",
+      "prod_name": "KODEX 미국나스닥100TR",
+      "pos_type": "01",
+      "credit_type": "00",
+      "is_tax_benefits": false,
+      "purchase_amt": 18000.0,
+      "holding_num": 1.0,
+      "trans_unit": "좌",
+      "eval_amt": 19705.63,
+      "is_execution": true,
+      "currency_code": "KRW"
+    }
+  ]
+}

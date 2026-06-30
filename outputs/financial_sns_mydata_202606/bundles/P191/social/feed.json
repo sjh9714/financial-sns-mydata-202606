@@ -1,0 +1,21 @@
+{
+  "persona_id": "P191",
+  "posts": [
+    {
+      "post_id": "P191-POST-001",
+      "persona_id": "P191",
+      "handle": "fin_p191_daily",
+      "created_at": "2026-06-16T11:02:00+09:00",
+      "post_type": "saving_milestone",
+      "visibility": "followers",
+      "source": "derived_from_ledger",
+      "title": "이번 달 저축률 기록",
+      "body": "6월 수입 대비 저축률 51.0% 달성",
+      "metrics": {
+        "like_count": 43,
+        "comment_count": 5,
+        "save_count": 7
+      }
+    }
+  ]
+}

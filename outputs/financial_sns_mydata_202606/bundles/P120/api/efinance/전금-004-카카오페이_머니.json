@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P120-전금-004-P120-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP120카00002",
+      "trans_dtime": "20260618173341",
+      "trans_no": "WP12000001",
+      "currency_code": "KRW",
+      "trans_amt": -23800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "세븐일레븐",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP120카00011",
+      "trans_dtime": "20260610143014",
+      "trans_no": "WP12000004",
+      "currency_code": "KRW",
+      "trans_amt": -32200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "온누리약국",
+      "trans_title": "약국 결제",
+      "trans_category": "의료/건강"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP120카00007",
+      "trans_dtime": "20260609220142",
+      "trans_no": "WP12000002",
+      "currency_code": "KRW",
+      "trans_amt": -19300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "우티",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP120카00009",
+      "trans_dtime": "20260607112604",
+      "trans_no": "WP12000003",
+      "currency_code": "KRW",
+      "trans_amt": -14500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "롯데마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

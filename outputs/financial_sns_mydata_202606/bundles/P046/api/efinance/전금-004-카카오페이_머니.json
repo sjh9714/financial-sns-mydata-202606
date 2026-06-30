@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P046-전금-004-P046-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP046카00006",
+      "trans_dtime": "20260624122802",
+      "trans_no": "WP04600003",
+      "currency_code": "KRW",
+      "trans_amt": -105100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP046카00002",
+      "trans_dtime": "20260621095253",
+      "trans_no": "WP04600001",
+      "currency_code": "KRW",
+      "trans_amt": -43800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "올리브영",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP046카00003",
+      "trans_dtime": "20260619092028",
+      "trans_no": "WP04600002",
+      "currency_code": "KRW",
+      "trans_amt": -35000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP046카00007",
+      "trans_dtime": "20260611233205",
+      "trans_no": "WP04600004",
+      "currency_code": "KRW",
+      "trans_amt": -38200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

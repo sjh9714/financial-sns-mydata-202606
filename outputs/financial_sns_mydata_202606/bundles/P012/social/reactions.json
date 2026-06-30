@@ -1,0 +1,117 @@
+{
+  "persona_id": "P012",
+  "reactions": [
+    {
+      "reaction_id": "P012-R001",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P013",
+      "reaction_type": "cheer",
+      "created_at": "2026-06-21T15:08:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R002",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P129",
+      "reaction_type": "like",
+      "created_at": "2026-06-07T16:06:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R003",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P060",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-24T10:36:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R004",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P130",
+      "reaction_type": "question",
+      "created_at": "2026-06-20T13:45:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R005",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P133",
+      "reaction_type": "like",
+      "created_at": "2026-06-12T12:39:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R006",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P123",
+      "reaction_type": "like",
+      "created_at": "2026-06-13T08:29:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R007",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P030",
+      "reaction_type": "question",
+      "created_at": "2026-06-11T19:40:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R008",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P159",
+      "reaction_type": "like",
+      "created_at": "2026-06-20T16:33:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R009",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P129",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-13T12:54:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R010",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P060",
+      "reaction_type": "like",
+      "created_at": "2026-06-17T17:45:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R011",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P007",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-24T23:45:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R012",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P123",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-11T17:51:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R013",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P072",
+      "reaction_type": "question",
+      "created_at": "2026-06-12T18:17:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R014",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P159",
+      "reaction_type": "question",
+      "created_at": "2026-06-28T23:19:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R015",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P013",
+      "reaction_type": "like",
+      "created_at": "2026-06-24T14:52:00+09:00"
+    },
+    {
+      "reaction_id": "P012-R016",
+      "actor_persona_id": "P012",
+      "target_persona_id": "P125",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-16T20:18:00+09:00"
+    }
+  ]
+}

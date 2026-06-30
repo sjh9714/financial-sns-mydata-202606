@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P053-전금-004-P053-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP053네00003",
+      "trans_dtime": "20260626204207",
+      "trans_no": "WP05300001",
+      "currency_code": "KRW",
+      "trans_amt": -47400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "GS25",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP053네00006",
+      "trans_dtime": "20260623192728",
+      "trans_no": "WP05300002",
+      "currency_code": "KRW",
+      "trans_amt": -3400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "스타벅스 합정점",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP053네00011",
+      "trans_dtime": "20260603142232",
+      "trans_no": "WP05300003",
+      "currency_code": "KRW",
+      "trans_amt": -62500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "홈플러스",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

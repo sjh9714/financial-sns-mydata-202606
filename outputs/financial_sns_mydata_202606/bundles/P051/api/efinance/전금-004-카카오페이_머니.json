@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P051-전금-004-P051-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP051카00006",
+      "trans_dtime": "20260611233043",
+      "trans_no": "WP05100002",
+      "currency_code": "KRW",
+      "trans_amt": -51200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "CU",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP051카00005",
+      "trans_dtime": "20260607192921",
+      "trans_no": "WP05100001",
+      "currency_code": "KRW",
+      "trans_amt": -61000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "마켓컬리",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

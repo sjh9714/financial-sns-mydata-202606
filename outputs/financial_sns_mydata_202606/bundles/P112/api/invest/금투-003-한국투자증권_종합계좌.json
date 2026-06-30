@@ -1,0 +1,45 @@
+{
+  "x-api-tran-id": "P112-금투-003-P112-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "prod_name": "LG에너지솔루션",
+      "prod_code": "373220",
+      "trans_dtime": "20260607132203",
+      "Bod": "매수",
+      "trans_no": "STKP1120001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 1.0,
+      "trans_unit": "주",
+      "base_amt": 350000.0,
+      "trans_amt": 350000.0,
+      "settle_amt": 350100.0,
+      "balance_amt": 602744.0,
+      "currency_code": "KRW",
+      "trans_memo": "LG에너지솔루션 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "KODEX 200",
+      "prod_code": "069500",
+      "trans_dtime": "20260605113707",
+      "Bod": "매수",
+      "trans_no": "STKP1120002",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 1.0,
+      "trans_unit": "좌",
+      "base_amt": 39000.0,
+      "trans_amt": 39000.0,
+      "settle_amt": 39100.0,
+      "balance_amt": 291744.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 200 매수",
+      "ex_code": "001"
+    }
+  ]
+}

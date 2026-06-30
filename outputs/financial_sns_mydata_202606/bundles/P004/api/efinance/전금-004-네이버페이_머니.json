@@ -1,0 +1,74 @@
+{
+  "x-api-tran-id": "P004-전금-004-P004-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 5,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP004네00014",
+      "trans_dtime": "20260630080932",
+      "trans_no": "WP00400004",
+      "currency_code": "KRW",
+      "trans_amt": -22300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배민스토어",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP004네00009",
+      "trans_dtime": "20260622224057",
+      "trans_no": "WP00400002",
+      "currency_code": "KRW",
+      "trans_amt": -42500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP004네00006",
+      "trans_dtime": "20260621110242",
+      "trans_no": "WP00400001",
+      "currency_code": "KRW",
+      "trans_amt": -16700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배민스토어",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP004네00011",
+      "trans_dtime": "20260617202927",
+      "trans_no": "WP00400003",
+      "currency_code": "KRW",
+      "trans_amt": -33500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP004네00017",
+      "trans_dtime": "20260601123006",
+      "trans_no": "WP00400005",
+      "currency_code": "KRW",
+      "trans_amt": -103900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

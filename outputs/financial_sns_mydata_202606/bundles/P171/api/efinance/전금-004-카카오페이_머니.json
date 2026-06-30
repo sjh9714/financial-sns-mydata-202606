@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P171-전금-004-P171-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP171카00009",
+      "trans_dtime": "20260615222639",
+      "trans_no": "WP17100003",
+      "currency_code": "KRW",
+      "trans_amt": -44400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP171카00007",
+      "trans_dtime": "20260606070207",
+      "trans_no": "WP17100002",
+      "currency_code": "KRW",
+      "trans_amt": -6300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "타다",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP171카00004",
+      "trans_dtime": "20260604111020",
+      "trans_no": "WP17100001",
+      "currency_code": "KRW",
+      "trans_amt": -29700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "주식회사 우아한형제들",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

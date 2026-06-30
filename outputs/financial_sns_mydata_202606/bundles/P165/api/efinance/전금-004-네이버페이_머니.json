@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P165-전금-004-P165-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP165네00002",
+      "trans_dtime": "20260621235433",
+      "trans_no": "WP16500002",
+      "currency_code": "KRW",
+      "trans_amt": -81100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "홈플러스",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP165네00001",
+      "trans_dtime": "20260620185948",
+      "trans_no": "WP16500001",
+      "currency_code": "KRW",
+      "trans_amt": -7800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오T 택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

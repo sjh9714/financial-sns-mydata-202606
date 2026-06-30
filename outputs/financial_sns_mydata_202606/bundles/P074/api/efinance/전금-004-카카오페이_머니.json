@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P074-전금-004-P074-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP074카00003",
+      "trans_dtime": "20260619092203",
+      "trans_no": "WP07400002",
+      "currency_code": "KRW",
+      "trans_amt": -5000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "파리바게뜨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP074카00002",
+      "trans_dtime": "20260607230048",
+      "trans_no": "WP07400001",
+      "currency_code": "KRW",
+      "trans_amt": -19700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "넷플릭스",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

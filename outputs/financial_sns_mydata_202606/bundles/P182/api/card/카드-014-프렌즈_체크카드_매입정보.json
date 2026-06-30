@@ -1,0 +1,145 @@
+{
+  "x-api-tran-id": "P182-카드-014-P182-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 17,
+  "purchase_list": [
+    {
+      "approved_num": "AP182000014",
+      "merchant_name": "CU",
+      "merchant_regno": "515-80-69785",
+      "purchase_dtime": "20260630215841",
+      "purchase_amt": 41500.0,
+      "transaction_id": "P182-T0072"
+    },
+    {
+      "approved_num": "AP182000009",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "181-55-87544",
+      "purchase_dtime": "20260630213410",
+      "purchase_amt": 17400.0,
+      "transaction_id": "P182-T0045"
+    },
+    {
+      "approved_num": "AP182000016",
+      "merchant_name": "쿠팡이츠",
+      "merchant_regno": "868-16-15536",
+      "purchase_dtime": "20260630203616",
+      "purchase_amt": 11100.0,
+      "transaction_id": "P182-T0081"
+    },
+    {
+      "approved_num": "AP182000011",
+      "merchant_name": "파리바게뜨",
+      "merchant_regno": "416-20-64178",
+      "purchase_dtime": "20260630081326",
+      "purchase_amt": 5900.0,
+      "transaction_id": "P182-T0061"
+    },
+    {
+      "approved_num": "AP182000010",
+      "merchant_name": "인프런",
+      "merchant_regno": "830-80-22240",
+      "purchase_dtime": "20260629225455",
+      "purchase_amt": 70700.0,
+      "transaction_id": "P182-T0051"
+    },
+    {
+      "approved_num": "AP182000013",
+      "merchant_name": "해커스",
+      "merchant_regno": "177-55-15052",
+      "purchase_dtime": "20260627162609",
+      "purchase_amt": 109400.0,
+      "transaction_id": "P182-T0071"
+    },
+    {
+      "approved_num": "AP182000001",
+      "merchant_name": "휴대폰 요금",
+      "merchant_regno": "769-48-68082",
+      "purchase_dtime": "20260627124525",
+      "purchase_amt": 101200.0,
+      "transaction_id": "P182-T0005"
+    },
+    {
+      "approved_num": "AP182000006",
+      "merchant_name": "이마트",
+      "merchant_regno": "333-20-34510",
+      "purchase_dtime": "20260621193744",
+      "purchase_amt": 21500.0,
+      "transaction_id": "P182-T0038"
+    },
+    {
+      "approved_num": "AP182000004",
+      "merchant_name": "여기어때",
+      "merchant_regno": "699-27-24199",
+      "purchase_dtime": "20260619153622",
+      "purchase_amt": 258600.0,
+      "transaction_id": "P182-T0028"
+    },
+    {
+      "approved_num": "AP182000008",
+      "merchant_name": "모바일티머니",
+      "merchant_regno": "105-79-72277",
+      "purchase_dtime": "20260618232736",
+      "purchase_amt": 13600.0,
+      "transaction_id": "P182-T0044"
+    },
+    {
+      "approved_num": "AP182000003",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "185-56-11175",
+      "purchase_dtime": "20260613192339",
+      "purchase_amt": 14000.0,
+      "transaction_id": "P182-T0018"
+    },
+    {
+      "approved_num": "AP182000002",
+      "merchant_name": "구독 서비스",
+      "merchant_regno": "777-72-34544",
+      "purchase_dtime": "20260613082008",
+      "purchase_amt": 22300.0,
+      "transaction_id": "P182-T0006"
+    },
+    {
+      "approved_num": "AP182000007",
+      "merchant_name": "해커스",
+      "merchant_regno": "177-55-15052",
+      "purchase_dtime": "20260612234244",
+      "purchase_amt": 52300.0,
+      "transaction_id": "P182-T0040"
+    },
+    {
+      "approved_num": "AP182000017",
+      "merchant_name": "해커스",
+      "merchant_regno": "177-55-15052",
+      "purchase_dtime": "20260611232805",
+      "purchase_amt": 57200.0,
+      "transaction_id": "P182-T0098"
+    },
+    {
+      "approved_num": "AP182000012",
+      "merchant_name": "CU",
+      "merchant_regno": "515-80-69785",
+      "purchase_dtime": "20260611091044",
+      "purchase_amt": 26600.0,
+      "transaction_id": "P182-T0062"
+    },
+    {
+      "approved_num": "AP182000005",
+      "merchant_name": "아이엠택시",
+      "merchant_regno": "853-49-89873",
+      "purchase_dtime": "20260610075603",
+      "purchase_amt": 19600.0,
+      "transaction_id": "P182-T0034"
+    },
+    {
+      "approved_num": "AP182000015",
+      "merchant_name": "던킨",
+      "merchant_regno": "531-37-32925",
+      "purchase_dtime": "20260607192846",
+      "purchase_amt": 4500.0,
+      "transaction_id": "P182-T0078"
+    }
+  ]
+}

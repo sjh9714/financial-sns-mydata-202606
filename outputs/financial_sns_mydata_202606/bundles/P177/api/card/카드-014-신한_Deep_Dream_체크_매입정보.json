@@ -1,0 +1,145 @@
+{
+  "x-api-tran-id": "P177-카드-014-P177-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 17,
+  "purchase_list": [
+    {
+      "approved_num": "AP177000004",
+      "merchant_name": "롯데마트",
+      "merchant_regno": "625-39-73301",
+      "purchase_dtime": "20260629140810",
+      "purchase_amt": 39300.0,
+      "transaction_id": "P177-T0059"
+    },
+    {
+      "approved_num": "AP177000011",
+      "merchant_name": "메가박스",
+      "merchant_regno": "357-12-17958",
+      "purchase_dtime": "20260629140127",
+      "purchase_amt": 35300.0,
+      "transaction_id": "P177-T0102"
+    },
+    {
+      "approved_num": "AP177000009",
+      "merchant_name": "야놀자",
+      "merchant_regno": "641-53-76810",
+      "purchase_dtime": "20260629112746",
+      "purchase_amt": 121500.0,
+      "transaction_id": "P177-T0091"
+    },
+    {
+      "approved_num": "AP177000012",
+      "merchant_name": "세븐일레븐",
+      "merchant_regno": "352-46-82388",
+      "purchase_dtime": "20260627134511",
+      "purchase_amt": 67900.0,
+      "transaction_id": "P177-T0111"
+    },
+    {
+      "approved_num": "AP177000015",
+      "merchant_name": "11번가",
+      "merchant_regno": "232-86-40779",
+      "purchase_dtime": "20260625103021",
+      "purchase_amt": 57100.0,
+      "transaction_id": "P177-T0117"
+    },
+    {
+      "approved_num": "AP177000017",
+      "merchant_name": "담소소사골순대",
+      "merchant_regno": "125-82-27540",
+      "purchase_dtime": "20260624084821",
+      "purchase_amt": 12200.0,
+      "transaction_id": "P177-T0125"
+    },
+    {
+      "approved_num": "AP177000014",
+      "merchant_name": "야놀자",
+      "merchant_regno": "641-53-76810",
+      "purchase_dtime": "20260621145828",
+      "purchase_amt": 110100.0,
+      "transaction_id": "P177-T0114"
+    },
+    {
+      "approved_num": "AP177000013",
+      "merchant_name": "배민스토어",
+      "merchant_regno": "134-72-75048",
+      "purchase_dtime": "20260614213421",
+      "purchase_amt": 16500.0,
+      "transaction_id": "P177-T0113"
+    },
+    {
+      "approved_num": "AP177000001",
+      "merchant_name": "야놀자",
+      "merchant_regno": "641-53-76810",
+      "purchase_dtime": "20260613145252",
+      "purchase_amt": 94900.0,
+      "transaction_id": "P177-T0037"
+    },
+    {
+      "approved_num": "AP177000003",
+      "merchant_name": "넷플릭스",
+      "merchant_regno": "462-84-21166",
+      "purchase_dtime": "20260611111712",
+      "purchase_amt": 45900.0,
+      "transaction_id": "P177-T0044"
+    },
+    {
+      "approved_num": "AP177000008",
+      "merchant_name": "무신사",
+      "merchant_regno": "308-28-25154",
+      "purchase_dtime": "20260608222233",
+      "purchase_amt": 30300.0,
+      "transaction_id": "P177-T0076"
+    },
+    {
+      "approved_num": "AP177000005",
+      "merchant_name": "배민스토어",
+      "merchant_regno": "134-72-75048",
+      "purchase_dtime": "20260608203739",
+      "purchase_amt": 13800.0,
+      "transaction_id": "P177-T0069"
+    },
+    {
+      "approved_num": "AP177000002",
+      "merchant_name": "스타벅스 합정점",
+      "merchant_regno": "289-71-69829",
+      "purchase_dtime": "20260608190831",
+      "purchase_amt": 8600.0,
+      "transaction_id": "P177-T0043"
+    },
+    {
+      "approved_num": "AP177000010",
+      "merchant_name": "배스킨라빈스",
+      "merchant_regno": "301-61-62753",
+      "purchase_dtime": "20260607191142",
+      "purchase_amt": 6900.0,
+      "transaction_id": "P177-T0092"
+    },
+    {
+      "approved_num": "AP177000006",
+      "merchant_name": "CU",
+      "merchant_regno": "157-52-56035",
+      "purchase_dtime": "20260607184727",
+      "purchase_amt": 19000.0,
+      "transaction_id": "P177-T0071"
+    },
+    {
+      "approved_num": "AP177000007",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "729-65-63833",
+      "purchase_dtime": "20260606235842",
+      "purchase_amt": 96100.0,
+      "transaction_id": "P177-T0075"
+    },
+    {
+      "approved_num": "AP177000016",
+      "merchant_name": "주식회사 우아한형제들",
+      "merchant_regno": "265-45-30751",
+      "purchase_dtime": "20260606211508",
+      "purchase_amt": 15700.0,
+      "transaction_id": "P177-T0124"
+    }
+  ]
+}

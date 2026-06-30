@@ -1,0 +1,30 @@
+{
+  "persona_id": "P187",
+  "synthetic_name": "가상청년 P187",
+  "age": 27,
+  "birth_year": 1999,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "청약·내집마련형",
+  "job": "제조업 엔지니어",
+  "region": "대전 서구",
+  "monthly_income_krw": 5360000,
+  "income_band": "500~700만원",
+  "target_monthly_spend_krw": 2870000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.531,
+  "target_investment_rate": 0.14,
+  "risk_score": 3,
+  "risk_attitude": "중립형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "배달선호",
+    "장기계획",
+    "청약저축"
+  ],
+  "financial_goal": "청약",
+  "sns_tendency": "투자피드형",
+  "target_ledger_rows": 95,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

@@ -1,0 +1,63 @@
+{
+  "x-api-tran-id": "P196-금투-003-P196-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "prod_name": "LG에너지솔루션",
+      "prod_code": "373220",
+      "trans_dtime": "20260609141559",
+      "Bod": "매수",
+      "trans_no": "STKP1960001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 3.0,
+      "trans_unit": "주",
+      "base_amt": 350000.0,
+      "trans_amt": 1050000.0,
+      "settle_amt": 1050157.0,
+      "balance_amt": 1437838.0,
+      "currency_code": "KRW",
+      "trans_memo": "LG에너지솔루션 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "NAVER",
+      "prod_code": "035420",
+      "trans_dtime": "20260609140709",
+      "Bod": "매수",
+      "trans_no": "STKP1960003",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 6.0,
+      "trans_unit": "주",
+      "base_amt": 185000.0,
+      "trans_amt": 1110000.0,
+      "settle_amt": 1110166.0,
+      "balance_amt": 1497847.0,
+      "currency_code": "KRW",
+      "trans_memo": "NAVER 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "KODEX 미국나스닥100TR",
+      "prod_code": "379810",
+      "trans_dtime": "20260603120551",
+      "Bod": "매수",
+      "trans_no": "STKP1960002",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 64.0,
+      "trans_unit": "좌",
+      "base_amt": 18000.0,
+      "trans_amt": 1152000.0,
+      "settle_amt": 1152172.0,
+      "balance_amt": 1539853.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 미국나스닥100TR 매수",
+      "ex_code": "001"
+    }
+  ]
+}

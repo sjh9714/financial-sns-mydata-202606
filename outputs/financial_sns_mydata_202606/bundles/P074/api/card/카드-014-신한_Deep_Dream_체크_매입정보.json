@@ -1,0 +1,129 @@
+{
+  "x-api-tran-id": "P074-카드-014-P074-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 15,
+  "purchase_list": [
+    {
+      "approved_num": "AP074000009",
+      "merchant_name": "홈플러스",
+      "merchant_regno": "255-66-29335",
+      "purchase_dtime": "20260630232555",
+      "purchase_amt": 32500.0,
+      "transaction_id": "P074-T0078"
+    },
+    {
+      "approved_num": "AP074000015",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "444-82-26457",
+      "purchase_dtime": "20260630210326",
+      "purchase_amt": 70200.0,
+      "transaction_id": "P074-T0109"
+    },
+    {
+      "approved_num": "AP074000011",
+      "merchant_name": "주식회사 우아한형제들",
+      "merchant_regno": "489-42-84368",
+      "purchase_dtime": "20260629120112",
+      "purchase_amt": 13100.0,
+      "transaction_id": "P074-T0084"
+    },
+    {
+      "approved_num": "AP074000010",
+      "merchant_name": "예스24",
+      "merchant_regno": "156-29-88404",
+      "purchase_dtime": "20260628122507",
+      "purchase_amt": 23400.0,
+      "transaction_id": "P074-T0079"
+    },
+    {
+      "approved_num": "AP074000013",
+      "merchant_name": "메가박스",
+      "merchant_regno": "790-74-62360",
+      "purchase_dtime": "20260627203509",
+      "purchase_amt": 33900.0,
+      "transaction_id": "P074-T0091"
+    },
+    {
+      "approved_num": "AP074000008",
+      "merchant_name": "해커스",
+      "merchant_regno": "462-38-31135",
+      "purchase_dtime": "20260627125933",
+      "purchase_amt": 69200.0,
+      "transaction_id": "P074-T0041"
+    },
+    {
+      "approved_num": "AP074000003",
+      "merchant_name": "주식회사 우아한형제들",
+      "merchant_regno": "489-42-84368",
+      "purchase_dtime": "20260626112631",
+      "purchase_amt": 8600.0,
+      "transaction_id": "P074-T0014"
+    },
+    {
+      "approved_num": "AP074000001",
+      "merchant_name": "휴대폰 요금",
+      "merchant_regno": "138-84-84402",
+      "purchase_dtime": "20260618210027",
+      "purchase_amt": 108400.0,
+      "transaction_id": "P074-T0004"
+    },
+    {
+      "approved_num": "AP074000006",
+      "merchant_name": "주식회사 우아한형제들",
+      "merchant_regno": "489-42-84368",
+      "purchase_dtime": "20260615095743",
+      "purchase_amt": 15900.0,
+      "transaction_id": "P074-T0031"
+    },
+    {
+      "approved_num": "AP074000005",
+      "merchant_name": "메가MGC커피",
+      "merchant_regno": "602-81-35084",
+      "purchase_dtime": "20260610123930",
+      "purchase_amt": 9600.0,
+      "transaction_id": "P074-T0027"
+    },
+    {
+      "approved_num": "AP074000012",
+      "merchant_name": "메가MGC커피",
+      "merchant_regno": "602-81-35084",
+      "purchase_dtime": "20260609210218",
+      "purchase_amt": 2900.0,
+      "transaction_id": "P074-T0089"
+    },
+    {
+      "approved_num": "AP074000002",
+      "merchant_name": "실손보험료",
+      "merchant_regno": "427-79-82579",
+      "purchase_dtime": "20260609155907",
+      "purchase_amt": 28700.0,
+      "transaction_id": "P074-T0006"
+    },
+    {
+      "approved_num": "AP074000014",
+      "merchant_name": "GS25",
+      "merchant_regno": "435-57-65102",
+      "purchase_dtime": "20260609093658",
+      "purchase_amt": 29700.0,
+      "transaction_id": "P074-T0097"
+    },
+    {
+      "approved_num": "AP074000007",
+      "merchant_name": "이마트",
+      "merchant_regno": "547-62-47757",
+      "purchase_dtime": "20260606141904",
+      "purchase_amt": 49500.0,
+      "transaction_id": "P074-T0038"
+    },
+    {
+      "approved_num": "AP074000004",
+      "merchant_name": "쿠팡이츠",
+      "merchant_regno": "195-23-43545",
+      "purchase_dtime": "20260604094627",
+      "purchase_amt": 23000.0,
+      "transaction_id": "P074-T0019"
+    }
+  ]
+}

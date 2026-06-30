@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P182-전금-004-P182-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP182네00009",
+      "trans_dtime": "20260616204945",
+      "trans_no": "WP18200003",
+      "currency_code": "KRW",
+      "trans_amt": -41300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "인프런",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP182네00008",
+      "trans_dtime": "20260609080401",
+      "trans_no": "WP18200002",
+      "currency_code": "KRW",
+      "trans_amt": -20600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "한솥도시락 신촌점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP182네00002",
+      "trans_dtime": "20260601203613",
+      "trans_no": "WP18200001",
+      "currency_code": "KRW",
+      "trans_amt": -53000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

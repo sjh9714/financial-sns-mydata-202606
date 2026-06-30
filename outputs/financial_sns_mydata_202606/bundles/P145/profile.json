@@ -1,0 +1,30 @@
+{
+  "persona_id": "P145",
+  "synthetic_name": "가상청년 P145",
+  "age": 31,
+  "birth_year": 1995,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "소비·구독형",
+  "job": "콘텐츠 에디터",
+  "region": "대전 서구",
+  "monthly_income_krw": 3890000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2860000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.085,
+  "target_investment_rate": 0.051,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "구독다수",
+    "모바일결제",
+    "취향소비"
+  ],
+  "financial_goal": "여행",
+  "sns_tendency": "목표공유형",
+  "target_ledger_rows": 113,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

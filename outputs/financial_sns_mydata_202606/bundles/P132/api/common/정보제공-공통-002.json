@@ -1,0 +1,14 @@
+{
+  "x-api-tran-id": "P132-정보제공-공통-002",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "is_scheduled": true,
+  "fnd_cycle": "1m",
+  "add_cycle": "1d",
+  "end_date": "20271231",
+  "purpose": "금융 SNS 설계용 합성 MyData 샘플",
+  "period": "20260601-20260630",
+  "is_consent_trans_memo": true,
+  "is_consent_merchant_name_regno": true,
+  "is_consent_trans_category": true
+}

@@ -1,0 +1,145 @@
+{
+  "x-api-tran-id": "P081-카드-014-P081-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 17,
+  "purchase_list": [
+    {
+      "approved_num": "AP081000010",
+      "merchant_name": "알라딘",
+      "merchant_regno": "616-83-66039",
+      "purchase_dtime": "20260630202709",
+      "purchase_amt": 20300.0,
+      "transaction_id": "P081-T0101"
+    },
+    {
+      "approved_num": "AP081000001",
+      "merchant_name": "담소소사골순대",
+      "merchant_regno": "472-28-19813",
+      "purchase_dtime": "20260630180036",
+      "purchase_amt": 17400.0,
+      "transaction_id": "P081-T0016"
+    },
+    {
+      "approved_num": "AP081000013",
+      "merchant_name": "카카오버스",
+      "merchant_regno": "326-30-50817",
+      "purchase_dtime": "20260628182650",
+      "purchase_amt": 20300.0,
+      "transaction_id": "P081-T0115"
+    },
+    {
+      "approved_num": "AP081000004",
+      "merchant_name": "쿠팡이츠",
+      "merchant_regno": "101-21-54184",
+      "purchase_dtime": "20260627120215",
+      "purchase_amt": 11300.0,
+      "transaction_id": "P081-T0036"
+    },
+    {
+      "approved_num": "AP081000005",
+      "merchant_name": "무신사",
+      "merchant_regno": "758-12-57989",
+      "purchase_dtime": "20260626120554",
+      "purchase_amt": 28700.0,
+      "transaction_id": "P081-T0058"
+    },
+    {
+      "approved_num": "AP081000008",
+      "merchant_name": "스타벅스 합정점",
+      "merchant_regno": "521-35-19263",
+      "purchase_dtime": "20260626081143",
+      "purchase_amt": 5200.0,
+      "transaction_id": "P081-T0085"
+    },
+    {
+      "approved_num": "AP081000014",
+      "merchant_name": "아모레몰",
+      "merchant_regno": "385-85-19929",
+      "purchase_dtime": "20260625111614",
+      "purchase_amt": 28400.0,
+      "transaction_id": "P081-T0119"
+    },
+    {
+      "approved_num": "AP081000002",
+      "merchant_name": "GS25",
+      "merchant_regno": "491-65-54522",
+      "purchase_dtime": "20260623152609",
+      "purchase_amt": 51600.0,
+      "transaction_id": "P081-T0025"
+    },
+    {
+      "approved_num": "AP081000003",
+      "merchant_name": "이마트",
+      "merchant_regno": "172-66-10928",
+      "purchase_dtime": "20260621215215",
+      "purchase_amt": 22600.0,
+      "transaction_id": "P081-T0027"
+    },
+    {
+      "approved_num": "AP081000015",
+      "merchant_name": "메가박스",
+      "merchant_regno": "887-88-67168",
+      "purchase_dtime": "20260620103408",
+      "purchase_amt": 38700.0,
+      "transaction_id": "P081-T0121"
+    },
+    {
+      "approved_num": "AP081000011",
+      "merchant_name": "챗GPT",
+      "merchant_regno": "844-36-48457",
+      "purchase_dtime": "20260618093346",
+      "purchase_amt": 45600.0,
+      "transaction_id": "P081-T0108"
+    },
+    {
+      "approved_num": "AP081000009",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "151-51-23911",
+      "purchase_dtime": "20260615234052",
+      "purchase_amt": 56800.0,
+      "transaction_id": "P081-T0087"
+    },
+    {
+      "approved_num": "AP081000012",
+      "merchant_name": "인터파크티켓",
+      "merchant_regno": "183-67-17760",
+      "purchase_dtime": "20260614205423",
+      "purchase_amt": 15100.0,
+      "transaction_id": "P081-T0109"
+    },
+    {
+      "approved_num": "AP081000017",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "151-51-23911",
+      "purchase_dtime": "20260606211852",
+      "purchase_amt": 113100.0,
+      "transaction_id": "P081-T0124"
+    },
+    {
+      "approved_num": "AP081000007",
+      "merchant_name": "아이엠택시",
+      "merchant_regno": "865-27-10305",
+      "purchase_dtime": "20260606093457",
+      "purchase_amt": 9800.0,
+      "transaction_id": "P081-T0073"
+    },
+    {
+      "approved_num": "AP081000016",
+      "merchant_name": "아모레몰",
+      "merchant_regno": "385-85-19929",
+      "purchase_dtime": "20260604184540",
+      "purchase_amt": 31800.0,
+      "transaction_id": "P081-T0123"
+    },
+    {
+      "approved_num": "AP081000006",
+      "merchant_name": "타다",
+      "merchant_regno": "350-57-52973",
+      "purchase_dtime": "20260604180032",
+      "purchase_amt": 8400.0,
+      "transaction_id": "P081-T0071"
+    }
+  ]
+}

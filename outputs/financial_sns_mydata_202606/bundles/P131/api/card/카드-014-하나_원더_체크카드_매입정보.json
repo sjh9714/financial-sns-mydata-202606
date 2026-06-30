@@ -1,0 +1,73 @@
+{
+  "x-api-tran-id": "P131-카드-014-P131-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 8,
+  "purchase_list": [
+    {
+      "approved_num": "AP131000006",
+      "merchant_name": "마켓컬리",
+      "merchant_regno": "624-73-43763",
+      "purchase_dtime": "20260630203727",
+      "purchase_amt": 21400.0,
+      "transaction_id": "P131-T0060"
+    },
+    {
+      "approved_num": "AP131000008",
+      "merchant_name": "세븐일레븐",
+      "merchant_regno": "239-75-42810",
+      "purchase_dtime": "20260630105316",
+      "purchase_amt": 23900.0,
+      "transaction_id": "P131-T0077"
+    },
+    {
+      "approved_num": "AP131000001",
+      "merchant_name": "요기요",
+      "merchant_regno": "688-59-40629",
+      "purchase_dtime": "20260626195652",
+      "purchase_amt": 23900.0,
+      "transaction_id": "P131-T0024"
+    },
+    {
+      "approved_num": "AP131000007",
+      "merchant_name": "스타벅스 합정점",
+      "merchant_regno": "496-55-46707",
+      "purchase_dtime": "20260625194949",
+      "purchase_amt": 7000.0,
+      "transaction_id": "P131-T0061"
+    },
+    {
+      "approved_num": "AP131000004",
+      "merchant_name": "지그재그",
+      "merchant_regno": "567-31-75451",
+      "purchase_dtime": "20260617144643",
+      "purchase_amt": 23200.0,
+      "transaction_id": "P131-T0040"
+    },
+    {
+      "approved_num": "AP131000003",
+      "merchant_name": "무신사",
+      "merchant_regno": "348-79-61711",
+      "purchase_dtime": "20260617124623",
+      "purchase_amt": 31000.0,
+      "transaction_id": "P131-T0036"
+    },
+    {
+      "approved_num": "AP131000002",
+      "merchant_name": "29CM",
+      "merchant_regno": "854-37-59227",
+      "purchase_dtime": "20260610152243",
+      "purchase_amt": 36900.0,
+      "transaction_id": "P131-T0026"
+    },
+    {
+      "approved_num": "AP131000005",
+      "merchant_name": "클래스101",
+      "merchant_regno": "137-72-10741",
+      "purchase_dtime": "20260607134154",
+      "purchase_amt": 27200.0,
+      "transaction_id": "P131-T0048"
+    }
+  ]
+}

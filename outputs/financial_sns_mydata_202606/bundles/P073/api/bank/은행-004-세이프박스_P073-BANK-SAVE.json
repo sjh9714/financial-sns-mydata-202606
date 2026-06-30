@@ -1,0 +1,31 @@
+{
+  "x-api-tran-id": "P073-은행-004-P073-BANK-SAVE",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_dtime": "20260610081334",
+      "trans_no": "BP07300002",
+      "trans_type": "03",
+      "trans_class": "내계좌이체",
+      "currency_code": "KRW",
+      "trans_amt": 70000.0,
+      "balance_amt": 505324.0,
+      "paid_in_cnt": null,
+      "trans_memo": "비상금 이체"
+    },
+    {
+      "trans_dtime": "20260603153947",
+      "trans_no": "BP07300001",
+      "trans_type": "03",
+      "trans_class": "내계좌이체",
+      "currency_code": "KRW",
+      "trans_amt": 210000.0,
+      "balance_amt": 435324.0,
+      "paid_in_cnt": null,
+      "trans_memo": "적금 자동이체"
+    }
+  ]
+}

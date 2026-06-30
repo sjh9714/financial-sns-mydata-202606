@@ -1,0 +1,87 @@
+{
+  "x-api-tran-id": "P111-전금-004-P111-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 6,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP111네00007",
+      "trans_dtime": "20260625130350",
+      "trans_no": "WP11100003",
+      "currency_code": "KRW",
+      "trans_amt": -6100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "챗GPT",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP111네00002",
+      "trans_dtime": "20260622204625",
+      "trans_no": "WP11100001",
+      "currency_code": "KRW",
+      "trans_amt": -48400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "넷플릭스",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP111네00012",
+      "trans_dtime": "20260613084228",
+      "trans_no": "WP11100006",
+      "currency_code": "KRW",
+      "trans_amt": -16400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "아이엠택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP111네00011",
+      "trans_dtime": "20260609125022",
+      "trans_no": "WP11100005",
+      "currency_code": "KRW",
+      "trans_amt": -36200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP111네00010",
+      "trans_dtime": "20260607152710",
+      "trans_no": "WP11100004",
+      "currency_code": "KRW",
+      "trans_amt": -32700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "인터파크티켓",
+      "trans_title": "공연/영화 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP111네00004",
+      "trans_dtime": "20260602153810",
+      "trans_no": "WP11100002",
+      "currency_code": "KRW",
+      "trans_amt": -20300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "챗GPT",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

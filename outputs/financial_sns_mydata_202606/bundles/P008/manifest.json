@@ -1,0 +1,74 @@
+{
+  "persona_id": "P008",
+  "generated_at": "2026-06-30T10:49:24",
+  "seed": 20260630,
+  "ledger_rows": 117,
+  "api_scope": [
+    "금투-001",
+    "금투-002",
+    "금투-003",
+    "금투-004",
+    "은행-001",
+    "은행-004",
+    "전금-001",
+    "전금-004",
+    "전금-101",
+    "전금-102",
+    "전금-103",
+    "정보제공-공통-002",
+    "카드-001",
+    "카드-008",
+    "카드-014"
+  ],
+  "files": {
+    "정보제공-공통-002": {
+      "file_name": "api/common/정보제공-공통-002.json"
+    },
+    "은행-001": {
+      "file_name": "api/bank/은행-001-계좌_목록_조회.json"
+    },
+    "은행-004": {
+      "file_name_pattern": "api/bank/은행-004-*.json"
+    },
+    "카드-001": {
+      "file_name": "api/card/카드-001-카드_목록_조회.json"
+    },
+    "카드-008": {
+      "file_name_pattern": "api/card/카드-008-*.json"
+    },
+    "카드-014": {
+      "file_name_pattern": "api/card/카드-014-*.json"
+    },
+    "전금-001": {
+      "file_name": "api/efinance/전금-001-선불전자지급수단_목록_조회.json"
+    },
+    "전금-004": {
+      "file_name_pattern": "api/efinance/전금-004-*.json"
+    },
+    "전금-101": {
+      "file_name": "api/efinance/전금-101-계정_목록_조회.json"
+    },
+    "전금-102": {
+      "file_name_pattern": "api/efinance/전금-102-*.json"
+    },
+    "전금-103": {
+      "file_name_pattern": "api/efinance/전금-103-*.json"
+    },
+    "금투-001": {
+      "file_name": "api/invest/금투-001-계좌_목록_조회.json"
+    },
+    "금투-002": {
+      "file_name": "api/invest/금투-002-계좌_기본정보_조회.json"
+    },
+    "금투-003": {
+      "file_name_pattern": "api/invest/금투-003-*.json"
+    },
+    "금투-004": {
+      "file_name_pattern": "api/invest/금투-004-*.json"
+    }
+  },
+  "source_references": {
+    "source_api_json": "inputs/source_api_json",
+    "response_schemas": "inputs/response_schemas"
+  }
+}

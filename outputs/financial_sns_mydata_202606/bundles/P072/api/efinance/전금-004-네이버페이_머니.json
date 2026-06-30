@@ -1,0 +1,100 @@
+{
+  "x-api-tran-id": "P072-전금-004-P072-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 7,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP072네00003",
+      "trans_dtime": "20260626120625",
+      "trans_no": "WP07200002",
+      "currency_code": "KRW",
+      "trans_amt": -45400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가박스",
+      "trans_title": "공연/영화 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP072네00008",
+      "trans_dtime": "20260625182501",
+      "trans_no": "WP07200005",
+      "currency_code": "KRW",
+      "trans_amt": -8600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "서울교통공사",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP072네00016",
+      "trans_dtime": "20260625135214",
+      "trans_no": "WP07200007",
+      "currency_code": "KRW",
+      "trans_amt": -60900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP072네00005",
+      "trans_dtime": "20260624124736",
+      "trans_no": "WP07200003",
+      "currency_code": "KRW",
+      "trans_amt": -7700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이디야커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP072네00006",
+      "trans_dtime": "20260617120359",
+      "trans_no": "WP07200004",
+      "currency_code": "KRW",
+      "trans_amt": -3200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "컴포즈커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP072네00001",
+      "trans_dtime": "20260615074803",
+      "trans_no": "WP07200001",
+      "currency_code": "KRW",
+      "trans_amt": -19700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오버스",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP072네00009",
+      "trans_dtime": "20260603091032",
+      "trans_no": "WP07200006",
+      "currency_code": "KRW",
+      "trans_amt": -17100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오T 택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persona_id": "P139",
+  "synthetic_name": "가상청년 P139",
+  "age": 23,
+  "birth_year": 2003,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "소비·구독형",
+  "job": "콘텐츠 에디터",
+  "region": "광주 동구",
+  "monthly_income_krw": 3790000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 3190000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.166,
+  "target_investment_rate": 0.08,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "부모동거",
+  "household_size": 4,
+  "lifestyle_tags": [
+    "소액투자",
+    "온라인쇼핑",
+    "취향소비"
+  ],
+  "financial_goal": "여행",
+  "sns_tendency": "투자피드형",
+  "target_ledger_rows": 130,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

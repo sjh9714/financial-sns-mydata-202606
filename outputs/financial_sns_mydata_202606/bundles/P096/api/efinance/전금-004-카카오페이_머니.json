@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P096-전금-004-P096-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP096카00005",
+      "trans_dtime": "20260625121217",
+      "trans_no": "WP09600001",
+      "currency_code": "KRW",
+      "trans_amt": -27000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "아모레몰",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP096카00007",
+      "trans_dtime": "20260619122941",
+      "trans_no": "WP09600002",
+      "currency_code": "KRW",
+      "trans_amt": -34900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

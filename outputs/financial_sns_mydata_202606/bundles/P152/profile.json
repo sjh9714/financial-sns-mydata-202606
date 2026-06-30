@@ -1,0 +1,30 @@
+{
+  "persona_id": "P152",
+  "synthetic_name": "가상청년 P152",
+  "age": 26,
+  "birth_year": 2000,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "소비·구독형",
+  "job": "SNS 운영자",
+  "region": "부산 해운대구",
+  "monthly_income_krw": 3780000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 3000000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.13,
+  "target_investment_rate": 0.069,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "쉐어하우스",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "구독다수",
+    "배달선호",
+    "온라인쇼핑"
+  ],
+  "financial_goal": "여행",
+  "sns_tendency": "목표공유형",
+  "target_ledger_rows": 112,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

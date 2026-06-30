@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P080-전금-004-P080-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP080네00015",
+      "trans_dtime": "20260620130542",
+      "trans_no": "WP08000004",
+      "currency_code": "KRW",
+      "trans_amt": -4400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "파리바게뜨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP080네00002",
+      "trans_dtime": "20260618214259",
+      "trans_no": "WP08000002",
+      "currency_code": "KRW",
+      "trans_amt": -87300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP080네00001",
+      "trans_dtime": "20260617100847",
+      "trans_no": "WP08000001",
+      "currency_code": "KRW",
+      "trans_amt": -67000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP080네00009",
+      "trans_dtime": "20260601201624",
+      "trans_no": "WP08000003",
+      "currency_code": "KRW",
+      "trans_amt": -4900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배스킨라빈스",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

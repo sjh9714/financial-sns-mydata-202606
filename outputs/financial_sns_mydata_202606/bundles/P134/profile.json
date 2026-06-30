@@ -1,0 +1,30 @@
+{
+  "persona_id": "P134",
+  "synthetic_name": "가상청년 P134",
+  "age": 23,
+  "birth_year": 2003,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "소비·구독형",
+  "job": "SNS 운영자",
+  "region": "서울 성동구",
+  "monthly_income_krw": 2500000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 1890000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.146,
+  "target_investment_rate": 0.073,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "부모동거",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "구독다수",
+    "배달선호",
+    "온라인쇼핑"
+  ],
+  "financial_goal": "카드혜택 최적화",
+  "sns_tendency": "눈팅형",
+  "target_ledger_rows": 128,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

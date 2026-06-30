@@ -1,0 +1,30 @@
+{
+  "persona_id": "P193",
+  "synthetic_name": "가상청년 P193",
+  "age": 27,
+  "birth_year": 1999,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "청약·내집마련형",
+  "job": "제조업 엔지니어",
+  "region": "서울 성동구",
+  "monthly_income_krw": 3320000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 1890000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.314,
+  "target_investment_rate": 0.105,
+  "risk_score": 3,
+  "risk_attitude": "중립형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "소액투자",
+    "장기계획",
+    "청약저축"
+  ],
+  "financial_goal": "전세보증금",
+  "sns_tendency": "눈팅형",
+  "target_ledger_rows": 138,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

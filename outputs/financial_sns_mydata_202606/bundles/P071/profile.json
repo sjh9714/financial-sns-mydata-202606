@@ -1,0 +1,30 @@
+{
+  "persona_id": "P071",
+  "synthetic_name": "가상청년 P071",
+  "age": 30,
+  "birth_year": 1996,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "사회초년생",
+  "job": "영업관리 사원",
+  "region": "대전 서구",
+  "monthly_income_krw": 2380000,
+  "income_band": "150~250만원",
+  "target_monthly_spend_krw": 1470000,
+  "spend_band": "90~150만원",
+  "target_saving_rate": 0.246,
+  "target_investment_rate": 0.119,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "부모동거",
+  "household_size": 4,
+  "lifestyle_tags": [
+    "소액투자",
+    "점심외식",
+    "출퇴근"
+  ],
+  "financial_goal": "비상금",
+  "sns_tendency": "소비인사이트형",
+  "target_ledger_rows": 100,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

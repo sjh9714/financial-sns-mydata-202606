@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P039-전금-004-P039-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP039카00002",
+      "trans_dtime": "20260625193718",
+      "trans_no": "WP03900002",
+      "currency_code": "KRW",
+      "trans_amt": -51500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "클래스101",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP039카00001",
+      "trans_dtime": "20260620092304",
+      "trans_no": "WP03900001",
+      "currency_code": "KRW",
+      "trans_amt": -53800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "인프런",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP039카00003",
+      "trans_dtime": "20260604205212",
+      "trans_no": "WP03900003",
+      "currency_code": "KRW",
+      "trans_amt": -59300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

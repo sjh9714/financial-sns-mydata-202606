@@ -1,0 +1,87 @@
+{
+  "x-api-tran-id": "P082-전금-004-P082-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 6,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP082카00002",
+      "trans_dtime": "20260621104825",
+      "trans_no": "WP08200002",
+      "currency_code": "KRW",
+      "trans_amt": -71300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "CU",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP082카00001",
+      "trans_dtime": "20260616130810",
+      "trans_no": "WP08200001",
+      "currency_code": "KRW",
+      "trans_amt": -19700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "한솥도시락 신촌점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP082카00010",
+      "trans_dtime": "20260615223702",
+      "trans_no": "WP08200005",
+      "currency_code": "KRW",
+      "trans_amt": -6000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP082카00005",
+      "trans_dtime": "20260606204209",
+      "trans_no": "WP08200003",
+      "currency_code": "KRW",
+      "trans_amt": -49000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP082카00019",
+      "trans_dtime": "20260605101952",
+      "trans_no": "WP08200006",
+      "currency_code": "KRW",
+      "trans_amt": -69800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP082카00006",
+      "trans_dtime": "20260601192106",
+      "trans_no": "WP08200004",
+      "currency_code": "KRW",
+      "trans_amt": -33000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "알라딘",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    }
+  ]
+}

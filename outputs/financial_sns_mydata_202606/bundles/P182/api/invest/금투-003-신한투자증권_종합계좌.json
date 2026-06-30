@@ -1,0 +1,63 @@
+{
+  "x-api-tran-id": "P182-금투-003-P182-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "prod_name": "LG에너지솔루션",
+      "prod_code": "373220",
+      "trans_dtime": "20260613150606",
+      "Bod": "매수",
+      "trans_no": "STKP1820001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 1.0,
+      "trans_unit": "주",
+      "base_amt": 350000.0,
+      "trans_amt": 350000.0,
+      "settle_amt": 350100.0,
+      "balance_amt": 368106.0,
+      "currency_code": "KRW",
+      "trans_memo": "LG에너지솔루션 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "NAVER",
+      "prod_code": "035420",
+      "trans_dtime": "20260611121051",
+      "Bod": "매수",
+      "trans_no": "STKP1820003",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 1.0,
+      "trans_unit": "주",
+      "base_amt": 185000.0,
+      "trans_amt": 185000.0,
+      "settle_amt": 185100.0,
+      "balance_amt": 203106.0,
+      "currency_code": "KRW",
+      "trans_memo": "NAVER 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "카카오",
+      "prod_code": "035720",
+      "trans_dtime": "20260609104501",
+      "Bod": "매수",
+      "trans_no": "STKP1820002",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 5.0,
+      "trans_unit": "주",
+      "base_amt": 48000.0,
+      "trans_amt": 240000.0,
+      "settle_amt": 240100.0,
+      "balance_amt": 258106.0,
+      "currency_code": "KRW",
+      "trans_memo": "카카오 매수",
+      "ex_code": "001"
+    }
+  ]
+}

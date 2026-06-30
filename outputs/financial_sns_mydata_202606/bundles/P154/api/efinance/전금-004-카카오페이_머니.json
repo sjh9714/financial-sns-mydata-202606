@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P154-전금-004-P154-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP154카00002",
+      "trans_dtime": "20260621184808",
+      "trans_no": "WP15400002",
+      "currency_code": "KRW",
+      "trans_amt": -7300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "스타벅스 합정점",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP154카00001",
+      "trans_dtime": "20260608212402",
+      "trans_no": "WP15400001",
+      "currency_code": "KRW",
+      "trans_amt": -74100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

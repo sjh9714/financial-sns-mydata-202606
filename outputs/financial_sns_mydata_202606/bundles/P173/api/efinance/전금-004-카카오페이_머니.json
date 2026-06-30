@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P173-전금-004-P173-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP173카00014",
+      "trans_dtime": "20260615190815",
+      "trans_no": "WP17300004",
+      "currency_code": "KRW",
+      "trans_amt": -6800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오버스",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP173카00012",
+      "trans_dtime": "20260615084800",
+      "trans_no": "WP17300003",
+      "currency_code": "KRW",
+      "trans_amt": -7400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "우티",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP173카00004",
+      "trans_dtime": "20260605104145",
+      "trans_no": "WP17300001",
+      "currency_code": "KRW",
+      "trans_amt": -57900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP173카00009",
+      "trans_dtime": "20260604131616",
+      "trans_no": "WP17300002",
+      "currency_code": "KRW",
+      "trans_amt": -9800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "주식회사 우아한형제들",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

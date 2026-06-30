@@ -1,0 +1,153 @@
+{
+  "x-api-tran-id": "P001-카드-014-P001-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 18,
+  "purchase_list": [
+    {
+      "approved_num": "AP001000016",
+      "merchant_name": "11번가",
+      "merchant_regno": "421-44-69347",
+      "purchase_dtime": "20260630234135",
+      "purchase_amt": 55100.0,
+      "transaction_id": "P001-T0079"
+    },
+    {
+      "approved_num": "AP001000001",
+      "merchant_name": "타다",
+      "merchant_regno": "354-69-28850",
+      "purchase_dtime": "20260630223725",
+      "purchase_amt": 15700.0,
+      "transaction_id": "P001-T0013"
+    },
+    {
+      "approved_num": "AP001000002",
+      "merchant_name": "티머니",
+      "merchant_regno": "761-70-20758",
+      "purchase_dtime": "20260630194306",
+      "purchase_amt": 14400.0,
+      "transaction_id": "P001-T0016"
+    },
+    {
+      "approved_num": "AP001000017",
+      "merchant_name": "11번가",
+      "merchant_regno": "421-44-69347",
+      "purchase_dtime": "20260630125353",
+      "purchase_amt": 31200.0,
+      "transaction_id": "P001-T0081"
+    },
+    {
+      "approved_num": "AP001000015",
+      "merchant_name": "유튜브 프리미엄",
+      "merchant_regno": "536-15-18033",
+      "purchase_dtime": "20260626100952",
+      "purchase_amt": 30300.0,
+      "transaction_id": "P001-T0076"
+    },
+    {
+      "approved_num": "AP001000003",
+      "merchant_name": "주식회사 우아한형제들",
+      "merchant_regno": "488-31-52245",
+      "purchase_dtime": "20260625205830",
+      "purchase_amt": 17100.0,
+      "transaction_id": "P001-T0023"
+    },
+    {
+      "approved_num": "AP001000018",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "619-38-65670",
+      "purchase_dtime": "20260625185944",
+      "purchase_amt": 9900.0,
+      "transaction_id": "P001-T0089"
+    },
+    {
+      "approved_num": "AP001000005",
+      "merchant_name": "인터파크티켓",
+      "merchant_regno": "750-22-60080",
+      "purchase_dtime": "20260624114825",
+      "purchase_amt": 8200.0,
+      "transaction_id": "P001-T0029"
+    },
+    {
+      "approved_num": "AP001000006",
+      "merchant_name": "GS25",
+      "merchant_regno": "360-35-83496",
+      "purchase_dtime": "20260623175245",
+      "purchase_amt": 18600.0,
+      "transaction_id": "P001-T0030"
+    },
+    {
+      "approved_num": "AP001000010",
+      "merchant_name": "서울교통공사",
+      "merchant_regno": "302-38-55738",
+      "purchase_dtime": "20260622185449",
+      "purchase_amt": 11600.0,
+      "transaction_id": "P001-T0046"
+    },
+    {
+      "approved_num": "AP001000009",
+      "merchant_name": "타다",
+      "merchant_regno": "354-69-28850",
+      "purchase_dtime": "20260621184758",
+      "purchase_amt": 15900.0,
+      "transaction_id": "P001-T0042"
+    },
+    {
+      "approved_num": "AP001000011",
+      "merchant_name": "넷플릭스",
+      "merchant_regno": "756-46-36881",
+      "purchase_dtime": "20260615141707",
+      "purchase_amt": 24900.0,
+      "transaction_id": "P001-T0048"
+    },
+    {
+      "approved_num": "AP001000004",
+      "merchant_name": "담소소사골순대",
+      "merchant_regno": "131-71-85448",
+      "purchase_dtime": "20260615080506",
+      "purchase_amt": 15500.0,
+      "transaction_id": "P001-T0028"
+    },
+    {
+      "approved_num": "AP001000012",
+      "merchant_name": "인터파크티켓",
+      "merchant_regno": "750-22-60080",
+      "purchase_dtime": "20260611201547",
+      "purchase_amt": 29700.0,
+      "transaction_id": "P001-T0063"
+    },
+    {
+      "approved_num": "AP001000013",
+      "merchant_name": "GS25",
+      "merchant_regno": "360-35-83496",
+      "purchase_dtime": "20260608212338",
+      "purchase_amt": 18400.0,
+      "transaction_id": "P001-T0064"
+    },
+    {
+      "approved_num": "AP001000007",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "733-54-53248",
+      "purchase_dtime": "20260608102042",
+      "purchase_amt": 47900.0,
+      "transaction_id": "P001-T0033"
+    },
+    {
+      "approved_num": "AP001000008",
+      "merchant_name": "모바일티머니",
+      "merchant_regno": "408-65-52669",
+      "purchase_dtime": "20260606081950",
+      "purchase_amt": 15500.0,
+      "transaction_id": "P001-T0036"
+    },
+    {
+      "approved_num": "AP001000014",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "546-39-79880",
+      "purchase_dtime": "20260605120719",
+      "purchase_amt": 23500.0,
+      "transaction_id": "P001-T0071"
+    }
+  ]
+}

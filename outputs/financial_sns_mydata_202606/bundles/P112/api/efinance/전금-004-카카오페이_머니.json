@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P112-전금-004-P112-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP112카00005",
+      "trans_dtime": "20260626192618",
+      "trans_no": "WP11200002",
+      "currency_code": "KRW",
+      "trans_amt": -13700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "멜론",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP112카00004",
+      "trans_dtime": "20260603081849",
+      "trans_no": "WP11200001",
+      "currency_code": "KRW",
+      "trans_amt": -6300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "우티",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

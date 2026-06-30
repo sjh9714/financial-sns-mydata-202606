@@ -1,0 +1,30 @@
+{
+  "persona_id": "P077",
+  "synthetic_name": "가상청년 P077",
+  "age": 29,
+  "birth_year": 1997,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "도시 직장인",
+  "job": "브랜드 매니저",
+  "region": "대구 중구",
+  "monthly_income_krw": 4990000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2670000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.184,
+  "target_investment_rate": 0.172,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "도심생활",
+    "소액투자",
+    "외식"
+  ],
+  "financial_goal": "내집마련",
+  "sns_tendency": "투자피드형",
+  "target_ledger_rows": 113,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

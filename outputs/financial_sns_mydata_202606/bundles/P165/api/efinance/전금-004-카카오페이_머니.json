@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P165-전금-004-P165-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP165카00002",
+      "trans_dtime": "20260625082029",
+      "trans_no": "WP16500002",
+      "currency_code": "KRW",
+      "trans_amt": -8500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP165카00001",
+      "trans_dtime": "20260622163319",
+      "trans_no": "WP16500001",
+      "currency_code": "KRW",
+      "trans_amt": -65400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "해커스",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    }
+  ]
+}

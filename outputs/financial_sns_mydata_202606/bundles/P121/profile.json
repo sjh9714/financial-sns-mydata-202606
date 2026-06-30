@@ -1,0 +1,30 @@
+{
+  "persona_id": "P121",
+  "synthetic_name": "가상청년 P121",
+  "age": 30,
+  "birth_year": 1996,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "절약·저축형",
+  "job": "간호조무사",
+  "region": "대구 중구",
+  "monthly_income_krw": 3340000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 1600000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.548,
+  "target_investment_rate": 0.063,
+  "risk_score": 3,
+  "risk_attitude": "중립형",
+  "household_type": "부모동거",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "도시락",
+    "모바일결제",
+    "자동저축"
+  ],
+  "financial_goal": "청약",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 109,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

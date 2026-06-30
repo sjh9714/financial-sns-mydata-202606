@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P094-전금-004-P094-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP094카00003",
+      "trans_dtime": "20260630235957",
+      "trans_no": "WP09400001",
+      "currency_code": "KRW",
+      "trans_amt": -33500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사뷰티",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP094카00007",
+      "trans_dtime": "20260620220854",
+      "trans_no": "WP09400003",
+      "currency_code": "KRW",
+      "trans_amt": -35200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP094카00004",
+      "trans_dtime": "20260617081324",
+      "trans_no": "WP09400002",
+      "currency_code": "KRW",
+      "trans_amt": -5100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노티드",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP094카00009",
+      "trans_dtime": "20260610212228",
+      "trans_no": "WP09400004",
+      "currency_code": "KRW",
+      "trans_amt": -6800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이디야커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

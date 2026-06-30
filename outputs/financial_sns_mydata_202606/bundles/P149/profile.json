@@ -1,0 +1,30 @@
+{
+  "persona_id": "P149",
+  "synthetic_name": "가상청년 P149",
+  "age": 23,
+  "birth_year": 2003,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "소비·구독형",
+  "job": "패션 MD",
+  "region": "대전 서구",
+  "monthly_income_krw": 3080000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 2880000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.034,
+  "target_investment_rate": 0.091,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "부모동거",
+  "household_size": 4,
+  "lifestyle_tags": [
+    "구독다수",
+    "예산관리",
+    "온라인쇼핑"
+  ],
+  "financial_goal": "카드혜택 최적화",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 162,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

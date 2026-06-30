@@ -1,0 +1,45 @@
+{
+  "x-api-tran-id": "P025-금투-003-P025-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "prod_name": "KODEX 미국나스닥100TR",
+      "prod_code": "379810",
+      "trans_dtime": "20260604142441",
+      "Bod": "매수",
+      "trans_no": "STKP0250002",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 1.0,
+      "trans_unit": "좌",
+      "base_amt": 18000.0,
+      "trans_amt": 18000.0,
+      "settle_amt": 18100.0,
+      "balance_amt": 84027.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 미국나스닥100TR 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "NAVER",
+      "prod_code": "035420",
+      "trans_dtime": "20260602124558",
+      "Bod": "매수",
+      "trans_no": "STKP0250001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 1.0,
+      "trans_unit": "주",
+      "base_amt": 185000.0,
+      "trans_amt": 185000.0,
+      "settle_amt": 185100.0,
+      "balance_amt": 251027.0,
+      "currency_code": "KRW",
+      "trans_memo": "NAVER 매수",
+      "ex_code": "001"
+    }
+  ]
+}

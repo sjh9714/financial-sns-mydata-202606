@@ -1,0 +1,45 @@
+{
+  "x-api-tran-id": "P050-금투-003-P050-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "prod_name": "삼성전자",
+      "prod_code": "005930",
+      "trans_dtime": "20260614121201",
+      "Bod": "매수",
+      "trans_no": "STKP0500001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 2.0,
+      "trans_unit": "주",
+      "base_amt": 76000.0,
+      "trans_amt": 152000.0,
+      "settle_amt": 152100.0,
+      "balance_amt": 539545.0,
+      "currency_code": "KRW",
+      "trans_memo": "삼성전자 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "KODEX 미국나스닥100TR",
+      "prod_code": "379810",
+      "trans_dtime": "20260610110303",
+      "Bod": "매수",
+      "trans_no": "STKP0500002",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 9.0,
+      "trans_unit": "좌",
+      "base_amt": 18000.0,
+      "trans_amt": 162000.0,
+      "settle_amt": 162100.0,
+      "balance_amt": 549545.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 미국나스닥100TR 매수",
+      "ex_code": "001"
+    }
+  ]
+}

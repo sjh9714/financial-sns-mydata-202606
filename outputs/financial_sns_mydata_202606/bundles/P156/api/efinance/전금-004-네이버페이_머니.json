@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P156-전금-004-P156-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP156네00006",
+      "trans_dtime": "20260615132139",
+      "trans_no": "WP15600002",
+      "currency_code": "KRW",
+      "trans_amt": -42500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "GS25",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP156네00003",
+      "trans_dtime": "20260614125449",
+      "trans_no": "WP15600001",
+      "currency_code": "KRW",
+      "trans_amt": -13100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "CU",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP156네00007",
+      "trans_dtime": "20260607174934",
+      "trans_no": "WP15600003",
+      "currency_code": "KRW",
+      "trans_amt": -20600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "유튜브 프리미엄",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

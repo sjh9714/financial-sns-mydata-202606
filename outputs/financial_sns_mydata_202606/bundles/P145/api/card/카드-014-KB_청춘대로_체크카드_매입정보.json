@@ -1,0 +1,129 @@
+{
+  "x-api-tran-id": "P145-카드-014-P145-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 15,
+  "purchase_list": [
+    {
+      "approved_num": "AP145000002",
+      "merchant_name": "파리바게뜨",
+      "merchant_regno": "374-26-56174",
+      "purchase_dtime": "20260630205520",
+      "purchase_amt": 3700.0,
+      "transaction_id": "P145-T0018"
+    },
+    {
+      "approved_num": "AP145000007",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "516-35-85108",
+      "purchase_dtime": "20260630202839",
+      "purchase_amt": 71600.0,
+      "transaction_id": "P145-T0057"
+    },
+    {
+      "approved_num": "AP145000005",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "406-88-32362",
+      "purchase_dtime": "20260630114156",
+      "purchase_amt": 26600.0,
+      "transaction_id": "P145-T0042"
+    },
+    {
+      "approved_num": "AP145000003",
+      "merchant_name": "배민스토어",
+      "merchant_regno": "545-62-12618",
+      "purchase_dtime": "20260628115128",
+      "purchase_amt": 25000.0,
+      "transaction_id": "P145-T0021"
+    },
+    {
+      "approved_num": "AP145000001",
+      "merchant_name": "메가MGC커피",
+      "merchant_regno": "175-43-57144",
+      "purchase_dtime": "20260627133431",
+      "purchase_amt": 5400.0,
+      "transaction_id": "P145-T0014"
+    },
+    {
+      "approved_num": "AP145000004",
+      "merchant_name": "마켓컬리",
+      "merchant_regno": "469-39-75259",
+      "purchase_dtime": "20260624230541",
+      "purchase_amt": 24400.0,
+      "transaction_id": "P145-T0033"
+    },
+    {
+      "approved_num": "AP145000014",
+      "merchant_name": "메가MGC커피",
+      "merchant_regno": "175-43-57144",
+      "purchase_dtime": "20260624185041",
+      "purchase_amt": 7300.0,
+      "transaction_id": "P145-T0110"
+    },
+    {
+      "approved_num": "AP145000006",
+      "merchant_name": "노티드",
+      "merchant_regno": "859-72-87658",
+      "purchase_dtime": "20260623214358",
+      "purchase_amt": 13400.0,
+      "transaction_id": "P145-T0047"
+    },
+    {
+      "approved_num": "AP145000015",
+      "merchant_name": "주식회사 우아한형제들",
+      "merchant_regno": "537-38-16372",
+      "purchase_dtime": "20260620183114",
+      "purchase_amt": 31400.0,
+      "transaction_id": "P145-T0112"
+    },
+    {
+      "approved_num": "AP145000008",
+      "merchant_name": "무신사",
+      "merchant_regno": "374-14-68236",
+      "purchase_dtime": "20260616105347",
+      "purchase_amt": 72700.0,
+      "transaction_id": "P145-T0066"
+    },
+    {
+      "approved_num": "AP145000013",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "890-54-31968",
+      "purchase_dtime": "20260615200621",
+      "purchase_amt": 71600.0,
+      "transaction_id": "P145-T0103"
+    },
+    {
+      "approved_num": "AP145000009",
+      "merchant_name": "무신사",
+      "merchant_regno": "374-14-68236",
+      "purchase_dtime": "20260613125319",
+      "purchase_amt": 93600.0,
+      "transaction_id": "P145-T0070"
+    },
+    {
+      "approved_num": "AP145000012",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "890-54-31968",
+      "purchase_dtime": "20260611123220",
+      "purchase_amt": 63700.0,
+      "transaction_id": "P145-T0093"
+    },
+    {
+      "approved_num": "AP145000010",
+      "merchant_name": "이마트24",
+      "merchant_regno": "392-86-85099",
+      "purchase_dtime": "20260609121414",
+      "purchase_amt": 40500.0,
+      "transaction_id": "P145-T0084"
+    },
+    {
+      "approved_num": "AP145000011",
+      "merchant_name": "마켓컬리",
+      "merchant_regno": "469-39-75259",
+      "purchase_dtime": "20260603214552",
+      "purchase_amt": 17600.0,
+      "transaction_id": "P145-T0092"
+    }
+  ]
+}

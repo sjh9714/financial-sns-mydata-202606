@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P196-전금-004-P196-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP196카00008",
+      "trans_dtime": "20260618154002",
+      "trans_no": "WP19600003",
+      "currency_code": "KRW",
+      "trans_amt": -53000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "CU",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP196카00005",
+      "trans_dtime": "20260616230333",
+      "trans_no": "WP19600002",
+      "currency_code": "KRW",
+      "trans_amt": -22300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP196카00004",
+      "trans_dtime": "20260612103432",
+      "trans_no": "WP19600001",
+      "currency_code": "KRW",
+      "trans_amt": -125900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

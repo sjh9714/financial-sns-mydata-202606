@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P091-전금-004-P091-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP091네00004",
+      "trans_dtime": "20260620092648",
+      "trans_no": "WP09100001",
+      "currency_code": "KRW",
+      "trans_amt": -16100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오T 택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP091네00015",
+      "trans_dtime": "20260619194505",
+      "trans_no": "WP09100004",
+      "currency_code": "KRW",
+      "trans_amt": -28800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "타다",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP091네00009",
+      "trans_dtime": "20260615114717",
+      "trans_no": "WP09100003",
+      "currency_code": "KRW",
+      "trans_amt": -37100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "멜론",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP091네00007",
+      "trans_dtime": "20260606100050",
+      "trans_no": "WP09100002",
+      "currency_code": "KRW",
+      "trans_amt": -70600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

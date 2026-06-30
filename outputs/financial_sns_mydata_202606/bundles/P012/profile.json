@@ -1,0 +1,30 @@
+{
+  "persona_id": "P012",
+  "synthetic_name": "가상청년 P012",
+  "age": 23,
+  "birth_year": 2003,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "학생/알바",
+  "job": "휴학생/단기알바",
+  "region": "대전 서구",
+  "monthly_income_krw": 910000,
+  "income_band": "150만원 미만",
+  "target_monthly_spend_krw": 790000,
+  "spend_band": "90만원 미만",
+  "target_saving_rate": 0.126,
+  "target_investment_rate": 0.051,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "쉐어하우스",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "가성비",
+    "모바일결제",
+    "캠퍼스생활"
+  ],
+  "financial_goal": "여행자금",
+  "sns_tendency": "눈팅형",
+  "target_ledger_rows": 87,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

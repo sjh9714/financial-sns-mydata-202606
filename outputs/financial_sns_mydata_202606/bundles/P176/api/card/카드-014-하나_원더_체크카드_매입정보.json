@@ -1,0 +1,145 @@
+{
+  "x-api-tran-id": "P176-카드-014-P176-CARD-03",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 17,
+  "purchase_list": [
+    {
+      "approved_num": "AP176000001",
+      "merchant_name": "무신사",
+      "merchant_regno": "708-74-78477",
+      "purchase_dtime": "20260630214556",
+      "purchase_amt": 37500.0,
+      "transaction_id": "P176-T0032"
+    },
+    {
+      "approved_num": "AP176000014",
+      "merchant_name": "무신사",
+      "merchant_regno": "708-74-78477",
+      "purchase_dtime": "20260629211818",
+      "purchase_amt": 97600.0,
+      "transaction_id": "P176-T0080"
+    },
+    {
+      "approved_num": "AP176000017",
+      "merchant_name": "무신사",
+      "merchant_regno": "708-74-78477",
+      "purchase_dtime": "20260629120239",
+      "purchase_amt": 37800.0,
+      "transaction_id": "P176-T0087"
+    },
+    {
+      "approved_num": "AP176000011",
+      "merchant_name": "야놀자",
+      "merchant_regno": "739-55-11587",
+      "purchase_dtime": "20260628131306",
+      "purchase_amt": 101000.0,
+      "transaction_id": "P176-T0074"
+    },
+    {
+      "approved_num": "AP176000015",
+      "merchant_name": "카카오T 택시",
+      "merchant_regno": "862-16-36274",
+      "purchase_dtime": "20260626220845",
+      "purchase_amt": 6600.0,
+      "transaction_id": "P176-T0083"
+    },
+    {
+      "approved_num": "AP176000004",
+      "merchant_name": "롯데마트",
+      "merchant_regno": "357-69-11865",
+      "purchase_dtime": "20260624191818",
+      "purchase_amt": 58300.0,
+      "transaction_id": "P176-T0043"
+    },
+    {
+      "approved_num": "AP176000009",
+      "merchant_name": "아고다",
+      "merchant_regno": "798-86-56392",
+      "purchase_dtime": "20260622154503",
+      "purchase_amt": 117600.0,
+      "transaction_id": "P176-T0067"
+    },
+    {
+      "approved_num": "AP176000003",
+      "merchant_name": "한솥도시락 신촌점",
+      "merchant_regno": "560-30-67820",
+      "purchase_dtime": "20260621202726",
+      "purchase_amt": 12300.0,
+      "transaction_id": "P176-T0042"
+    },
+    {
+      "approved_num": "AP176000008",
+      "merchant_name": "배민스토어",
+      "merchant_regno": "536-49-72741",
+      "purchase_dtime": "20260616134252",
+      "purchase_amt": 13100.0,
+      "transaction_id": "P176-T0062"
+    },
+    {
+      "approved_num": "AP176000006",
+      "merchant_name": "요기요",
+      "merchant_regno": "140-38-54495",
+      "purchase_dtime": "20260614080445",
+      "purchase_amt": 19100.0,
+      "transaction_id": "P176-T0058"
+    },
+    {
+      "approved_num": "AP176000007",
+      "merchant_name": "파리바게뜨",
+      "merchant_regno": "663-79-75458",
+      "purchase_dtime": "20260612081037",
+      "purchase_amt": 10000.0,
+      "transaction_id": "P176-T0061"
+    },
+    {
+      "approved_num": "AP176000012",
+      "merchant_name": "11번가",
+      "merchant_regno": "509-45-55631",
+      "purchase_dtime": "20260611214131",
+      "purchase_amt": 32600.0,
+      "transaction_id": "P176-T0078"
+    },
+    {
+      "approved_num": "AP176000002",
+      "merchant_name": "한솥도시락 신촌점",
+      "merchant_regno": "560-30-67820",
+      "purchase_dtime": "20260608122954",
+      "purchase_amt": 28800.0,
+      "transaction_id": "P176-T0038"
+    },
+    {
+      "approved_num": "AP176000013",
+      "merchant_name": "롯데마트",
+      "merchant_regno": "357-69-11865",
+      "purchase_dtime": "20260607230320",
+      "purchase_amt": 22400.0,
+      "transaction_id": "P176-T0079"
+    },
+    {
+      "approved_num": "AP176000010",
+      "merchant_name": "세븐일레븐",
+      "merchant_regno": "648-65-65426",
+      "purchase_dtime": "20260607212200",
+      "purchase_amt": 14500.0,
+      "transaction_id": "P176-T0070"
+    },
+    {
+      "approved_num": "AP176000005",
+      "merchant_name": "CGV",
+      "merchant_regno": "775-37-52451",
+      "purchase_dtime": "20260607162621",
+      "purchase_amt": 36900.0,
+      "transaction_id": "P176-T0053"
+    },
+    {
+      "approved_num": "AP176000016",
+      "merchant_name": "패스트캠퍼스",
+      "merchant_regno": "629-39-83763",
+      "purchase_dtime": "20260603163749",
+      "purchase_amt": 62300.0,
+      "transaction_id": "P176-T0085"
+    }
+  ]
+}

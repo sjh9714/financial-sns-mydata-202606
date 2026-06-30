@@ -1,0 +1,30 @@
+{
+  "persona_id": "P190",
+  "synthetic_name": "가상청년 P190",
+  "age": 29,
+  "birth_year": 1997,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "청약·내집마련형",
+  "job": "교직원",
+  "region": "대전 서구",
+  "monthly_income_krw": 4110000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 1830000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.462,
+  "target_investment_rate": 0.043,
+  "risk_score": 3,
+  "risk_attitude": "중립형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "예산관리",
+    "장기계획",
+    "청약저축"
+  ],
+  "financial_goal": "내집마련",
+  "sns_tendency": "소비인사이트형",
+  "target_ledger_rows": 130,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

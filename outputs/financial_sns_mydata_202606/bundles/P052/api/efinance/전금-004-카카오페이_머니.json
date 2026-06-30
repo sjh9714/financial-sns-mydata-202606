@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P052-전금-004-P052-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP052카00003",
+      "trans_dtime": "20260625130736",
+      "trans_no": "WP05200001",
+      "currency_code": "KRW",
+      "trans_amt": -6100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이디야커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP052카00009",
+      "trans_dtime": "20260624110701",
+      "trans_no": "WP05200004",
+      "currency_code": "KRW",
+      "trans_amt": -16000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "요기요",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP052카00006",
+      "trans_dtime": "20260615165023",
+      "trans_no": "WP05200003",
+      "currency_code": "KRW",
+      "trans_amt": -13400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "유튜브 프리미엄",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP052카00004",
+      "trans_dtime": "20260604074927",
+      "trans_no": "WP05200002",
+      "currency_code": "KRW",
+      "trans_amt": -13500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "서울교통공사",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

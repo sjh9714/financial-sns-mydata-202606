@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P167-전금-004-P167-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP167카00002",
+      "trans_dtime": "20260624233105",
+      "trans_no": "WP16700002",
+      "currency_code": "KRW",
+      "trans_amt": -80300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "홈플러스",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP167카00001",
+      "trans_dtime": "20260620094831",
+      "trans_no": "WP16700001",
+      "currency_code": "KRW",
+      "trans_amt": -14000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "서울교통공사",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP167카00009",
+      "trans_dtime": "20260614120707",
+      "trans_no": "WP16700003",
+      "currency_code": "KRW",
+      "trans_amt": -7500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가MGC커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "x-api-tran-id": "P144-전금-004-P144-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 7,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP144네00011",
+      "trans_dtime": "20260630121847",
+      "trans_no": "WP14400007",
+      "currency_code": "KRW",
+      "trans_amt": -74300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP144네00009",
+      "trans_dtime": "20260625143251",
+      "trans_no": "WP14400005",
+      "currency_code": "KRW",
+      "trans_amt": -34400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "마켓컬리",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP144네00003",
+      "trans_dtime": "20260625090131",
+      "trans_no": "WP14400002",
+      "currency_code": "KRW",
+      "trans_amt": -31200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "우티",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP144네00006",
+      "trans_dtime": "20260620214843",
+      "trans_no": "WP14400003",
+      "currency_code": "KRW",
+      "trans_amt": -82000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP144네00010",
+      "trans_dtime": "20260616104647",
+      "trans_no": "WP14400006",
+      "currency_code": "KRW",
+      "trans_amt": -50300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP144네00002",
+      "trans_dtime": "20260610231147",
+      "trans_no": "WP14400001",
+      "currency_code": "KRW",
+      "trans_amt": -104600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP144네00008",
+      "trans_dtime": "20260602163658",
+      "trans_no": "WP14400004",
+      "currency_code": "KRW",
+      "trans_amt": -165300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "지그재그",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    }
+  ]
+}

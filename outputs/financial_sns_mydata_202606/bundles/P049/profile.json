@@ -1,0 +1,30 @@
+{
+  "persona_id": "P049",
+  "synthetic_name": "가상청년 P049",
+  "age": 24,
+  "birth_year": 2002,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "사회초년생",
+  "job": "디자이너",
+  "region": "서울 마포구",
+  "monthly_income_krw": 2530000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 1650000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.158,
+  "target_investment_rate": 0.092,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "쉐어하우스",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "구독서비스",
+    "모바일결제",
+    "점심외식"
+  ],
+  "financial_goal": "첫 투자",
+  "sns_tendency": "목표공유형",
+  "target_ledger_rows": 144,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P037-전금-004-P037-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP037카00005",
+      "trans_dtime": "20260612212302",
+      "trans_no": "WP03700003",
+      "currency_code": "KRW",
+      "trans_amt": -70300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP037카00001",
+      "trans_dtime": "20260606132416",
+      "trans_no": "WP03700001",
+      "currency_code": "KRW",
+      "trans_amt": -2100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "컴포즈커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP037카00002",
+      "trans_dtime": "20260601105311",
+      "trans_no": "WP03700002",
+      "currency_code": "KRW",
+      "trans_amt": -31800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

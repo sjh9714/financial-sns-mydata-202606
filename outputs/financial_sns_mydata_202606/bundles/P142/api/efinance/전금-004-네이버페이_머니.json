@@ -1,0 +1,100 @@
+{
+  "x-api-tran-id": "P142-전금-004-P142-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 7,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP142네00001",
+      "trans_dtime": "20260630093925",
+      "trans_no": "WP14200001",
+      "currency_code": "KRW",
+      "trans_amt": -27600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "담소소사골순대",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP142네00006",
+      "trans_dtime": "20260628211320",
+      "trans_no": "WP14200003",
+      "currency_code": "KRW",
+      "trans_amt": -62400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP142네00008",
+      "trans_dtime": "20260620215453",
+      "trans_no": "WP14200004",
+      "currency_code": "KRW",
+      "trans_amt": -18000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "홈플러스",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP142네00005",
+      "trans_dtime": "20260617130037",
+      "trans_no": "WP14200002",
+      "currency_code": "KRW",
+      "trans_amt": -15800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "김밥천국 홍대점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP142네00011",
+      "trans_dtime": "20260605231532",
+      "trans_no": "WP14200006",
+      "currency_code": "KRW",
+      "trans_amt": -29200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "인터파크티켓",
+      "trans_title": "공연/영화 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP142네00014",
+      "trans_dtime": "20260604190331",
+      "trans_no": "WP14200007",
+      "currency_code": "KRW",
+      "trans_amt": -7300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "던킨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP142네00010",
+      "trans_dtime": "20260603224950",
+      "trans_no": "WP14200005",
+      "currency_code": "KRW",
+      "trans_amt": -89200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

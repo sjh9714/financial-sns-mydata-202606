@@ -1,0 +1,30 @@
+{
+  "persona_id": "P158",
+  "synthetic_name": "가상청년 P158",
+  "age": 30,
+  "birth_year": 1996,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "프리랜서",
+  "job": "1인 크리에이터",
+  "region": "경기 성남시",
+  "monthly_income_krw": 4150000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2960000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.171,
+  "target_investment_rate": 0.077,
+  "risk_score": 3,
+  "risk_attitude": "중립형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "불규칙수입",
+    "예산관리",
+    "카페작업"
+  ],
+  "financial_goal": "세금준비",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 103,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

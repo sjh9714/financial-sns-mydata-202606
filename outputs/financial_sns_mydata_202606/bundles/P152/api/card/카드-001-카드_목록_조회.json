@@ -1,0 +1,26 @@
+{
+  "x-api-tran-id": "P152-카드-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "search_timestamp": "20260630235900",
+  "next_page": null,
+  "card_cnt": 2,
+  "card_list": [
+    {
+      "card_id": "P152-CARD-01",
+      "card_num": "95049-****-****-6921",
+      "is_consent": true,
+      "card_name": "토스뱅크 체크카드",
+      "card_member": "1",
+      "card_type": "02"
+    },
+    {
+      "card_id": "P152-CARD-02",
+      "card_num": "92843-****-****-9964",
+      "is_consent": true,
+      "card_name": "하나 원더 체크카드",
+      "card_member": "1",
+      "card_type": "02"
+    }
+  ]
+}

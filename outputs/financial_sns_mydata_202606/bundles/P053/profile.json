@@ -1,0 +1,30 @@
+{
+  "persona_id": "P053",
+  "synthetic_name": "가상청년 P053",
+  "age": 26,
+  "birth_year": 2000,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "사회초년생",
+  "job": "주니어 마케터",
+  "region": "부산 해운대구",
+  "monthly_income_krw": 2710000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 1460000,
+  "spend_band": "90~150만원",
+  "target_saving_rate": 0.265,
+  "target_investment_rate": 0.135,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "배달선호",
+    "점심외식",
+    "출퇴근"
+  ],
+  "financial_goal": "비상금",
+  "sns_tendency": "소비인사이트형",
+  "target_ledger_rows": 132,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

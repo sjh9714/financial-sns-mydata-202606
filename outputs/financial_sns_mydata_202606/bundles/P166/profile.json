@@ -1,0 +1,30 @@
+{
+  "persona_id": "P166",
+  "synthetic_name": "가상청년 P166",
+  "age": 32,
+  "birth_year": 1994,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "프리랜서",
+  "job": "1인 크리에이터",
+  "region": "서울 관악구",
+  "monthly_income_krw": 2560000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 1460000,
+  "spend_band": "90~150만원",
+  "target_saving_rate": 0.245,
+  "target_investment_rate": 0.111,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "대중교통",
+    "자기계발",
+    "카페작업"
+  ],
+  "financial_goal": "수입 안정화",
+  "sns_tendency": "눈팅형",
+  "target_ledger_rows": 75,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P160-전금-004-P160-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP160네00010",
+      "trans_dtime": "20260626215712",
+      "trans_no": "WP16000004",
+      "currency_code": "KRW",
+      "trans_amt": -95400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "해커스",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP160네00007",
+      "trans_dtime": "20260623135828",
+      "trans_no": "WP16000002",
+      "currency_code": "KRW",
+      "trans_amt": -14800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "두끼 노량진역점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP160네00008",
+      "trans_dtime": "20260611191622",
+      "trans_no": "WP16000003",
+      "currency_code": "KRW",
+      "trans_amt": -4200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "유튜브 프리미엄",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP160네00004",
+      "trans_dtime": "20260608211940",
+      "trans_no": "WP16000001",
+      "currency_code": "KRW",
+      "trans_amt": -47500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

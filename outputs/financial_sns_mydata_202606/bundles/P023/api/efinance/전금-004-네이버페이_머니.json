@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P023-전금-004-P023-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP023네00008",
+      "trans_dtime": "20260628233936",
+      "trans_no": "WP02300003",
+      "currency_code": "KRW",
+      "trans_amt": -11300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "예스24",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP023네00001",
+      "trans_dtime": "20260619203902",
+      "trans_no": "WP02300001",
+      "currency_code": "KRW",
+      "trans_amt": -53500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP023네00003",
+      "trans_dtime": "20260606182709",
+      "trans_no": "WP02300002",
+      "currency_code": "KRW",
+      "trans_amt": -12300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "한솥도시락 신촌점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

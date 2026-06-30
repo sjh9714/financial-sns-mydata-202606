@@ -1,0 +1,30 @@
+{
+  "persona_id": "P130",
+  "synthetic_name": "가상청년 P130",
+  "age": 24,
+  "birth_year": 2002,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "절약·저축형",
+  "job": "공공기관 계약직",
+  "region": "대구 중구",
+  "monthly_income_krw": 3930000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2140000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.333,
+  "target_investment_rate": 0.108,
+  "risk_score": 3,
+  "risk_attitude": "중립형",
+  "household_type": "부모동거",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "도시락",
+    "모바일결제",
+    "자동저축"
+  ],
+  "financial_goal": "비상금",
+  "sns_tendency": "눈팅형",
+  "target_ledger_rows": 87,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

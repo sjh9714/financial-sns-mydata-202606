@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P054-전금-004-P054-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP054카00010",
+      "trans_dtime": "20260624220334",
+      "trans_no": "WP05400002",
+      "currency_code": "KRW",
+      "trans_amt": -20600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "알라딘",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP054카00016",
+      "trans_dtime": "20260621094142",
+      "trans_no": "WP05400004",
+      "currency_code": "KRW",
+      "trans_amt": -61200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP054카00012",
+      "trans_dtime": "20260615153019",
+      "trans_no": "WP05400003",
+      "currency_code": "KRW",
+      "trans_amt": -39600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "알라딘",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP054카00008",
+      "trans_dtime": "20260603110324",
+      "trans_no": "WP05400001",
+      "currency_code": "KRW",
+      "trans_amt": -26100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노션",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

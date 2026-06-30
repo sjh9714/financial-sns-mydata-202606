@@ -1,0 +1,97 @@
+{
+  "x-api-tran-id": "P125-카드-014-P125-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 11,
+  "purchase_list": [
+    {
+      "approved_num": "AP125000002",
+      "merchant_name": "주식회사 우아한형제들",
+      "merchant_regno": "325-42-67186",
+      "purchase_dtime": "20260630131138",
+      "purchase_amt": 11600.0,
+      "transaction_id": "P125-T0027"
+    },
+    {
+      "approved_num": "AP125000007",
+      "merchant_name": "온누리약국",
+      "merchant_regno": "569-19-33789",
+      "purchase_dtime": "20260630130208",
+      "purchase_amt": 4900.0,
+      "transaction_id": "P125-T0050"
+    },
+    {
+      "approved_num": "AP125000011",
+      "merchant_name": "카카오버스",
+      "merchant_regno": "689-37-78476",
+      "purchase_dtime": "20260628231043",
+      "purchase_amt": 7500.0,
+      "transaction_id": "P125-T0074"
+    },
+    {
+      "approved_num": "AP125000006",
+      "merchant_name": "플랜 B",
+      "merchant_regno": "848-71-29503",
+      "purchase_dtime": "20260627102758",
+      "purchase_amt": 12000.0,
+      "transaction_id": "P125-T0047"
+    },
+    {
+      "approved_num": "AP125000001",
+      "merchant_name": "휴대폰 요금",
+      "merchant_regno": "642-64-88195",
+      "purchase_dtime": "20260626170823",
+      "purchase_amt": 96300.0,
+      "transaction_id": "P125-T0004"
+    },
+    {
+      "approved_num": "AP125000005",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "539-27-81110",
+      "purchase_dtime": "20260624082338",
+      "purchase_amt": 10900.0,
+      "transaction_id": "P125-T0041"
+    },
+    {
+      "approved_num": "AP125000010",
+      "merchant_name": "이디야커피",
+      "merchant_regno": "533-26-57664",
+      "purchase_dtime": "20260623112106",
+      "purchase_amt": 3400.0,
+      "transaction_id": "P125-T0067"
+    },
+    {
+      "approved_num": "AP125000009",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "539-27-81110",
+      "purchase_dtime": "20260619192541",
+      "purchase_amt": 12500.0,
+      "transaction_id": "P125-T0062"
+    },
+    {
+      "approved_num": "AP125000004",
+      "merchant_name": "해커스",
+      "merchant_regno": "788-28-52452",
+      "purchase_dtime": "20260618230457",
+      "purchase_amt": 64300.0,
+      "transaction_id": "P125-T0032"
+    },
+    {
+      "approved_num": "AP125000008",
+      "merchant_name": "담소소사골순대",
+      "merchant_regno": "139-61-29449",
+      "purchase_dtime": "20260615130209",
+      "purchase_amt": 8700.0,
+      "transaction_id": "P125-T0060"
+    },
+    {
+      "approved_num": "AP125000003",
+      "merchant_name": "지그재그",
+      "merchant_regno": "650-65-26719",
+      "purchase_dtime": "20260609211033",
+      "purchase_amt": 23500.0,
+      "transaction_id": "P125-T0031"
+    }
+  ]
+}

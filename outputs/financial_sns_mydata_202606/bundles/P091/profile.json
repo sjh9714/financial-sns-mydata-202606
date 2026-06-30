@@ -1,0 +1,30 @@
+{
+  "persona_id": "P091",
+  "synthetic_name": "가상청년 P091",
+  "age": 28,
+  "birth_year": 1998,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "도시 직장인",
+  "job": "데이터 분석가",
+  "region": "서울 관악구",
+  "monthly_income_krw": 4520000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2740000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.387,
+  "target_investment_rate": 0.14,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "도심생활",
+    "모바일결제",
+    "외식"
+  ],
+  "financial_goal": "여행",
+  "sns_tendency": "소비인사이트형",
+  "target_ledger_rows": 170,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

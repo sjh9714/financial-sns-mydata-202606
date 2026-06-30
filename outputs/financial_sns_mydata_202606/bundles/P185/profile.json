@@ -1,0 +1,30 @@
+{
+  "persona_id": "P185",
+  "synthetic_name": "가상청년 P185",
+  "age": 25,
+  "birth_year": 2001,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "투자적극형",
+  "job": "핀테크 개발자",
+  "region": "대전 서구",
+  "monthly_income_krw": 5160000,
+  "income_band": "500~700만원",
+  "target_monthly_spend_krw": 2030000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.256,
+  "target_investment_rate": 0.445,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "경제뉴스",
+    "대중교통",
+    "투자공유"
+  ],
+  "financial_goal": "포트폴리오 성장",
+  "sns_tendency": "투자피드형",
+  "target_ledger_rows": 104,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

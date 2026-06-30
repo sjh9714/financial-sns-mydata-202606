@@ -1,0 +1,87 @@
+{
+  "x-api-tran-id": "P034-전금-004-P034-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 6,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP034네00006",
+      "trans_dtime": "20260624230156",
+      "trans_no": "WP03400004",
+      "currency_code": "KRW",
+      "trans_amt": -24800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP034네00003",
+      "trans_dtime": "20260623093652",
+      "trans_no": "WP03400002",
+      "currency_code": "KRW",
+      "trans_amt": -6700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가MGC커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP034네00001",
+      "trans_dtime": "20260618144125",
+      "trans_no": "WP03400001",
+      "currency_code": "KRW",
+      "trans_amt": -109900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "해커스",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP034네00009",
+      "trans_dtime": "20260613190909",
+      "trans_no": "WP03400005",
+      "currency_code": "KRW",
+      "trans_amt": -5300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이디야커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP034네00005",
+      "trans_dtime": "20260608235747",
+      "trans_no": "WP03400003",
+      "currency_code": "KRW",
+      "trans_amt": -76000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP034네00010",
+      "trans_dtime": "20260604233237",
+      "trans_no": "WP03400006",
+      "currency_code": "KRW",
+      "trans_amt": -17800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

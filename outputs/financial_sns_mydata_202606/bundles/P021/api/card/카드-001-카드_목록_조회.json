@@ -1,0 +1,18 @@
+{
+  "x-api-tran-id": "P021-카드-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "search_timestamp": "20260630235900",
+  "next_page": null,
+  "card_cnt": 1,
+  "card_list": [
+    {
+      "card_id": "P021-CARD-01",
+      "card_num": "91548-****-****-2995",
+      "is_consent": true,
+      "card_name": "KB 청춘대로 체크카드",
+      "card_member": "1",
+      "card_type": "02"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P006-전금-004-P006-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP006카00012",
+      "trans_dtime": "20260623222651",
+      "trans_no": "WP00600002",
+      "currency_code": "KRW",
+      "trans_amt": -52200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "예스24",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP006카00007",
+      "trans_dtime": "20260616223458",
+      "trans_no": "WP00600001",
+      "currency_code": "KRW",
+      "trans_amt": -59600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사뷰티",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP006카00017",
+      "trans_dtime": "20260616122935",
+      "trans_no": "WP00600004",
+      "currency_code": "KRW",
+      "trans_amt": -102000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP006카00014",
+      "trans_dtime": "20260607194737",
+      "trans_no": "WP00600003",
+      "currency_code": "KRW",
+      "trans_amt": -39200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "두끼 노량진역점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

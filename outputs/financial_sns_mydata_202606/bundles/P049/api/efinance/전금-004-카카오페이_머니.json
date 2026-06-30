@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P049-전금-004-P049-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP049카00013",
+      "trans_dtime": "20260618223917",
+      "trans_no": "WP04900003",
+      "currency_code": "KRW",
+      "trans_amt": -22700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "롯데마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP049카00001",
+      "trans_dtime": "20260612223216",
+      "trans_no": "WP04900001",
+      "currency_code": "KRW",
+      "trans_amt": -43400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP049카00008",
+      "trans_dtime": "20260611182633",
+      "trans_no": "WP04900002",
+      "currency_code": "KRW",
+      "trans_amt": -18600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "담소소사골순대",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP049카00018",
+      "trans_dtime": "20260605201410",
+      "trans_no": "WP04900004",
+      "currency_code": "KRW",
+      "trans_amt": -55100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "아모레몰",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "x-api-tran-id": "P068-전금-004-P068-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 6,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP068카00001",
+      "trans_dtime": "20260626235250",
+      "trans_no": "WP06800001",
+      "currency_code": "KRW",
+      "trans_amt": -11500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "타다",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP068카00009",
+      "trans_dtime": "20260626192817",
+      "trans_no": "WP06800004",
+      "currency_code": "KRW",
+      "trans_amt": -5200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오T 택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP068카00004",
+      "trans_dtime": "20260624094420",
+      "trans_no": "WP06800003",
+      "currency_code": "KRW",
+      "trans_amt": -8100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "스타벅스 합정점",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP068카00012",
+      "trans_dtime": "20260618111110",
+      "trans_no": "WP06800006",
+      "currency_code": "KRW",
+      "trans_amt": -54700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "홈플러스",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP068카00010",
+      "trans_dtime": "20260608113357",
+      "trans_no": "WP06800005",
+      "currency_code": "KRW",
+      "trans_amt": -16200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "한솥도시락 신촌점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP068카00003",
+      "trans_dtime": "20260606233747",
+      "trans_no": "WP06800002",
+      "currency_code": "KRW",
+      "trans_amt": -123400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "해커스",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    }
+  ]
+}

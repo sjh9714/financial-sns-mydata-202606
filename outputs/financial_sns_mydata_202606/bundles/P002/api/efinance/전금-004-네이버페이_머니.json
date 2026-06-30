@@ -1,0 +1,22 @@
+{
+  "x-api-tran-id": "P002-전금-004-P002-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 1,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP002네00002",
+      "trans_dtime": "20260630083252",
+      "trans_no": "WP00200001",
+      "currency_code": "KRW",
+      "trans_amt": -13700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배민스토어",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "x-api-tran-id": "P166-카드-014-P166-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 10,
+  "purchase_list": [
+    {
+      "approved_num": "AP166000007",
+      "merchant_name": "메가MGC커피",
+      "merchant_regno": "443-36-89780",
+      "purchase_dtime": "20260630201903",
+      "purchase_amt": 9000.0,
+      "transaction_id": "P166-T0053"
+    },
+    {
+      "approved_num": "AP166000008",
+      "merchant_name": "배스킨라빈스",
+      "merchant_regno": "657-43-38104",
+      "purchase_dtime": "20260630113827",
+      "purchase_amt": 2700.0,
+      "transaction_id": "P166-T0061"
+    },
+    {
+      "approved_num": "AP166000005",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "493-43-39384",
+      "purchase_dtime": "20260630104412",
+      "purchase_amt": 43600.0,
+      "transaction_id": "P166-T0025"
+    },
+    {
+      "approved_num": "AP166000002",
+      "merchant_name": "11번가",
+      "merchant_regno": "359-12-14512",
+      "purchase_dtime": "20260629223801",
+      "purchase_amt": 43000.0,
+      "transaction_id": "P166-T0019"
+    },
+    {
+      "approved_num": "AP166000009",
+      "merchant_name": "스타벅스 합정점",
+      "merchant_regno": "111-34-18308",
+      "purchase_dtime": "20260622081807",
+      "purchase_amt": 9200.0,
+      "transaction_id": "P166-T0062"
+    },
+    {
+      "approved_num": "AP166000001",
+      "merchant_name": "구독 서비스",
+      "merchant_regno": "771-48-52020",
+      "purchase_dtime": "20260621200334",
+      "purchase_amt": 12600.0,
+      "transaction_id": "P166-T0006"
+    },
+    {
+      "approved_num": "AP166000006",
+      "merchant_name": "컴포즈커피",
+      "merchant_regno": "831-34-77010",
+      "purchase_dtime": "20260617120139",
+      "purchase_amt": 6000.0,
+      "transaction_id": "P166-T0027"
+    },
+    {
+      "approved_num": "AP166000010",
+      "merchant_name": "메가MGC커피",
+      "merchant_regno": "443-36-89780",
+      "purchase_dtime": "20260608122433",
+      "purchase_amt": 4800.0,
+      "transaction_id": "P166-T0067"
+    },
+    {
+      "approved_num": "AP166000003",
+      "merchant_name": "담소소사골순대",
+      "merchant_regno": "230-28-47733",
+      "purchase_dtime": "20260607210738",
+      "purchase_amt": 24100.0,
+      "transaction_id": "P166-T0022"
+    },
+    {
+      "approved_num": "AP166000004",
+      "merchant_name": "해커스",
+      "merchant_regno": "827-22-39102",
+      "purchase_dtime": "20260606124803",
+      "purchase_amt": 109000.0,
+      "transaction_id": "P166-T0024"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persona_id": "P172",
+  "synthetic_name": "가상청년 P172",
+  "age": 34,
+  "birth_year": 1992,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "투자적극형",
+  "job": "핀테크 개발자",
+  "region": "서울 관악구",
+  "monthly_income_krw": 5950000,
+  "income_band": "500~700만원",
+  "target_monthly_spend_krw": 3530000,
+  "spend_band": "320만원 이상",
+  "target_saving_rate": 0.196,
+  "target_investment_rate": 0.348,
+  "risk_score": 5,
+  "risk_attitude": "공격투자형",
+  "household_type": "부모동거",
+  "household_size": 4,
+  "lifestyle_tags": [
+    "경제뉴스",
+    "모바일결제",
+    "투자공유"
+  ],
+  "financial_goal": "파이어",
+  "sns_tendency": "목표공유형",
+  "target_ledger_rows": 157,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

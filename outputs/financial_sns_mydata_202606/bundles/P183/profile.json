@@ -1,0 +1,30 @@
+{
+  "persona_id": "P183",
+  "synthetic_name": "가상청년 P183",
+  "age": 33,
+  "birth_year": 1993,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "투자적극형",
+  "job": "증권사 주니어",
+  "region": "부산 해운대구",
+  "monthly_income_krw": 4500000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2320000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.267,
+  "target_investment_rate": 0.302,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "리밸런싱",
+    "배달선호",
+    "투자공유"
+  ],
+  "financial_goal": "파이어",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 165,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

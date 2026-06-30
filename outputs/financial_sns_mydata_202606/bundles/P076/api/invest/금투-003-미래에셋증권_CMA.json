@@ -1,0 +1,63 @@
+{
+  "x-api-tran-id": "P076-금투-003-P076-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "prod_name": "KODEX 반도체",
+      "prod_code": "091160",
+      "trans_dtime": "20260612151304",
+      "Bod": "매수",
+      "trans_no": "STKP0760003",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 7.0,
+      "trans_unit": "좌",
+      "base_amt": 45000.0,
+      "trans_amt": 315000.0,
+      "settle_amt": 315100.0,
+      "balance_amt": 648774.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 반도체 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "KODEX 미국나스닥100TR",
+      "prod_code": "379810",
+      "trans_dtime": "20260611133557",
+      "Bod": "매수",
+      "trans_no": "STKP0760002",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 18.0,
+      "trans_unit": "좌",
+      "base_amt": 18000.0,
+      "trans_amt": 324000.0,
+      "settle_amt": 324100.0,
+      "balance_amt": 657774.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 미국나스닥100TR 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "TIGER 미국나스닥100",
+      "prod_code": "133690",
+      "trans_dtime": "20260611093318",
+      "Bod": "매수",
+      "trans_no": "STKP0760001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 2.0,
+      "trans_unit": "좌",
+      "base_amt": 115000.0,
+      "trans_amt": 230000.0,
+      "settle_amt": 230100.0,
+      "balance_amt": 563774.0,
+      "currency_code": "KRW",
+      "trans_memo": "TIGER 미국나스닥100 매수",
+      "ex_code": "001"
+    }
+  ]
+}

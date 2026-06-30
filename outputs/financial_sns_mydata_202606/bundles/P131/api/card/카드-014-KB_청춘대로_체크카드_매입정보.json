@@ -1,0 +1,113 @@
+{
+  "x-api-tran-id": "P131-카드-014-P131-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 13,
+  "purchase_list": [
+    {
+      "approved_num": "AP131000004",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "798-52-45253",
+      "purchase_dtime": "20260630124132",
+      "purchase_amt": 10100.0,
+      "transaction_id": "P131-T0033"
+    },
+    {
+      "approved_num": "AP131000006",
+      "merchant_name": "넷플릭스",
+      "merchant_regno": "455-26-27811",
+      "purchase_dtime": "20260627185516",
+      "purchase_amt": 12000.0,
+      "transaction_id": "P131-T0042"
+    },
+    {
+      "approved_num": "AP131000012",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "798-52-45253",
+      "purchase_dtime": "20260625215417",
+      "purchase_amt": 12000.0,
+      "transaction_id": "P131-T0058"
+    },
+    {
+      "approved_num": "AP131000001",
+      "merchant_name": "실손보험료",
+      "merchant_regno": "408-54-72916",
+      "purchase_dtime": "20260623162013",
+      "purchase_amt": 89500.0,
+      "transaction_id": "P131-T0006"
+    },
+    {
+      "approved_num": "AP131000005",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "798-52-45253",
+      "purchase_dtime": "20260623091222",
+      "purchase_amt": 13300.0,
+      "transaction_id": "P131-T0041"
+    },
+    {
+      "approved_num": "AP131000007",
+      "merchant_name": "노션",
+      "merchant_regno": "454-37-24365",
+      "purchase_dtime": "20260622205826",
+      "purchase_amt": 26100.0,
+      "transaction_id": "P131-T0043"
+    },
+    {
+      "approved_num": "AP131000010",
+      "merchant_name": "카카오T 택시",
+      "merchant_regno": "376-15-67128",
+      "purchase_dtime": "20260615092044",
+      "purchase_amt": 6800.0,
+      "transaction_id": "P131-T0053"
+    },
+    {
+      "approved_num": "AP131000008",
+      "merchant_name": "아이엠택시",
+      "merchant_regno": "665-33-70351",
+      "purchase_dtime": "20260613221323",
+      "purchase_amt": 13100.0,
+      "transaction_id": "P131-T0046"
+    },
+    {
+      "approved_num": "AP131000003",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "532-71-72002",
+      "purchase_dtime": "20260609204111",
+      "purchase_amt": 20900.0,
+      "transaction_id": "P131-T0016"
+    },
+    {
+      "approved_num": "AP131000011",
+      "merchant_name": "인프런",
+      "merchant_regno": "766-70-20697",
+      "purchase_dtime": "20260609200637",
+      "purchase_amt": 60400.0,
+      "transaction_id": "P131-T0056"
+    },
+    {
+      "approved_num": "AP131000009",
+      "merchant_name": "이디야커피",
+      "merchant_regno": "727-88-84140",
+      "purchase_dtime": "20260609110613",
+      "purchase_amt": 8000.0,
+      "transaction_id": "P131-T0050"
+    },
+    {
+      "approved_num": "AP131000002",
+      "merchant_name": "우티",
+      "merchant_regno": "784-50-76698",
+      "purchase_dtime": "20260608222735",
+      "purchase_amt": 17200.0,
+      "transaction_id": "P131-T0012"
+    },
+    {
+      "approved_num": "AP131000013",
+      "merchant_name": "파리바게뜨",
+      "merchant_regno": "240-41-68533",
+      "purchase_dtime": "20260607120501",
+      "purchase_amt": 5100.0,
+      "transaction_id": "P131-T0068"
+    }
+  ]
+}

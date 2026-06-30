@@ -1,0 +1,30 @@
+{
+  "persona_id": "P178",
+  "synthetic_name": "가상청년 P178",
+  "age": 30,
+  "birth_year": 1996,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "투자적극형",
+  "job": "IT 컨설턴트",
+  "region": "대전 서구",
+  "monthly_income_krw": 5390000,
+  "income_band": "500~700만원",
+  "target_monthly_spend_krw": 2180000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.24,
+  "target_investment_rate": 0.362,
+  "risk_score": 5,
+  "risk_attitude": "공격투자형",
+  "household_type": "부모동거",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "경제뉴스",
+    "배달선호",
+    "투자공유"
+  ],
+  "financial_goal": "포트폴리오 성장",
+  "sns_tendency": "소비인사이트형",
+  "target_ledger_rows": 128,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

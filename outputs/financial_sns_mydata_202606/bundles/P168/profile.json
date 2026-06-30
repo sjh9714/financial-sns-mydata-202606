@@ -1,0 +1,30 @@
+{
+  "persona_id": "P168",
+  "synthetic_name": "가상청년 P168",
+  "age": 25,
+  "birth_year": 2001,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "프리랜서",
+  "job": "프리랜서 디자이너",
+  "region": "인천 부평구",
+  "monthly_income_krw": 3010000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 1730000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.279,
+  "target_investment_rate": 0.166,
+  "risk_score": 3,
+  "risk_attitude": "중립형",
+  "household_type": "쉐어하우스",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "배달선호",
+    "자기계발",
+    "카페작업"
+  ],
+  "financial_goal": "장비구매",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 149,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

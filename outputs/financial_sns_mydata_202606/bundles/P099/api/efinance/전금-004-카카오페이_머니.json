@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P099-전금-004-P099-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP099카00002",
+      "trans_dtime": "20260629232259",
+      "trans_no": "WP09900001",
+      "currency_code": "KRW",
+      "trans_amt": -77200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "챗GPT",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP099카00007",
+      "trans_dtime": "20260615091211",
+      "trans_no": "WP09900002",
+      "currency_code": "KRW",
+      "trans_amt": -15500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "요기요",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

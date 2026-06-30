@@ -1,0 +1,30 @@
+{
+  "persona_id": "P199",
+  "synthetic_name": "가상청년 P199",
+  "age": 32,
+  "birth_year": 1994,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "고소득 FIRE형",
+  "job": "전문직",
+  "region": "서울 마포구",
+  "monthly_income_krw": 9050000,
+  "income_band": "700만원 이상",
+  "target_monthly_spend_krw": 4610000,
+  "spend_band": "320만원 이상",
+  "target_saving_rate": 0.412,
+  "target_investment_rate": 0.436,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "배달선호",
+    "시간절약",
+    "투자자동화"
+  ],
+  "financial_goal": "해외여행",
+  "sns_tendency": "목표공유형",
+  "target_ledger_rows": 99,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

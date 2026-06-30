@@ -1,0 +1,30 @@
+{
+  "persona_id": "P111",
+  "synthetic_name": "가상청년 P111",
+  "age": 23,
+  "birth_year": 2003,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "절약·저축형",
+  "job": "회계 담당자",
+  "region": "서울 마포구",
+  "monthly_income_krw": 4060000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2070000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.579,
+  "target_investment_rate": 0.066,
+  "risk_score": 1,
+  "risk_attitude": "원금보전형",
+  "household_type": "부모동거",
+  "household_size": 4,
+  "lifestyle_tags": [
+    "모바일결제",
+    "무지출챌린지",
+    "자동저축"
+  ],
+  "financial_goal": "청약",
+  "sns_tendency": "투자피드형",
+  "target_ledger_rows": 119,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

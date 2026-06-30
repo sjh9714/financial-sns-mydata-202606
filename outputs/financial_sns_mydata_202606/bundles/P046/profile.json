@@ -1,0 +1,30 @@
+{
+  "persona_id": "P046",
+  "synthetic_name": "가상청년 P046",
+  "age": 28,
+  "birth_year": 1998,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "사회초년생",
+  "job": "신입 개발자",
+  "region": "경기 성남시",
+  "monthly_income_krw": 3460000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 2380000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.171,
+  "target_investment_rate": 0.131,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "쉐어하우스",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "구독서비스",
+    "대중교통",
+    "점심외식"
+  ],
+  "financial_goal": "독립",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 135,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

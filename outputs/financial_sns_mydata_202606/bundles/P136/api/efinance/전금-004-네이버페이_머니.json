@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P136-전금-004-P136-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP136네00001",
+      "trans_dtime": "20260628201628",
+      "trans_no": "WP13600001",
+      "currency_code": "KRW",
+      "trans_amt": -11100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배스킨라빈스",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP136네00004",
+      "trans_dtime": "20260623181931",
+      "trans_no": "WP13600002",
+      "currency_code": "KRW",
+      "trans_amt": -23200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP136네00005",
+      "trans_dtime": "20260618080112",
+      "trans_no": "WP13600003",
+      "currency_code": "KRW",
+      "trans_amt": -7900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노티드",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

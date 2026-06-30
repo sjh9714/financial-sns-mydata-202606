@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P095-전금-004-P095-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP095네00007",
+      "trans_dtime": "20260627180910",
+      "trans_no": "WP09500002",
+      "currency_code": "KRW",
+      "trans_amt": -11600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "모바일티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP095네00004",
+      "trans_dtime": "20260622101118",
+      "trans_no": "WP09500001",
+      "currency_code": "KRW",
+      "trans_amt": -45600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

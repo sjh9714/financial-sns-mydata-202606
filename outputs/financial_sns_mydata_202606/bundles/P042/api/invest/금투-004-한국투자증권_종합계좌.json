@@ -1,0 +1,27 @@
+{
+  "x-api-tran-id": "P042-금투-004-P042-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "search_timestamp": "20260630235900",
+  "next_page": null,
+  "base_date": "20260630",
+  "prod_cnt": 1,
+  "prod_list": [
+    {
+      "prod_type": "201",
+      "prod_type_detail": "001",
+      "prod_code": "069500",
+      "ex_code": "001",
+      "prod_name": "KODEX 200",
+      "pos_type": "01",
+      "credit_type": "00",
+      "is_tax_benefits": false,
+      "purchase_amt": 39000.0,
+      "holding_num": 1.0,
+      "trans_unit": "좌",
+      "eval_amt": 37261.448,
+      "is_execution": true,
+      "currency_code": "KRW"
+    }
+  ]
+}

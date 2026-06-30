@@ -1,0 +1,30 @@
+{
+  "persona_id": "P104",
+  "synthetic_name": "가상청년 P104",
+  "age": 31,
+  "birth_year": 1995,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "도시 직장인",
+  "job": "데이터 분석가",
+  "region": "경기 성남시",
+  "monthly_income_krw": 4610000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2590000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.221,
+  "target_investment_rate": 0.084,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "도심생활",
+    "모바일결제",
+    "모바일뱅킹"
+  ],
+  "financial_goal": "커리어전환",
+  "sns_tendency": "소비인사이트형",
+  "target_ledger_rows": 154,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

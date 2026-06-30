@@ -1,0 +1,87 @@
+{
+  "x-api-tran-id": "P104-전금-004-P104-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 6,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP104카00005",
+      "trans_dtime": "20260629231639",
+      "trans_no": "WP10400003",
+      "currency_code": "KRW",
+      "trans_amt": -22800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP104카00006",
+      "trans_dtime": "20260626191058",
+      "trans_no": "WP10400004",
+      "currency_code": "KRW",
+      "trans_amt": -168800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "야놀자",
+      "trans_title": "숙박 결제",
+      "trans_category": "여행/숙박"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP104카00001",
+      "trans_dtime": "20260617203031",
+      "trans_no": "WP10400001",
+      "currency_code": "KRW",
+      "trans_amt": -38300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP104카00007",
+      "trans_dtime": "20260615181021",
+      "trans_no": "WP10400005",
+      "currency_code": "KRW",
+      "trans_amt": -50300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "지그재그",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP104카00010",
+      "trans_dtime": "20260611075716",
+      "trans_no": "WP10400006",
+      "currency_code": "KRW",
+      "trans_amt": -12900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "아이엠택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP104카00002",
+      "trans_dtime": "20260607140941",
+      "trans_no": "WP10400002",
+      "currency_code": "KRW",
+      "trans_amt": -53100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "올리브영",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    }
+  ]
+}

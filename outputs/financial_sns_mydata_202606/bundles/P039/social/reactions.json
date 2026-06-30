@@ -1,0 +1,82 @@
+{
+  "persona_id": "P039",
+  "reactions": [
+    {
+      "reaction_id": "P039-R001",
+      "actor_persona_id": "P039",
+      "target_persona_id": "P182",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-26T10:58:00+09:00"
+    },
+    {
+      "reaction_id": "P039-R002",
+      "actor_persona_id": "P039",
+      "target_persona_id": "P043",
+      "reaction_type": "like",
+      "created_at": "2026-06-14T18:15:00+09:00"
+    },
+    {
+      "reaction_id": "P039-R003",
+      "actor_persona_id": "P039",
+      "target_persona_id": "P097",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-25T12:20:00+09:00"
+    },
+    {
+      "reaction_id": "P039-R004",
+      "actor_persona_id": "P039",
+      "target_persona_id": "P097",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-25T18:09:00+09:00"
+    },
+    {
+      "reaction_id": "P039-R005",
+      "actor_persona_id": "P039",
+      "target_persona_id": "P085",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-01T14:51:00+09:00"
+    },
+    {
+      "reaction_id": "P039-R006",
+      "actor_persona_id": "P039",
+      "target_persona_id": "P043",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-05T20:43:00+09:00"
+    },
+    {
+      "reaction_id": "P039-R007",
+      "actor_persona_id": "P039",
+      "target_persona_id": "P179",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-20T16:23:00+09:00"
+    },
+    {
+      "reaction_id": "P039-R008",
+      "actor_persona_id": "P039",
+      "target_persona_id": "P055",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-22T19:59:00+09:00"
+    },
+    {
+      "reaction_id": "P039-R009",
+      "actor_persona_id": "P039",
+      "target_persona_id": "P128",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-20T14:24:00+09:00"
+    },
+    {
+      "reaction_id": "P039-R010",
+      "actor_persona_id": "P039",
+      "target_persona_id": "P085",
+      "reaction_type": "cheer",
+      "created_at": "2026-06-28T10:47:00+09:00"
+    },
+    {
+      "reaction_id": "P039-R011",
+      "actor_persona_id": "P039",
+      "target_persona_id": "P133",
+      "reaction_type": "like",
+      "created_at": "2026-06-01T15:02:00+09:00"
+    }
+  ]
+}

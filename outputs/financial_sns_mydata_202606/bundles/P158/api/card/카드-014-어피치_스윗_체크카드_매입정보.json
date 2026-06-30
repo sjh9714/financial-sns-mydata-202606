@@ -1,0 +1,145 @@
+{
+  "x-api-tran-id": "P158-카드-014-P158-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 17,
+  "purchase_list": [
+    {
+      "approved_num": "AP158000005",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "589-11-47637",
+      "purchase_dtime": "20260629201501",
+      "purchase_amt": 14900.0,
+      "transaction_id": "P158-T0032"
+    },
+    {
+      "approved_num": "AP158000017",
+      "merchant_name": "쿠팡이츠",
+      "merchant_regno": "153-86-17019",
+      "purchase_dtime": "20260629192135",
+      "purchase_amt": 26900.0,
+      "transaction_id": "P158-T0101"
+    },
+    {
+      "approved_num": "AP158000015",
+      "merchant_name": "무신사",
+      "merchant_regno": "295-15-84168",
+      "purchase_dtime": "20260622120738",
+      "purchase_amt": 28700.0,
+      "transaction_id": "P158-T0084"
+    },
+    {
+      "approved_num": "AP158000010",
+      "merchant_name": "멜론",
+      "merchant_regno": "870-40-45751",
+      "purchase_dtime": "20260620110105",
+      "purchase_amt": 25100.0,
+      "transaction_id": "P158-T0054"
+    },
+    {
+      "approved_num": "AP158000011",
+      "merchant_name": "이마트",
+      "merchant_regno": "476-86-31444",
+      "purchase_dtime": "20260620090813",
+      "purchase_amt": 37500.0,
+      "transaction_id": "P158-T0055"
+    },
+    {
+      "approved_num": "AP158000013",
+      "merchant_name": "인프런",
+      "merchant_regno": "766-48-39466",
+      "purchase_dtime": "20260618165417",
+      "purchase_amt": 139600.0,
+      "transaction_id": "P158-T0069"
+    },
+    {
+      "approved_num": "AP158000008",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "279-12-88475",
+      "purchase_dtime": "20260617215708",
+      "purchase_amt": 19000.0,
+      "transaction_id": "P158-T0051"
+    },
+    {
+      "approved_num": "AP158000004",
+      "merchant_name": "365약국",
+      "merchant_regno": "832-80-23225",
+      "purchase_dtime": "20260617215001",
+      "purchase_amt": 25800.0,
+      "transaction_id": "P158-T0031"
+    },
+    {
+      "approved_num": "AP158000012",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "658-32-65242",
+      "purchase_dtime": "20260616100126",
+      "purchase_amt": 72700.0,
+      "transaction_id": "P158-T0060"
+    },
+    {
+      "approved_num": "AP158000001",
+      "merchant_name": "휴대폰 요금",
+      "merchant_regno": "295-83-72845",
+      "purchase_dtime": "20260615141301",
+      "purchase_amt": 55500.0,
+      "transaction_id": "P158-T0009"
+    },
+    {
+      "approved_num": "AP158000003",
+      "merchant_name": "타다",
+      "merchant_regno": "317-52-35678",
+      "purchase_dtime": "20260615084553",
+      "purchase_amt": 6200.0,
+      "transaction_id": "P158-T0022"
+    },
+    {
+      "approved_num": "AP158000006",
+      "merchant_name": "메가MGC커피",
+      "merchant_regno": "467-85-45351",
+      "purchase_dtime": "20260613113220",
+      "purchase_amt": 4300.0,
+      "transaction_id": "P158-T0036"
+    },
+    {
+      "approved_num": "AP158000016",
+      "merchant_name": "티머니",
+      "merchant_regno": "293-83-14261",
+      "purchase_dtime": "20260610224052",
+      "purchase_amt": 21600.0,
+      "transaction_id": "P158-T0089"
+    },
+    {
+      "approved_num": "AP158000007",
+      "merchant_name": "카카오버스",
+      "merchant_regno": "395-17-28853",
+      "purchase_dtime": "20260607085717",
+      "purchase_amt": 23200.0,
+      "transaction_id": "P158-T0041"
+    },
+    {
+      "approved_num": "AP158000009",
+      "merchant_name": "홈플러스",
+      "merchant_regno": "146-73-89142",
+      "purchase_dtime": "20260605142228",
+      "purchase_amt": 42800.0,
+      "transaction_id": "P158-T0053"
+    },
+    {
+      "approved_num": "AP158000002",
+      "merchant_name": "예스24",
+      "merchant_regno": "309-85-45277",
+      "purchase_dtime": "20260603223755",
+      "purchase_amt": 23200.0,
+      "transaction_id": "P158-T0020"
+    },
+    {
+      "approved_num": "AP158000014",
+      "merchant_name": "11번가",
+      "merchant_regno": "291-71-67491",
+      "purchase_dtime": "20260603125842",
+      "purchase_amt": 75400.0,
+      "transaction_id": "P158-T0080"
+    }
+  ]
+}

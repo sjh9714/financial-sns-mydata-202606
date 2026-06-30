@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P066-전금-004-P066-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP066네00005",
+      "trans_dtime": "20260624105539",
+      "trans_no": "WP06600003",
+      "currency_code": "KRW",
+      "trans_amt": -75600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP066네00001",
+      "trans_dtime": "20260604214122",
+      "trans_no": "WP06600001",
+      "currency_code": "KRW",
+      "trans_amt": -3800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "던킨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP066네00004",
+      "trans_dtime": "20260602081353",
+      "trans_no": "WP06600002",
+      "currency_code": "KRW",
+      "trans_amt": -30300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "타다",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

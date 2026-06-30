@@ -1,0 +1,21 @@
+{
+  "persona_id": "P138",
+  "posts": [
+    {
+      "post_id": "P138-POST-001",
+      "persona_id": "P138",
+      "handle": "fin_p138_folio",
+      "created_at": "2026-06-15T20:23:00+09:00",
+      "post_type": "saving_milestone",
+      "visibility": "followers",
+      "source": "derived_from_ledger",
+      "title": "이번 달 저축률 기록",
+      "body": "6월 수입 대비 저축률 11.2% 달성",
+      "metrics": {
+        "like_count": 62,
+        "comment_count": 8,
+        "save_count": 20
+      }
+    }
+  ]
+}

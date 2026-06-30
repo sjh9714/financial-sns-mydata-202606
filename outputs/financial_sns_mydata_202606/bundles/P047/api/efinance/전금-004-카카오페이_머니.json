@@ -1,0 +1,22 @@
+{
+  "x-api-tran-id": "P047-전금-004-P047-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 1,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP047카00004",
+      "trans_dtime": "20260601092655",
+      "trans_no": "WP04700001",
+      "currency_code": "KRW",
+      "trans_amt": -5200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노티드",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

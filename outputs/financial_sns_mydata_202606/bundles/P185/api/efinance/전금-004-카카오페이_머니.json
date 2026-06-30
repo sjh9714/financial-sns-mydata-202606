@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P185-전금-004-P185-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP185카00002",
+      "trans_dtime": "20260629184723",
+      "trans_no": "WP18500001",
+      "currency_code": "KRW",
+      "trans_amt": -7900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "롯데마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP185카00004",
+      "trans_dtime": "20260606214857",
+      "trans_no": "WP18500002",
+      "currency_code": "KRW",
+      "trans_amt": -74500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "인프런",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    }
+  ]
+}

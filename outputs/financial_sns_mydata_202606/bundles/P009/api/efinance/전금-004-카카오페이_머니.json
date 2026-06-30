@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P009-전금-004-P009-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP009카00007",
+      "trans_dtime": "20260626161836",
+      "trans_no": "WP00900004",
+      "currency_code": "KRW",
+      "trans_amt": -11700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "온누리약국",
+      "trans_title": "약국 결제",
+      "trans_category": "의료/건강"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP009카00006",
+      "trans_dtime": "20260610080147",
+      "trans_no": "WP00900003",
+      "currency_code": "KRW",
+      "trans_amt": -12600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "담소소사골순대",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP009카00003",
+      "trans_dtime": "20260605124619",
+      "trans_no": "WP00900001",
+      "currency_code": "KRW",
+      "trans_amt": -15600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "마켓컬리",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP009카00005",
+      "trans_dtime": "20260604205344",
+      "trans_no": "WP00900002",
+      "currency_code": "KRW",
+      "trans_amt": -13600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "플랜 B",
+      "trans_title": "약국 결제",
+      "trans_category": "의료/건강"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P125-전금-004-P125-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP125카00003",
+      "trans_dtime": "20260629202024",
+      "trans_no": "WP12500002",
+      "currency_code": "KRW",
+      "trans_amt": -63600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "패스트캠퍼스",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP125카00005",
+      "trans_dtime": "20260611230825",
+      "trans_no": "WP12500004",
+      "currency_code": "KRW",
+      "trans_amt": -21400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "서울교통공사",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP125카00002",
+      "trans_dtime": "20260609082946",
+      "trans_no": "WP12500001",
+      "currency_code": "KRW",
+      "trans_amt": -15500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "아이엠택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP125카00004",
+      "trans_dtime": "20260608195250",
+      "trans_no": "WP12500003",
+      "currency_code": "KRW",
+      "trans_amt": -16800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오버스",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

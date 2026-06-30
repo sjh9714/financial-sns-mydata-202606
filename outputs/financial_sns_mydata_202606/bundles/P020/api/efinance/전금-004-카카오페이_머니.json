@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P020-전금-004-P020-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP020카00003",
+      "trans_dtime": "20260613123830",
+      "trans_no": "WP02000001",
+      "currency_code": "KRW",
+      "trans_amt": -6600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가MGC커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP020카00006",
+      "trans_dtime": "20260604092014",
+      "trans_no": "WP02000003",
+      "currency_code": "KRW",
+      "trans_amt": -3400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "서울교통공사",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP020카00005",
+      "trans_dtime": "20260601182810",
+      "trans_no": "WP02000002",
+      "currency_code": "KRW",
+      "trans_amt": -12100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오버스",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

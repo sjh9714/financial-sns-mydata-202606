@@ -1,0 +1,273 @@
+{
+  "x-api-tran-id": "P117-은행-004-P117-BANK-MAIN",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 24,
+  "trans_list": [
+    {
+      "trans_dtime": "20260628135318",
+      "trans_no": "BP11700007",
+      "trans_type": "02",
+      "trans_class": "내계좌이체",
+      "currency_code": "KRW",
+      "trans_amt": -160000.0,
+      "balance_amt": 2941066.0,
+      "paid_in_cnt": null,
+      "trans_memo": "청약 납입"
+    },
+    {
+      "trans_dtime": "20260627134936",
+      "trans_no": "BP11700011",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -29200.0,
+      "balance_amt": 2446266.0,
+      "paid_in_cnt": null,
+      "trans_memo": "롯데마트"
+    },
+    {
+      "trans_dtime": "20260626102449",
+      "trans_no": "PAYP117",
+      "trans_type": "03",
+      "trans_class": "급여이체",
+      "currency_code": "KRW",
+      "trans_amt": 2530000.0,
+      "balance_amt": 4251147.0,
+      "paid_in_cnt": null,
+      "trans_memo": "6월 월급"
+    },
+    {
+      "trans_dtime": "20260625103313",
+      "trans_no": "BP11700005",
+      "trans_type": "02",
+      "trans_class": "자동이체",
+      "currency_code": "KRW",
+      "trans_amt": -30300.0,
+      "balance_amt": 3781066.0,
+      "paid_in_cnt": null,
+      "trans_memo": "구독 서비스"
+    },
+    {
+      "trans_dtime": "20260625094905",
+      "trans_no": "BP11700003",
+      "trans_type": "02",
+      "trans_class": "자동이체",
+      "currency_code": "KRW",
+      "trans_amt": -380000.0,
+      "balance_amt": 3871266.0,
+      "paid_in_cnt": null,
+      "trans_memo": "주거비"
+    },
+    {
+      "trans_dtime": "20260624235922",
+      "trans_no": "BP11700002",
+      "trans_type": "03",
+      "trans_class": "캐시백",
+      "currency_code": "KRW",
+      "trans_amt": 119.0,
+      "balance_amt": 4251266.0,
+      "paid_in_cnt": null,
+      "trans_memo": "카드 캐시백"
+    },
+    {
+      "trans_dtime": "20260624194445",
+      "trans_no": "BP11700018",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -10400.0,
+      "balance_amt": 2237966.0,
+      "paid_in_cnt": null,
+      "trans_memo": "요기요"
+    },
+    {
+      "trans_dtime": "20260622130411",
+      "trans_no": "BP11700020",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -20400.0,
+      "balance_amt": 2209266.0,
+      "paid_in_cnt": null,
+      "trans_memo": "김밥천국 홍대점"
+    },
+    {
+      "trans_dtime": "20260617142206",
+      "trans_no": "BP11700023",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -25100.0,
+      "balance_amt": 2085766.0,
+      "paid_in_cnt": null,
+      "trans_memo": "노션"
+    },
+    {
+      "trans_dtime": "20260617095347",
+      "trans_no": "BP11700016",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -12400.0,
+      "balance_amt": 2265566.0,
+      "paid_in_cnt": null,
+      "trans_memo": "타다"
+    },
+    {
+      "trans_dtime": "20260616185210",
+      "trans_no": "BP11700017",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -17200.0,
+      "balance_amt": 2248366.0,
+      "paid_in_cnt": null,
+      "trans_memo": "세븐일레븐"
+    },
+    {
+      "trans_dtime": "20260615190924",
+      "trans_no": "BP11700019",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -8300.0,
+      "balance_amt": 2229666.0,
+      "paid_in_cnt": null,
+      "trans_memo": "우티"
+    },
+    {
+      "trans_dtime": "20260615162716",
+      "trans_no": "BP11700014",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -45900.0,
+      "balance_amt": 2359366.0,
+      "paid_in_cnt": null,
+      "trans_memo": "인프런"
+    },
+    {
+      "trans_dtime": "20260613133837",
+      "trans_no": "BP11700012",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -22800.0,
+      "balance_amt": 2423466.0,
+      "paid_in_cnt": null,
+      "trans_memo": "홈플러스"
+    },
+    {
+      "trans_dtime": "20260613091844",
+      "trans_no": "BP11700004",
+      "trans_type": "02",
+      "trans_class": "자동이체",
+      "currency_code": "KRW",
+      "trans_amt": -59900.0,
+      "balance_amt": 3811366.0,
+      "paid_in_cnt": null,
+      "trans_memo": "휴대폰 요금"
+    },
+    {
+      "trans_dtime": "20260612220913",
+      "trans_no": "BP11700022",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -62700.0,
+      "balance_amt": 2110866.0,
+      "paid_in_cnt": null,
+      "trans_memo": "무신사"
+    },
+    {
+      "trans_dtime": "20260612100455",
+      "trans_no": "BP11700015",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -81400.0,
+      "balance_amt": 2277966.0,
+      "paid_in_cnt": null,
+      "trans_memo": "쿠팡"
+    },
+    {
+      "trans_dtime": "20260611110114",
+      "trans_no": "BP11700010",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -27500.0,
+      "balance_amt": 2475466.0,
+      "paid_in_cnt": null,
+      "trans_memo": "365약국"
+    },
+    {
+      "trans_dtime": "20260610193309",
+      "trans_no": "BP11700013",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -18200.0,
+      "balance_amt": 2405266.0,
+      "paid_in_cnt": null,
+      "trans_memo": "우티"
+    },
+    {
+      "trans_dtime": "20260610094844",
+      "trans_no": "BP11700008",
+      "trans_type": "02",
+      "trans_class": "내계좌이체",
+      "currency_code": "KRW",
+      "trans_amt": -210000.0,
+      "balance_amt": 2731066.0,
+      "paid_in_cnt": null,
+      "trans_memo": "비상금 이체"
+    },
+    {
+      "trans_dtime": "20260609233659",
+      "trans_no": "BP11700021",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -35700.0,
+      "balance_amt": 2173566.0,
+      "paid_in_cnt": null,
+      "trans_memo": "교보문고"
+    },
+    {
+      "trans_dtime": "20260607130145",
+      "trans_no": "BP11700009",
+      "trans_type": "02",
+      "trans_class": "증권이체",
+      "currency_code": "KRW",
+      "trans_amt": -228100.0,
+      "balance_amt": 2502966.0,
+      "paid_in_cnt": null,
+      "trans_memo": "삼성전자 매수"
+    },
+    {
+      "trans_dtime": "20260604134217",
+      "trans_no": "BP11700024",
+      "trans_type": "02",
+      "trans_class": "계좌출금",
+      "currency_code": "KRW",
+      "trans_amt": -30900.0,
+      "balance_amt": 2054866.0,
+      "paid_in_cnt": null,
+      "trans_memo": "넷플릭스"
+    },
+    {
+      "trans_dtime": "20260603083744",
+      "trans_no": "BP11700006",
+      "trans_type": "02",
+      "trans_class": "내계좌이체",
+      "currency_code": "KRW",
+      "trans_amt": -680000.0,
+      "balance_amt": 3101066.0,
+      "paid_in_cnt": null,
+      "trans_memo": "적금 자동이체"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P048-전금-004-P048-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP048카00013",
+      "trans_dtime": "20260625190053",
+      "trans_no": "WP04800004",
+      "currency_code": "KRW",
+      "trans_amt": -11600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP048카00011",
+      "trans_dtime": "20260608233054",
+      "trans_no": "WP04800003",
+      "currency_code": "KRW",
+      "trans_amt": -94300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP048카00008",
+      "trans_dtime": "20260607101445",
+      "trans_no": "WP04800001",
+      "currency_code": "KRW",
+      "trans_amt": -54300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP048카00010",
+      "trans_dtime": "20260604092659",
+      "trans_no": "WP04800002",
+      "currency_code": "KRW",
+      "trans_amt": -28200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "x-api-tran-id": "P140-전금-004-P140-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 6,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP140네00008",
+      "trans_dtime": "20260628212006",
+      "trans_no": "WP14000001",
+      "currency_code": "KRW",
+      "trans_amt": -7600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "파리바게뜨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP140네00009",
+      "trans_dtime": "20260611202151",
+      "trans_no": "WP14000002",
+      "currency_code": "KRW",
+      "trans_amt": -23900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "한솥도시락 신촌점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP140네00014",
+      "trans_dtime": "20260610183631",
+      "trans_no": "WP14000005",
+      "currency_code": "KRW",
+      "trans_amt": -6200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "컴포즈커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP140네00017",
+      "trans_dtime": "20260607220824",
+      "trans_no": "WP14000006",
+      "currency_code": "KRW",
+      "trans_amt": -39400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP140네00012",
+      "trans_dtime": "20260603164530",
+      "trans_no": "WP14000004",
+      "currency_code": "KRW",
+      "trans_amt": -97100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "마켓컬리",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP140네00010",
+      "trans_dtime": "20260601125955",
+      "trans_no": "WP14000003",
+      "currency_code": "KRW",
+      "trans_amt": -33400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이마트24",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

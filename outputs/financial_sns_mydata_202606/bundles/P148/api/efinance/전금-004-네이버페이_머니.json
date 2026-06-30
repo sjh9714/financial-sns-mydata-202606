@@ -1,0 +1,74 @@
+{
+  "x-api-tran-id": "P148-전금-004-P148-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 5,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP148네00006",
+      "trans_dtime": "20260625113527",
+      "trans_no": "WP14800002",
+      "currency_code": "KRW",
+      "trans_amt": -27100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "예스24",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP148네00007",
+      "trans_dtime": "20260620072554",
+      "trans_no": "WP14800003",
+      "currency_code": "KRW",
+      "trans_amt": -10500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "타다",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP148네00008",
+      "trans_dtime": "20260614105455",
+      "trans_no": "WP14800004",
+      "currency_code": "KRW",
+      "trans_amt": -71100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP148네00009",
+      "trans_dtime": "20260607200316",
+      "trans_no": "WP14800005",
+      "currency_code": "KRW",
+      "trans_amt": -81700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP148네00004",
+      "trans_dtime": "20260603190348",
+      "trans_no": "WP14800001",
+      "currency_code": "KRW",
+      "trans_amt": -31000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "챗GPT",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

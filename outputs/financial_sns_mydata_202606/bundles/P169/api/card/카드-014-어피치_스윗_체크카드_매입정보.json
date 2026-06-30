@@ -1,0 +1,97 @@
+{
+  "x-api-tran-id": "P169-카드-014-P169-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 11,
+  "purchase_list": [
+    {
+      "approved_num": "AP169000007",
+      "merchant_name": "교보문고",
+      "merchant_regno": "706-28-23462",
+      "purchase_dtime": "20260630094059",
+      "purchase_amt": 27000.0,
+      "transaction_id": "P169-T0079"
+    },
+    {
+      "approved_num": "AP169000011",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "213-26-15362",
+      "purchase_dtime": "20260628203707",
+      "purchase_amt": 72000.0,
+      "transaction_id": "P169-T0095"
+    },
+    {
+      "approved_num": "AP169000003",
+      "merchant_name": "요기요",
+      "merchant_regno": "323-19-23309",
+      "purchase_dtime": "20260627081248",
+      "purchase_amt": 26700.0,
+      "transaction_id": "P169-T0033"
+    },
+    {
+      "approved_num": "AP169000009",
+      "merchant_name": "29CM",
+      "merchant_regno": "537-15-32741",
+      "purchase_dtime": "20260626104422",
+      "purchase_amt": 108900.0,
+      "transaction_id": "P169-T0087"
+    },
+    {
+      "approved_num": "AP169000004",
+      "merchant_name": "파리바게뜨",
+      "merchant_regno": "204-70-82008",
+      "purchase_dtime": "20260625185826",
+      "purchase_amt": 8600.0,
+      "transaction_id": "P169-T0037"
+    },
+    {
+      "approved_num": "AP169000005",
+      "merchant_name": "우티",
+      "merchant_regno": "520-70-85663",
+      "purchase_dtime": "20260624193757",
+      "purchase_amt": 20300.0,
+      "transaction_id": "P169-T0040"
+    },
+    {
+      "approved_num": "AP169000008",
+      "merchant_name": "11번가",
+      "merchant_regno": "682-36-20567",
+      "purchase_dtime": "20260620203328",
+      "purchase_amt": 27000.0,
+      "transaction_id": "P169-T0086"
+    },
+    {
+      "approved_num": "AP169000001",
+      "merchant_name": "실손보험료",
+      "merchant_regno": "537-49-25049",
+      "purchase_dtime": "20260617151645",
+      "purchase_amt": 30100.0,
+      "transaction_id": "P169-T0009"
+    },
+    {
+      "approved_num": "AP169000002",
+      "merchant_name": "이마트24",
+      "merchant_regno": "385-62-70145",
+      "purchase_dtime": "20260617132954",
+      "purchase_amt": 26500.0,
+      "transaction_id": "P169-T0028"
+    },
+    {
+      "approved_num": "AP169000006",
+      "merchant_name": "요기요",
+      "merchant_regno": "323-19-23309",
+      "purchase_dtime": "20260613084020",
+      "purchase_amt": 19600.0,
+      "transaction_id": "P169-T0059"
+    },
+    {
+      "approved_num": "AP169000010",
+      "merchant_name": "인프런",
+      "merchant_regno": "675-69-16628",
+      "purchase_dtime": "20260608091701",
+      "purchase_amt": 66800.0,
+      "transaction_id": "P169-T0092"
+    }
+  ]
+}

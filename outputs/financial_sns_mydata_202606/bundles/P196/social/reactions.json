@@ -1,0 +1,103 @@
+{
+  "persona_id": "P196",
+  "reactions": [
+    {
+      "reaction_id": "P196-R001",
+      "actor_persona_id": "P196",
+      "target_persona_id": "P030",
+      "reaction_type": "like",
+      "created_at": "2026-06-11T16:34:00+09:00"
+    },
+    {
+      "reaction_id": "P196-R002",
+      "actor_persona_id": "P196",
+      "target_persona_id": "P042",
+      "reaction_type": "cheer",
+      "created_at": "2026-06-07T08:07:00+09:00"
+    },
+    {
+      "reaction_id": "P196-R003",
+      "actor_persona_id": "P196",
+      "target_persona_id": "P183",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-05T17:15:00+09:00"
+    },
+    {
+      "reaction_id": "P196-R004",
+      "actor_persona_id": "P196",
+      "target_persona_id": "P146",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-07T20:29:00+09:00"
+    },
+    {
+      "reaction_id": "P196-R005",
+      "actor_persona_id": "P196",
+      "target_persona_id": "P146",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-26T16:23:00+09:00"
+    },
+    {
+      "reaction_id": "P196-R006",
+      "actor_persona_id": "P196",
+      "target_persona_id": "P080",
+      "reaction_type": "like",
+      "created_at": "2026-06-27T09:34:00+09:00"
+    },
+    {
+      "reaction_id": "P196-R007",
+      "actor_persona_id": "P196",
+      "target_persona_id": "P101",
+      "reaction_type": "like",
+      "created_at": "2026-06-16T21:00:00+09:00"
+    },
+    {
+      "reaction_id": "P196-R008",
+      "actor_persona_id": "P196",
+      "target_persona_id": "P168",
+      "reaction_type": "like",
+      "created_at": "2026-06-15T15:47:00+09:00"
+    },
+    {
+      "reaction_id": "P196-R009",
+      "actor_persona_id": "P196",
+      "target_persona_id": "P048",
+      "reaction_type": "cheer",
+      "created_at": "2026-06-04T20:27:00+09:00"
+    },
+    {
+      "reaction_id": "P196-R010",
+      "actor_persona_id": "P196",
+      "target_persona_id": "P080",
+      "reaction_type": "cheer",
+      "created_at": "2026-06-15T17:33:00+09:00"
+    },
+    {
+      "reaction_id": "P196-R011",
+      "actor_persona_id": "P196",
+      "target_persona_id": "P165",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-20T12:48:00+09:00"
+    },
+    {
+      "reaction_id": "P196-R012",
+      "actor_persona_id": "P196",
+      "target_persona_id": "P080",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-13T19:02:00+09:00"
+    },
+    {
+      "reaction_id": "P196-R013",
+      "actor_persona_id": "P196",
+      "target_persona_id": "P048",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-02T11:00:00+09:00"
+    },
+    {
+      "reaction_id": "P196-R014",
+      "actor_persona_id": "P196",
+      "target_persona_id": "P069",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-26T18:03:00+09:00"
+    }
+  ]
+}

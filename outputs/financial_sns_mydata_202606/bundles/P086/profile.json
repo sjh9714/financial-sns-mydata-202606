@@ -1,0 +1,30 @@
+{
+  "persona_id": "P086",
+  "synthetic_name": "가상청년 P086",
+  "age": 33,
+  "birth_year": 1993,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "도시 직장인",
+  "job": "대기업 사무직",
+  "region": "서울 마포구",
+  "monthly_income_krw": 4420000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2790000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.343,
+  "target_investment_rate": 0.108,
+  "risk_score": 3,
+  "risk_attitude": "중립형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "도심생활",
+    "모바일뱅킹",
+    "소액투자"
+  ],
+  "financial_goal": "내집마련",
+  "sns_tendency": "목표공유형",
+  "target_ledger_rows": 138,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

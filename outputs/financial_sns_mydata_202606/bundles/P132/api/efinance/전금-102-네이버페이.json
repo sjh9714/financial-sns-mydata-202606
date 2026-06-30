@@ -1,0 +1,15 @@
+{
+  "x-api-tran-id": "P132-전금-102-네이버페이",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "search_timestamp": "20260630235900",
+  "pay_cnt": 1,
+  "pay_list": [
+    {
+      "pay_org_code": "06000002",
+      "pay_type": "01",
+      "pay_id": "P132-네이버페이-PAY",
+      "is_primary": true
+    }
+  ]
+}

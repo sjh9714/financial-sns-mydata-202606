@@ -1,0 +1,409 @@
+{
+  "x-api-tran-id": "P092-카드-014-P092-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 50,
+  "purchase_list": [
+    {
+      "approved_num": "AP092000008",
+      "merchant_name": "무신사뷰티",
+      "merchant_regno": "847-59-36211",
+      "purchase_dtime": "20260630151725",
+      "purchase_amt": 49700.0,
+      "transaction_id": "P092-T0031"
+    },
+    {
+      "approved_num": "AP092000028",
+      "merchant_name": "11번가",
+      "merchant_regno": "108-45-48769",
+      "purchase_dtime": "20260629220816",
+      "purchase_amt": 66000.0,
+      "transaction_id": "P092-T0068"
+    },
+    {
+      "approved_num": "AP092000022",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "522-24-16370",
+      "purchase_dtime": "20260629201331",
+      "purchase_amt": 94600.0,
+      "transaction_id": "P092-T0060"
+    },
+    {
+      "approved_num": "AP092000032",
+      "merchant_name": "CU",
+      "merchant_regno": "508-22-30831",
+      "purchase_dtime": "20260629195230",
+      "purchase_amt": 47500.0,
+      "transaction_id": "P092-T0082"
+    },
+    {
+      "approved_num": "AP092000039",
+      "merchant_name": "티머니",
+      "merchant_regno": "869-39-50613",
+      "purchase_dtime": "20260629182400",
+      "purchase_amt": 12200.0,
+      "transaction_id": "P092-T0092"
+    },
+    {
+      "approved_num": "AP092000010",
+      "merchant_name": "카카오버스",
+      "merchant_regno": "656-32-45181",
+      "purchase_dtime": "20260628185441",
+      "purchase_amt": 12500.0,
+      "transaction_id": "P092-T0035"
+    },
+    {
+      "approved_num": "AP092000036",
+      "merchant_name": "CU",
+      "merchant_regno": "508-22-30831",
+      "purchase_dtime": "20260628105627",
+      "purchase_amt": 68800.0,
+      "transaction_id": "P092-T0086"
+    },
+    {
+      "approved_num": "AP092000020",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "195-23-60284",
+      "purchase_dtime": "20260627215951",
+      "purchase_amt": 69900.0,
+      "transaction_id": "P092-T0052"
+    },
+    {
+      "approved_num": "AP092000031",
+      "merchant_name": "무신사뷰티",
+      "merchant_regno": "847-59-36211",
+      "purchase_dtime": "20260627181004",
+      "purchase_amt": 18100.0,
+      "transaction_id": "P092-T0080"
+    },
+    {
+      "approved_num": "AP092000024",
+      "merchant_name": "배스킨라빈스",
+      "merchant_regno": "852-37-67965",
+      "purchase_dtime": "20260627131012",
+      "purchase_amt": 6700.0,
+      "transaction_id": "P092-T0063"
+    },
+    {
+      "approved_num": "AP092000029",
+      "merchant_name": "한솥도시락 신촌점",
+      "merchant_regno": "554-40-11081",
+      "purchase_dtime": "20260627114853",
+      "purchase_amt": 15700.0,
+      "transaction_id": "P092-T0075"
+    },
+    {
+      "approved_num": "AP092000042",
+      "merchant_name": "티머니",
+      "merchant_regno": "869-39-50613",
+      "purchase_dtime": "20260627070001",
+      "purchase_amt": 10500.0,
+      "transaction_id": "P092-T0096"
+    },
+    {
+      "approved_num": "AP092000035",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "195-23-60284",
+      "purchase_dtime": "20260626100119",
+      "purchase_amt": 32300.0,
+      "transaction_id": "P092-T0085"
+    },
+    {
+      "approved_num": "AP092000049",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "195-23-60284",
+      "purchase_dtime": "20260625222446",
+      "purchase_amt": 110100.0,
+      "transaction_id": "P092-T0104"
+    },
+    {
+      "approved_num": "AP092000045",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "195-23-60284",
+      "purchase_dtime": "20260623104318",
+      "purchase_amt": 30700.0,
+      "transaction_id": "P092-T0099"
+    },
+    {
+      "approved_num": "AP092000046",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "522-24-16370",
+      "purchase_dtime": "20260622222104",
+      "purchase_amt": 57000.0,
+      "transaction_id": "P092-T0100"
+    },
+    {
+      "approved_num": "AP092000033",
+      "merchant_name": "타다",
+      "merchant_regno": "884-19-89937",
+      "purchase_dtime": "20260622074042",
+      "purchase_amt": 24600.0,
+      "transaction_id": "P092-T0083"
+    },
+    {
+      "approved_num": "AP092000003",
+      "merchant_name": "이마트24",
+      "merchant_regno": "416-55-66024",
+      "purchase_dtime": "20260620114616",
+      "purchase_amt": 5700.0,
+      "transaction_id": "P092-T0018"
+    },
+    {
+      "approved_num": "AP092000037",
+      "merchant_name": "요기요",
+      "merchant_regno": "741-33-16387",
+      "purchase_dtime": "20260620081054",
+      "purchase_amt": 14000.0,
+      "transaction_id": "P092-T0089"
+    },
+    {
+      "approved_num": "AP092000026",
+      "merchant_name": "예스24",
+      "merchant_regno": "150-51-50188",
+      "purchase_dtime": "20260619145840",
+      "purchase_amt": 27800.0,
+      "transaction_id": "P092-T0065"
+    },
+    {
+      "approved_num": "AP092000005",
+      "merchant_name": "여기어때",
+      "merchant_regno": "583-21-27575",
+      "purchase_dtime": "20260619101228",
+      "purchase_amt": 226100.0,
+      "transaction_id": "P092-T0020"
+    },
+    {
+      "approved_num": "AP092000019",
+      "merchant_name": "넷플릭스",
+      "merchant_regno": "377-15-66144",
+      "purchase_dtime": "20260618213557",
+      "purchase_amt": 22900.0,
+      "transaction_id": "P092-T0048"
+    },
+    {
+      "approved_num": "AP092000038",
+      "merchant_name": "인터파크티켓",
+      "merchant_regno": "729-88-73740",
+      "purchase_dtime": "20260618193136",
+      "purchase_amt": 16900.0,
+      "transaction_id": "P092-T0090"
+    },
+    {
+      "approved_num": "AP092000030",
+      "merchant_name": "올리브영",
+      "merchant_regno": "452-26-22888",
+      "purchase_dtime": "20260617175714",
+      "purchase_amt": 22500.0,
+      "transaction_id": "P092-T0077"
+    },
+    {
+      "approved_num": "AP092000040",
+      "merchant_name": "아고다",
+      "merchant_regno": "479-29-16983",
+      "purchase_dtime": "20260615222942",
+      "purchase_amt": 126300.0,
+      "transaction_id": "P092-T0094"
+    },
+    {
+      "approved_num": "AP092000034",
+      "merchant_name": "이마트",
+      "merchant_regno": "884-76-73198",
+      "purchase_dtime": "20260615180451",
+      "purchase_amt": 12000.0,
+      "transaction_id": "P092-T0084"
+    },
+    {
+      "approved_num": "AP092000048",
+      "merchant_name": "한솥도시락 신촌점",
+      "merchant_regno": "554-40-11081",
+      "purchase_dtime": "20260615090542",
+      "purchase_amt": 16000.0,
+      "transaction_id": "P092-T0102"
+    },
+    {
+      "approved_num": "AP092000014",
+      "merchant_name": "요기요",
+      "merchant_regno": "741-33-16387",
+      "purchase_dtime": "20260614213739",
+      "purchase_amt": 10100.0,
+      "transaction_id": "P092-T0039"
+    },
+    {
+      "approved_num": "AP092000006",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "140-50-84833",
+      "purchase_dtime": "20260614200244",
+      "purchase_amt": 45200.0,
+      "transaction_id": "P092-T0022"
+    },
+    {
+      "approved_num": "AP092000018",
+      "merchant_name": "노티드",
+      "merchant_regno": "418-32-17716",
+      "purchase_dtime": "20260614130211",
+      "purchase_amt": 5500.0,
+      "transaction_id": "P092-T0047"
+    },
+    {
+      "approved_num": "AP092000025",
+      "merchant_name": "우티",
+      "merchant_regno": "122-81-68032",
+      "purchase_dtime": "20260613225528",
+      "purchase_amt": 13800.0,
+      "transaction_id": "P092-T0064"
+    },
+    {
+      "approved_num": "AP092000047",
+      "merchant_name": "야놀자",
+      "merchant_regno": "227-62-10317",
+      "purchase_dtime": "20260613210443",
+      "purchase_amt": 76500.0,
+      "transaction_id": "P092-T0101"
+    },
+    {
+      "approved_num": "AP092000007",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "752-34-27404",
+      "purchase_dtime": "20260612093622",
+      "purchase_amt": 22800.0,
+      "transaction_id": "P092-T0027"
+    },
+    {
+      "approved_num": "AP092000004",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "522-24-16370",
+      "purchase_dtime": "20260610212633",
+      "purchase_amt": 80300.0,
+      "transaction_id": "P092-T0019"
+    },
+    {
+      "approved_num": "AP092000016",
+      "merchant_name": "아모레몰",
+      "merchant_regno": "778-72-17867",
+      "purchase_dtime": "20260610183448",
+      "purchase_amt": 31700.0,
+      "transaction_id": "P092-T0042"
+    },
+    {
+      "approved_num": "AP092000001",
+      "merchant_name": "실손보험료",
+      "merchant_regno": "388-74-24237",
+      "purchase_dtime": "20260610154641",
+      "purchase_amt": 28000.0,
+      "transaction_id": "P092-T0008"
+    },
+    {
+      "approved_num": "AP092000002",
+      "merchant_name": "무신사",
+      "merchant_regno": "109-22-43846",
+      "purchase_dtime": "20260608203237",
+      "purchase_amt": 35200.0,
+      "transaction_id": "P092-T0016"
+    },
+    {
+      "approved_num": "AP092000009",
+      "merchant_name": "모바일티머니",
+      "merchant_regno": "143-73-40341",
+      "purchase_dtime": "20260608191943",
+      "purchase_amt": 15700.0,
+      "transaction_id": "P092-T0034"
+    },
+    {
+      "approved_num": "AP092000043",
+      "merchant_name": "올리브영",
+      "merchant_regno": "452-26-22888",
+      "purchase_dtime": "20260608155659",
+      "purchase_amt": 26200.0,
+      "transaction_id": "P092-T0097"
+    },
+    {
+      "approved_num": "AP092000044",
+      "merchant_name": "타다",
+      "merchant_regno": "884-19-89937",
+      "purchase_dtime": "20260607185712",
+      "purchase_amt": 22000.0,
+      "transaction_id": "P092-T0098"
+    },
+    {
+      "approved_num": "AP092000021",
+      "merchant_name": "알라딘",
+      "merchant_regno": "303-73-75984",
+      "purchase_dtime": "20260607162952",
+      "purchase_amt": 56600.0,
+      "transaction_id": "P092-T0059"
+    },
+    {
+      "approved_num": "AP092000050",
+      "merchant_name": "주식회사 우아한형제들",
+      "merchant_regno": "692-26-76568",
+      "purchase_dtime": "20260606112557",
+      "purchase_amt": 22400.0,
+      "transaction_id": "P092-T0105"
+    },
+    {
+      "approved_num": "AP092000041",
+      "merchant_name": "올리브영",
+      "merchant_regno": "452-26-22888",
+      "purchase_dtime": "20260605214714",
+      "purchase_amt": 29300.0,
+      "transaction_id": "P092-T0095"
+    },
+    {
+      "approved_num": "AP092000017",
+      "merchant_name": "담소소사골순대",
+      "merchant_regno": "363-24-65774",
+      "purchase_dtime": "20260605184104",
+      "purchase_amt": 8900.0,
+      "transaction_id": "P092-T0044"
+    },
+    {
+      "approved_num": "AP092000012",
+      "merchant_name": "무신사",
+      "merchant_regno": "109-22-43846",
+      "purchase_dtime": "20260604222900",
+      "purchase_amt": 41400.0,
+      "transaction_id": "P092-T0037"
+    },
+    {
+      "approved_num": "AP092000011",
+      "merchant_name": "노티드",
+      "merchant_regno": "418-32-17716",
+      "purchase_dtime": "20260604204008",
+      "purchase_amt": 3500.0,
+      "transaction_id": "P092-T0036"
+    },
+    {
+      "approved_num": "AP092000027",
+      "merchant_name": "카카오T 택시",
+      "merchant_regno": "653-66-33057",
+      "purchase_dtime": "20260604191720",
+      "purchase_amt": 12700.0,
+      "transaction_id": "P092-T0066"
+    },
+    {
+      "approved_num": "AP092000015",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "195-23-60284",
+      "purchase_dtime": "20260603203349",
+      "purchase_amt": 29500.0,
+      "transaction_id": "P092-T0040"
+    },
+    {
+      "approved_num": "AP092000013",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "195-23-60284",
+      "purchase_dtime": "20260603202617",
+      "purchase_amt": 47000.0,
+      "transaction_id": "P092-T0038"
+    },
+    {
+      "approved_num": "AP092000023",
+      "merchant_name": "카카오T 택시",
+      "merchant_regno": "653-66-33057",
+      "purchase_dtime": "20260603070225",
+      "purchase_amt": 14800.0,
+      "transaction_id": "P092-T0062"
+    }
+  ]
+}

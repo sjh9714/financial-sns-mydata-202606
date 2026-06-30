@@ -1,0 +1,30 @@
+{
+  "persona_id": "P160",
+  "synthetic_name": "가상청년 P160",
+  "age": 30,
+  "birth_year": 1996,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "프리랜서",
+  "job": "1인 크리에이터",
+  "region": "인천 부평구",
+  "monthly_income_krw": 4390000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2890000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.245,
+  "target_investment_rate": 0.131,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "쉐어하우스",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "예산관리",
+    "자기계발",
+    "카페작업"
+  ],
+  "financial_goal": "장비구매",
+  "sns_tendency": "목표공유형",
+  "target_ledger_rows": 93,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

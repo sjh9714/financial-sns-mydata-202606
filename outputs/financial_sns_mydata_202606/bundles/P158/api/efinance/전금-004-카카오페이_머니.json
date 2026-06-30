@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P158-전금-004-P158-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP158카00009",
+      "trans_dtime": "20260615203713",
+      "trans_no": "WP15800003",
+      "currency_code": "KRW",
+      "trans_amt": -6400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "컴포즈커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP158카00002",
+      "trans_dtime": "20260609192638",
+      "trans_no": "WP15800001",
+      "currency_code": "KRW",
+      "trans_amt": -6200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배스킨라빈스",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP158카00008",
+      "trans_dtime": "20260603094402",
+      "trans_no": "WP15800002",
+      "currency_code": "KRW",
+      "trans_amt": -7200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배스킨라빈스",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

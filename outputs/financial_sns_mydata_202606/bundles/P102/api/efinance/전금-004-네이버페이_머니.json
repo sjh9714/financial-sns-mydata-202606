@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P102-전금-004-P102-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP102네00001",
+      "trans_dtime": "20260628135441",
+      "trans_no": "WP10200001",
+      "currency_code": "KRW",
+      "trans_amt": -33400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "예스24",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP102네00003",
+      "trans_dtime": "20260617152031",
+      "trans_no": "WP10200002",
+      "currency_code": "KRW",
+      "trans_amt": -35800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사뷰티",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP102네00006",
+      "trans_dtime": "20260613210934",
+      "trans_no": "WP10200003",
+      "currency_code": "KRW",
+      "trans_amt": -12800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "요기요",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP102네00009",
+      "trans_dtime": "20260605080002",
+      "trans_no": "WP10200004",
+      "currency_code": "KRW",
+      "trans_amt": -13300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "김밥천국 홍대점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persona_id": "P188",
+  "synthetic_name": "가상청년 P188",
+  "age": 30,
+  "birth_year": 1996,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "청약·내집마련형",
+  "job": "중견기업 사무직",
+  "region": "대구 중구",
+  "monthly_income_krw": 5030000,
+  "income_band": "500~700만원",
+  "target_monthly_spend_krw": 2480000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.358,
+  "target_investment_rate": 0.085,
+  "risk_score": 1,
+  "risk_attitude": "원금보전형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "모바일결제",
+    "장기계획",
+    "주거비관리"
+  ],
+  "financial_goal": "내집마련",
+  "sns_tendency": "눈팅형",
+  "target_ledger_rows": 115,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

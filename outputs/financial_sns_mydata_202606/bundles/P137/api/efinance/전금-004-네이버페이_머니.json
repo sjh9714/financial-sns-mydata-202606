@@ -1,0 +1,100 @@
+{
+  "x-api-tran-id": "P137-전금-004-P137-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 7,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP137네00013",
+      "trans_dtime": "20260620224847",
+      "trans_no": "WP13700005",
+      "currency_code": "KRW",
+      "trans_amt": -30200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "멜론",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP137네00012",
+      "trans_dtime": "20260614194740",
+      "trans_no": "WP13700004",
+      "currency_code": "KRW",
+      "trans_amt": -6400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "스타벅스 합정점",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP137네00017",
+      "trans_dtime": "20260611165450",
+      "trans_no": "WP13700007",
+      "currency_code": "KRW",
+      "trans_amt": -106800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "29CM",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP137네00001",
+      "trans_dtime": "20260608194110",
+      "trans_no": "WP13700001",
+      "currency_code": "KRW",
+      "trans_amt": -14400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "아이엠택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP137네00009",
+      "trans_dtime": "20260605192823",
+      "trans_no": "WP13700002",
+      "currency_code": "KRW",
+      "trans_amt": -18800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "두끼 노량진역점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP137네00010",
+      "trans_dtime": "20260605150559",
+      "trans_no": "WP13700003",
+      "currency_code": "KRW",
+      "trans_amt": -41500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "CU",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP137네00015",
+      "trans_dtime": "20260603214912",
+      "trans_no": "WP13700006",
+      "currency_code": "KRW",
+      "trans_amt": -94900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이마트24",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

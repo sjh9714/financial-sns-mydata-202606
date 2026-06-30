@@ -1,0 +1,30 @@
+{
+  "persona_id": "P008",
+  "synthetic_name": "가상청년 P008",
+  "age": 25,
+  "birth_year": 2001,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "투자적극형",
+  "job": "IT 컨설턴트",
+  "region": "대구 중구",
+  "monthly_income_krw": 5030000,
+  "income_band": "500~700만원",
+  "target_monthly_spend_krw": 2840000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.255,
+  "target_investment_rate": 0.232,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "경제뉴스",
+    "예산관리",
+    "투자공유"
+  ],
+  "financial_goal": "포트폴리오 성장",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 117,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

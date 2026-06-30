@@ -1,0 +1,74 @@
+{
+  "x-api-tran-id": "P143-전금-004-P143-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 5,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP143카00010",
+      "trans_dtime": "20260629193039",
+      "trans_no": "WP14300003",
+      "currency_code": "KRW",
+      "trans_amt": -24900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "요기요",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP143카00012",
+      "trans_dtime": "20260623171707",
+      "trans_no": "WP14300004",
+      "currency_code": "KRW",
+      "trans_amt": -70800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "홈플러스",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP143카00016",
+      "trans_dtime": "20260620200944",
+      "trans_no": "WP14300005",
+      "currency_code": "KRW",
+      "trans_amt": -14100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "멜론",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP143카00002",
+      "trans_dtime": "20260619222036",
+      "trans_no": "WP14300001",
+      "currency_code": "KRW",
+      "trans_amt": -22700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "서울교통공사",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP143카00007",
+      "trans_dtime": "20260609120922",
+      "trans_no": "WP14300002",
+      "currency_code": "KRW",
+      "trans_amt": -71100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "올리브영",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    }
+  ]
+}

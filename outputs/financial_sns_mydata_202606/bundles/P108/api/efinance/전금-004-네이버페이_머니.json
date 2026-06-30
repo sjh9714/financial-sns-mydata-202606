@@ -1,0 +1,87 @@
+{
+  "x-api-tran-id": "P108-전금-004-P108-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 6,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP108네00009",
+      "trans_dtime": "20260627205047",
+      "trans_no": "WP10800005",
+      "currency_code": "KRW",
+      "trans_amt": -41900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP108네00002",
+      "trans_dtime": "20260626214206",
+      "trans_no": "WP10800001",
+      "currency_code": "KRW",
+      "trans_amt": -61300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "아모레몰",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP108네00003",
+      "trans_dtime": "20260625202845",
+      "trans_no": "WP10800002",
+      "currency_code": "KRW",
+      "trans_amt": -35500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP108네00013",
+      "trans_dtime": "20260617125941",
+      "trans_no": "WP10800006",
+      "currency_code": "KRW",
+      "trans_amt": -28100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "담소소사골순대",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP108네00004",
+      "trans_dtime": "20260610214450",
+      "trans_no": "WP10800003",
+      "currency_code": "KRW",
+      "trans_amt": -7000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP108네00007",
+      "trans_dtime": "20260609130545",
+      "trans_no": "WP10800004",
+      "currency_code": "KRW",
+      "trans_amt": -16200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

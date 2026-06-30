@@ -1,0 +1,22 @@
+{
+  "x-api-tran-id": "P162-전금-004-P162-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 1,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP162네00003",
+      "trans_dtime": "20260614192837",
+      "trans_no": "WP16200001",
+      "currency_code": "KRW",
+      "trans_amt": -53700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    }
+  ]
+}

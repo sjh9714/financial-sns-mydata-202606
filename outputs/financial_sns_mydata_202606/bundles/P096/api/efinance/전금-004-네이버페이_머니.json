@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P096-전금-004-P096-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP096네00006",
+      "trans_dtime": "20260620170737",
+      "trans_no": "WP09600002",
+      "currency_code": "KRW",
+      "trans_amt": -37800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "교보문고",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP096네00001",
+      "trans_dtime": "20260605095411",
+      "trans_no": "WP09600001",
+      "currency_code": "KRW",
+      "trans_amt": -6600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "파리바게뜨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P015-전금-004-P015-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP015네00002",
+      "trans_dtime": "20260616220217",
+      "trans_no": "WP01500002",
+      "currency_code": "KRW",
+      "trans_amt": -33700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP015네00004",
+      "trans_dtime": "20260610131143",
+      "trans_no": "WP01500003",
+      "currency_code": "KRW",
+      "trans_amt": -42500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이마트24",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP015네00001",
+      "trans_dtime": "20260601120247",
+      "trans_no": "WP01500001",
+      "currency_code": "KRW",
+      "trans_amt": -44800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "x-api-tran-id": "P086-카드-014-P086-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 24,
+  "purchase_list": [
+    {
+      "approved_num": "AP086000023",
+      "merchant_name": "CGV",
+      "merchant_regno": "493-89-11937",
+      "purchase_dtime": "20260630175426",
+      "purchase_amt": 24400.0,
+      "transaction_id": "P086-T0134"
+    },
+    {
+      "approved_num": "AP086000019",
+      "merchant_name": "야놀자",
+      "merchant_regno": "834-34-68210",
+      "purchase_dtime": "20260630145447",
+      "purchase_amt": 91500.0,
+      "transaction_id": "P086-T0107"
+    },
+    {
+      "approved_num": "AP086000020",
+      "merchant_name": "11번가",
+      "merchant_regno": "505-10-37600",
+      "purchase_dtime": "20260630122928",
+      "purchase_amt": 53200.0,
+      "transaction_id": "P086-T0110"
+    },
+    {
+      "approved_num": "AP086000012",
+      "merchant_name": "스타벅스 합정점",
+      "merchant_regno": "177-43-57636",
+      "purchase_dtime": "20260630084804",
+      "purchase_amt": 5900.0,
+      "transaction_id": "P086-T0071"
+    },
+    {
+      "approved_num": "AP086000007",
+      "merchant_name": "컴포즈커피",
+      "merchant_regno": "602-70-54346",
+      "purchase_dtime": "20260629202127",
+      "purchase_amt": 7900.0,
+      "transaction_id": "P086-T0035"
+    },
+    {
+      "approved_num": "AP086000021",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "293-71-72107",
+      "purchase_dtime": "20260628205320",
+      "purchase_amt": 40300.0,
+      "transaction_id": "P086-T0127"
+    },
+    {
+      "approved_num": "AP086000005",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "804-19-62915",
+      "purchase_dtime": "20260628135435",
+      "purchase_amt": 10900.0,
+      "transaction_id": "P086-T0018"
+    },
+    {
+      "approved_num": "AP086000001",
+      "merchant_name": "구독 서비스",
+      "merchant_regno": "682-58-66721",
+      "purchase_dtime": "20260625175719",
+      "purchase_amt": 40900.0,
+      "transaction_id": "P086-T0007"
+    },
+    {
+      "approved_num": "AP086000015",
+      "merchant_name": "홈플러스",
+      "merchant_regno": "297-15-13399",
+      "purchase_dtime": "20260624142933",
+      "purchase_amt": 50800.0,
+      "transaction_id": "P086-T0085"
+    },
+    {
+      "approved_num": "AP086000017",
+      "merchant_name": "메가박스",
+      "merchant_regno": "502-56-35692",
+      "purchase_dtime": "20260624100751",
+      "purchase_amt": 36600.0,
+      "transaction_id": "P086-T0095"
+    },
+    {
+      "approved_num": "AP086000003",
+      "merchant_name": "던킨",
+      "merchant_regno": "787-51-24206",
+      "purchase_dtime": "20260622204115",
+      "purchase_amt": 5500.0,
+      "transaction_id": "P086-T0015"
+    },
+    {
+      "approved_num": "AP086000009",
+      "merchant_name": "11번가",
+      "merchant_regno": "505-10-37600",
+      "purchase_dtime": "20260620122843",
+      "purchase_amt": 68900.0,
+      "transaction_id": "P086-T0064"
+    },
+    {
+      "approved_num": "AP086000008",
+      "merchant_name": "주식회사 우아한형제들",
+      "merchant_regno": "155-29-63358",
+      "purchase_dtime": "20260620121702",
+      "purchase_amt": 11300.0,
+      "transaction_id": "P086-T0047"
+    },
+    {
+      "approved_num": "AP086000014",
+      "merchant_name": "메가MGC커피",
+      "merchant_regno": "313-74-13339",
+      "purchase_dtime": "20260616133917",
+      "purchase_amt": 5800.0,
+      "transaction_id": "P086-T0083"
+    },
+    {
+      "approved_num": "AP086000004",
+      "merchant_name": "파리바게뜨",
+      "merchant_regno": "111-80-13447",
+      "purchase_dtime": "20260614124556",
+      "purchase_amt": 5200.0,
+      "transaction_id": "P086-T0017"
+    },
+    {
+      "approved_num": "AP086000011",
+      "merchant_name": "롯데마트",
+      "merchant_regno": "103-10-53200",
+      "purchase_dtime": "20260613220904",
+      "purchase_amt": 27100.0,
+      "transaction_id": "P086-T0070"
+    },
+    {
+      "approved_num": "AP086000016",
+      "merchant_name": "타다",
+      "merchant_regno": "683-36-23398",
+      "purchase_dtime": "20260613193756",
+      "purchase_amt": 18300.0,
+      "transaction_id": "P086-T0089"
+    },
+    {
+      "approved_num": "AP086000002",
+      "merchant_name": "추가 구독 서비스",
+      "merchant_regno": "745-56-79095",
+      "purchase_dtime": "20260613144552",
+      "purchase_amt": 59700.0,
+      "transaction_id": "P086-T0008"
+    },
+    {
+      "approved_num": "AP086000024",
+      "merchant_name": "11번가",
+      "merchant_regno": "505-10-37600",
+      "purchase_dtime": "20260612201110",
+      "purchase_amt": 84600.0,
+      "transaction_id": "P086-T0135"
+    },
+    {
+      "approved_num": "AP086000006",
+      "merchant_name": "교보문고",
+      "merchant_regno": "861-50-35658",
+      "purchase_dtime": "20260611172916",
+      "purchase_amt": 56300.0,
+      "transaction_id": "P086-T0034"
+    },
+    {
+      "approved_num": "AP086000022",
+      "merchant_name": "컴포즈커피",
+      "merchant_regno": "602-70-54346",
+      "purchase_dtime": "20260611124555",
+      "purchase_amt": 4500.0,
+      "transaction_id": "P086-T0129"
+    },
+    {
+      "approved_num": "AP086000018",
+      "merchant_name": "파리바게뜨",
+      "merchant_regno": "111-80-13447",
+      "purchase_dtime": "20260611112422",
+      "purchase_amt": 4000.0,
+      "transaction_id": "P086-T0104"
+    },
+    {
+      "approved_num": "AP086000010",
+      "merchant_name": "세븐일레븐",
+      "merchant_regno": "331-65-48048",
+      "purchase_dtime": "20260609153721",
+      "purchase_amt": 70500.0,
+      "transaction_id": "P086-T0068"
+    },
+    {
+      "approved_num": "AP086000013",
+      "merchant_name": "챗GPT",
+      "merchant_regno": "859-61-31289",
+      "purchase_dtime": "20260604091034",
+      "purchase_amt": 42900.0,
+      "transaction_id": "P086-T0082"
+    }
+  ]
+}

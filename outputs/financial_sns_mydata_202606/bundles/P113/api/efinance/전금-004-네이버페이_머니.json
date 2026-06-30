@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P113-전금-004-P113-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP113네00002",
+      "trans_dtime": "20260620195734",
+      "trans_no": "WP11300001",
+      "currency_code": "KRW",
+      "trans_amt": -6900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "타다",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP113네00006",
+      "trans_dtime": "20260607191113",
+      "trans_no": "WP11300002",
+      "currency_code": "KRW",
+      "trans_amt": -10900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "김밥천국 홍대점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

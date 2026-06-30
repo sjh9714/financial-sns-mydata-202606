@@ -1,0 +1,100 @@
+{
+  "x-api-tran-id": "P106-전금-004-P106-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 7,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP106카00013",
+      "trans_dtime": "20260629092901",
+      "trans_no": "WP10600007",
+      "currency_code": "KRW",
+      "trans_amt": -30300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "올리브영",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP106카00003",
+      "trans_dtime": "20260624185719",
+      "trans_no": "WP10600003",
+      "currency_code": "KRW",
+      "trans_amt": -2400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이디야커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP106카00006",
+      "trans_dtime": "20260624142929",
+      "trans_no": "WP10600005",
+      "currency_code": "KRW",
+      "trans_amt": -29500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "올리브영",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP106카00001",
+      "trans_dtime": "20260614190450",
+      "trans_no": "WP10600001",
+      "currency_code": "KRW",
+      "trans_amt": -6600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "스타벅스 합정점",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP106카00004",
+      "trans_dtime": "20260607123331",
+      "trans_no": "WP10600004",
+      "currency_code": "KRW",
+      "trans_amt": -8400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "컴포즈커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP106카00002",
+      "trans_dtime": "20260606184951",
+      "trans_no": "WP10600002",
+      "currency_code": "KRW",
+      "trans_amt": -4700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노티드",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP106카00012",
+      "trans_dtime": "20260604094146",
+      "trans_no": "WP10600006",
+      "currency_code": "KRW",
+      "trans_amt": -24700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배민스토어",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

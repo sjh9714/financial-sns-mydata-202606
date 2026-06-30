@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P035-전금-004-P035-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP035네00002",
+      "trans_dtime": "20260630074840",
+      "trans_no": "WP03500002",
+      "currency_code": "KRW",
+      "trans_amt": -9700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "서울교통공사",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP035네00003",
+      "trans_dtime": "20260617225207",
+      "trans_no": "WP03500003",
+      "currency_code": "KRW",
+      "trans_amt": -18100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "챗GPT",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP035네00001",
+      "trans_dtime": "20260611103025",
+      "trans_no": "WP03500001",
+      "currency_code": "KRW",
+      "trans_amt": -69200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "에이블리",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    }
+  ]
+}

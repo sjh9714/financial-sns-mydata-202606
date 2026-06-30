@@ -1,0 +1,30 @@
+{
+  "persona_id": "P151",
+  "synthetic_name": "가상청년 P151",
+  "age": 33,
+  "birth_year": 1993,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "소비·구독형",
+  "job": "영상 편집자",
+  "region": "인천 부평구",
+  "monthly_income_krw": 2800000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 2140000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.132,
+  "target_investment_rate": 0.092,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "예산관리",
+    "온라인쇼핑",
+    "취향소비"
+  ],
+  "financial_goal": "취미생활",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 143,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

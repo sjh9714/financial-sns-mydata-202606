@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P155-전금-004-P155-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP155네00011",
+      "trans_dtime": "20260616111304",
+      "trans_no": "WP15500003",
+      "currency_code": "KRW",
+      "trans_amt": -11000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "넷플릭스",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP155네00004",
+      "trans_dtime": "20260615135049",
+      "trans_no": "WP15500001",
+      "currency_code": "KRW",
+      "trans_amt": -4400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "파리바게뜨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP155네00007",
+      "trans_dtime": "20260610150050",
+      "trans_no": "WP15500002",
+      "currency_code": "KRW",
+      "trans_amt": -37300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "온누리약국",
+      "trans_title": "약국 결제",
+      "trans_category": "의료/건강"
+    }
+  ]
+}

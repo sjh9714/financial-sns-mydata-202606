@@ -1,0 +1,30 @@
+{
+  "persona_id": "P142",
+  "synthetic_name": "가상청년 P142",
+  "age": 33,
+  "birth_year": 1993,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "소비·구독형",
+  "job": "SNS 운영자",
+  "region": "대전 서구",
+  "monthly_income_krw": 4030000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 3240000,
+  "spend_band": "320만원 이상",
+  "target_saving_rate": 0.17,
+  "target_investment_rate": 0.041,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "부모동거",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "예산관리",
+    "온라인쇼핑",
+    "취향소비"
+  ],
+  "financial_goal": "여행",
+  "sns_tendency": "투자피드형",
+  "target_ledger_rows": 171,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

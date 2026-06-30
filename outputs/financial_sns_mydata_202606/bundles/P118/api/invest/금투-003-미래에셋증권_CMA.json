@@ -1,0 +1,27 @@
+{
+  "x-api-tran-id": "P118-금투-003-P118-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 1,
+  "trans_list": [
+    {
+      "prod_name": "삼성전자",
+      "prod_code": "005930",
+      "trans_dtime": "20260602113914",
+      "Bod": "매수",
+      "trans_no": "STKP1180001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 2.0,
+      "trans_unit": "주",
+      "base_amt": 76000.0,
+      "trans_amt": 152000.0,
+      "settle_amt": 152100.0,
+      "balance_amt": 352891.0,
+      "currency_code": "KRW",
+      "trans_memo": "삼성전자 매수",
+      "ex_code": "001"
+    }
+  ]
+}

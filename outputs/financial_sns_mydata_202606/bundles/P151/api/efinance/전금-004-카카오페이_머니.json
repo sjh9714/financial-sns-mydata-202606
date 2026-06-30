@@ -1,0 +1,87 @@
+{
+  "x-api-tran-id": "P151-전금-004-P151-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 6,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP151카00012",
+      "trans_dtime": "20260626105418",
+      "trans_no": "WP15100005",
+      "currency_code": "KRW",
+      "trans_amt": -138800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP151카00008",
+      "trans_dtime": "20260616091836",
+      "trans_no": "WP15100004",
+      "currency_code": "KRW",
+      "trans_amt": -90500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "챗GPT",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP151카00003",
+      "trans_dtime": "20260610090544",
+      "trans_no": "WP15100001",
+      "currency_code": "KRW",
+      "trans_amt": -6500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가MGC커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP151카00005",
+      "trans_dtime": "20260609111804",
+      "trans_no": "WP15100002",
+      "currency_code": "KRW",
+      "trans_amt": -7300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배스킨라빈스",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP151카00016",
+      "trans_dtime": "20260607134713",
+      "trans_no": "WP15100006",
+      "currency_code": "KRW",
+      "trans_amt": -40800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "세븐일레븐",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP151카00006",
+      "trans_dtime": "20260604183220",
+      "trans_no": "WP15100003",
+      "currency_code": "KRW",
+      "trans_amt": -30900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persona_id": "P195",
+  "synthetic_name": "가상청년 P195",
+  "age": 34,
+  "birth_year": 1992,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "고소득 FIRE형",
+  "job": "스타트업 리드",
+  "region": "서울 성동구",
+  "monthly_income_krw": 7020000,
+  "income_band": "700만원 이상",
+  "target_monthly_spend_krw": 3410000,
+  "spend_band": "320만원 이상",
+  "target_saving_rate": 0.42,
+  "target_investment_rate": 0.289,
+  "risk_score": 5,
+  "risk_attitude": "공격투자형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "고소득",
+    "대중교통",
+    "시간절약"
+  ],
+  "financial_goal": "장기투자",
+  "sns_tendency": "투자피드형",
+  "target_ledger_rows": 165,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

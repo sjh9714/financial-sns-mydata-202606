@@ -1,0 +1,30 @@
+{
+  "persona_id": "P009",
+  "synthetic_name": "가상청년 P009",
+  "age": 33,
+  "birth_year": 1993,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "청약·내집마련형",
+  "job": "중견기업 사무직",
+  "region": "광주 동구",
+  "monthly_income_krw": 3880000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 1710000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.452,
+  "target_investment_rate": 0.116,
+  "risk_score": 1,
+  "risk_attitude": "원금보전형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "예산관리",
+    "주거비관리",
+    "청약저축"
+  ],
+  "financial_goal": "전세보증금",
+  "sns_tendency": "투자피드형",
+  "target_ledger_rows": 91,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

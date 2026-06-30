@@ -1,0 +1,63 @@
+{
+  "x-api-tran-id": "P085-금투-003-P085-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "prod_name": "SK하이닉스",
+      "prod_code": "000660",
+      "trans_dtime": "20260616092813",
+      "Bod": "매수",
+      "trans_no": "STKP0850002",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 1.0,
+      "trans_unit": "주",
+      "base_amt": 240000.0,
+      "trans_amt": 240000.0,
+      "settle_amt": 240100.0,
+      "balance_amt": 664781.0,
+      "currency_code": "KRW",
+      "trans_memo": "SK하이닉스 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "TIGER 미국나스닥100",
+      "prod_code": "133690",
+      "trans_dtime": "20260613101701",
+      "Bod": "매수",
+      "trans_no": "STKP0850003",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 2.0,
+      "trans_unit": "좌",
+      "base_amt": 115000.0,
+      "trans_amt": 230000.0,
+      "settle_amt": 230100.0,
+      "balance_amt": 654781.0,
+      "currency_code": "KRW",
+      "trans_memo": "TIGER 미국나스닥100 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "KODEX 반도체",
+      "prod_code": "091160",
+      "trans_dtime": "20260610144821",
+      "Bod": "매수",
+      "trans_no": "STKP0850001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 5.0,
+      "trans_unit": "좌",
+      "base_amt": 45000.0,
+      "trans_amt": 225000.0,
+      "settle_amt": 225100.0,
+      "balance_amt": 649781.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 반도체 매수",
+      "ex_code": "001"
+    }
+  ]
+}

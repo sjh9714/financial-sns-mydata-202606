@@ -1,0 +1,74 @@
+{
+  "x-api-tran-id": "P045-전금-004-P045-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 5,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP045네00007",
+      "trans_dtime": "20260630183001",
+      "trans_no": "WP04500003",
+      "currency_code": "KRW",
+      "trans_amt": -6300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가MGC커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP045네00012",
+      "trans_dtime": "20260627182259",
+      "trans_no": "WP04500004",
+      "currency_code": "KRW",
+      "trans_amt": -24100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "김밥천국 홍대점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP045네00001",
+      "trans_dtime": "20260622162647",
+      "trans_no": "WP04500001",
+      "currency_code": "KRW",
+      "trans_amt": -51600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "홈플러스",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP045네00013",
+      "trans_dtime": "20260612121204",
+      "trans_no": "WP04500005",
+      "currency_code": "KRW",
+      "trans_amt": -7600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "스타벅스 합정점",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP045네00002",
+      "trans_dtime": "20260611075557",
+      "trans_no": "WP04500002",
+      "currency_code": "KRW",
+      "trans_amt": -22700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

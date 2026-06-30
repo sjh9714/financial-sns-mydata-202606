@@ -1,0 +1,100 @@
+{
+  "x-api-tran-id": "P101-전금-004-P101-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 7,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP101카00009",
+      "trans_dtime": "20260629083522",
+      "trans_no": "WP10100002",
+      "currency_code": "KRW",
+      "trans_amt": -13600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "타다",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP101카00010",
+      "trans_dtime": "20260627102911",
+      "trans_no": "WP10100003",
+      "currency_code": "KRW",
+      "trans_amt": -80100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "아고다",
+      "trans_title": "숙박 결제",
+      "trans_category": "여행/숙박"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP101카00021",
+      "trans_dtime": "20260627073401",
+      "trans_no": "WP10100006",
+      "currency_code": "KRW",
+      "trans_amt": -13200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "서울교통공사",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP101카00023",
+      "trans_dtime": "20260621135358",
+      "trans_no": "WP10100007",
+      "currency_code": "KRW",
+      "trans_amt": -126000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "여기어때",
+      "trans_title": "숙박 결제",
+      "trans_category": "여행/숙박"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP101카00001",
+      "trans_dtime": "20260612184143",
+      "trans_no": "WP10100001",
+      "currency_code": "KRW",
+      "trans_amt": -12200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "두끼 노량진역점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP101카00011",
+      "trans_dtime": "20260604235314",
+      "trans_no": "WP10100004",
+      "currency_code": "KRW",
+      "trans_amt": -94000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP101카00012",
+      "trans_dtime": "20260602100454",
+      "trans_no": "WP10100005",
+      "currency_code": "KRW",
+      "trans_amt": -79900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

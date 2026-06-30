@@ -1,0 +1,63 @@
+{
+  "x-api-tran-id": "P199-금투-003-P199-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "prod_name": "KODEX 미국나스닥100TR",
+      "prod_code": "379810",
+      "trans_dtime": "20260614125912",
+      "Bod": "매수",
+      "trans_no": "STKP1990001",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 73.0,
+      "trans_unit": "좌",
+      "base_amt": 18000.0,
+      "trans_amt": 1314000.0,
+      "settle_amt": 1314197.0,
+      "balance_amt": 1533567.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 미국나스닥100TR 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "카카오",
+      "prod_code": "035720",
+      "trans_dtime": "20260603152906",
+      "Bod": "매수",
+      "trans_no": "STKP1990002",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 27.0,
+      "trans_unit": "주",
+      "base_amt": 48000.0,
+      "trans_amt": 1296000.0,
+      "settle_amt": 1296194.0,
+      "balance_amt": 1515564.0,
+      "currency_code": "KRW",
+      "trans_memo": "카카오 매수",
+      "ex_code": "001"
+    },
+    {
+      "prod_name": "KODEX 반도체",
+      "prod_code": "091160",
+      "trans_dtime": "20260602151531",
+      "Bod": "매수",
+      "trans_no": "STKP1990003",
+      "trans_type": "101",
+      "trans_type_detail": "현금매수",
+      "trans_num": 29.0,
+      "trans_unit": "좌",
+      "base_amt": 45000.0,
+      "trans_amt": 1305000.0,
+      "settle_amt": 1305195.0,
+      "balance_amt": 1524565.0,
+      "currency_code": "KRW",
+      "trans_memo": "KODEX 반도체 매수",
+      "ex_code": "001"
+    }
+  ]
+}

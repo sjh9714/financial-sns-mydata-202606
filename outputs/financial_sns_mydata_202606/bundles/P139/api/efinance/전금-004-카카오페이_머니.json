@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P139-전금-004-P139-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP139카00013",
+      "trans_dtime": "20260620190621",
+      "trans_no": "WP13900003",
+      "currency_code": "KRW",
+      "trans_amt": -29900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "알라딘",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP139카00009",
+      "trans_dtime": "20260618200322",
+      "trans_no": "WP13900002",
+      "currency_code": "KRW",
+      "trans_amt": -14500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "담소소사골순대",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP139카00007",
+      "trans_dtime": "20260611160713",
+      "trans_no": "WP13900001",
+      "currency_code": "KRW",
+      "trans_amt": -40700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "알라딘",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    }
+  ]
+}

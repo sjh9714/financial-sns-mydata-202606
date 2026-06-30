@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P071-전금-004-P071-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP071카00001",
+      "trans_dtime": "20260623112849",
+      "trans_no": "WP07100001",
+      "currency_code": "KRW",
+      "trans_amt": -23500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "요기요",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP071카00007",
+      "trans_dtime": "20260622135652",
+      "trans_no": "WP07100004",
+      "currency_code": "KRW",
+      "trans_amt": -17500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "김밥천국 홍대점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP071카00005",
+      "trans_dtime": "20260622081703",
+      "trans_no": "WP07100003",
+      "currency_code": "KRW",
+      "trans_amt": -4400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "컴포즈커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP071카00003",
+      "trans_dtime": "20260619200302",
+      "trans_no": "WP07100002",
+      "currency_code": "KRW",
+      "trans_amt": -3400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "스타벅스 합정점",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

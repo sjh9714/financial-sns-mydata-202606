@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P023-전금-004-P023-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP023카00004",
+      "trans_dtime": "20260619070043",
+      "trans_no": "WP02300003",
+      "currency_code": "KRW",
+      "trans_amt": -11000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오T 택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP023카00001",
+      "trans_dtime": "20260616194559",
+      "trans_no": "WP02300001",
+      "currency_code": "KRW",
+      "trans_amt": -18000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "요기요",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP023카00002",
+      "trans_dtime": "20260606131843",
+      "trans_no": "WP02300002",
+      "currency_code": "KRW",
+      "trans_amt": -4100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "던킨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "x-api-tran-id": "P110-전금-004-P110-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 6,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP110네00008",
+      "trans_dtime": "20260628074839",
+      "trans_no": "WP11000003",
+      "currency_code": "KRW",
+      "trans_amt": -7500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "우티",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP110네00011",
+      "trans_dtime": "20260625205852",
+      "trans_no": "WP11000005",
+      "currency_code": "KRW",
+      "trans_amt": -39300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP110네00009",
+      "trans_dtime": "20260622171332",
+      "trans_no": "WP11000004",
+      "currency_code": "KRW",
+      "trans_amt": -192600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "여기어때",
+      "trans_title": "숙박 결제",
+      "trans_category": "여행/숙박"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP110네00005",
+      "trans_dtime": "20260616183642",
+      "trans_no": "WP11000002",
+      "currency_code": "KRW",
+      "trans_amt": -3600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이디야커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP110네00012",
+      "trans_dtime": "20260603073649",
+      "trans_no": "WP11000006",
+      "currency_code": "KRW",
+      "trans_amt": -4600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "모바일티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP110네00004",
+      "trans_dtime": "20260601233154",
+      "trans_no": "WP11000001",
+      "currency_code": "KRW",
+      "trans_amt": -90600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

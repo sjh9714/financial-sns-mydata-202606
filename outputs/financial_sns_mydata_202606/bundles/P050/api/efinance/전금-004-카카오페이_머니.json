@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P050-전금-004-P050-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP050카00014",
+      "trans_dtime": "20260624090834",
+      "trans_no": "WP05000004",
+      "currency_code": "KRW",
+      "trans_amt": -32400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "올리브영",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP050카00002",
+      "trans_dtime": "20260621094138",
+      "trans_no": "WP05000001",
+      "currency_code": "KRW",
+      "trans_amt": -66800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "GS25",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP050카00006",
+      "trans_dtime": "20260613093807",
+      "trans_no": "WP05000002",
+      "currency_code": "KRW",
+      "trans_amt": -54100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "GS25",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP050카00010",
+      "trans_dtime": "20260612084458",
+      "trans_no": "WP05000003",
+      "currency_code": "KRW",
+      "trans_amt": -5700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이디야커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

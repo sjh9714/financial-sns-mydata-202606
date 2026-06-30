@@ -1,0 +1,30 @@
+{
+  "persona_id": "P062",
+  "synthetic_name": "가상청년 P062",
+  "age": 25,
+  "birth_year": 2001,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "사회초년생",
+  "job": "영업관리 사원",
+  "region": "경기 성남시",
+  "monthly_income_krw": 2420000,
+  "income_band": "150~250만원",
+  "target_monthly_spend_krw": 1330000,
+  "spend_band": "90~150만원",
+  "target_saving_rate": 0.124,
+  "target_investment_rate": 0.148,
+  "risk_score": 3,
+  "risk_attitude": "중립형",
+  "household_type": "쉐어하우스",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "모바일결제",
+    "점심외식",
+    "출퇴근"
+  ],
+  "financial_goal": "첫 투자",
+  "sns_tendency": "목표공유형",
+  "target_ledger_rows": 93,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

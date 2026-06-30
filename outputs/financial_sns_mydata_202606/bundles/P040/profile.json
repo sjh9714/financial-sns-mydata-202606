@@ -1,0 +1,30 @@
+{
+  "persona_id": "P040",
+  "synthetic_name": "가상청년 P040",
+  "age": 28,
+  "birth_year": 1998,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "취준·지원",
+  "job": "취업준비생",
+  "region": "경기 성남시",
+  "monthly_income_krw": 1170000,
+  "income_band": "150만원 미만",
+  "target_monthly_spend_krw": 1110000,
+  "spend_band": "90~150만원",
+  "target_saving_rate": 0.041,
+  "target_investment_rate": 0.041,
+  "risk_score": 1,
+  "risk_attitude": "원금보전형",
+  "household_type": "쉐어하우스",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "교육투자",
+    "대중교통",
+    "불규칙수입"
+  ],
+  "financial_goal": "취업준비비 마련",
+  "sns_tendency": "소비인사이트형",
+  "target_ledger_rows": 102,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

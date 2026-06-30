@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P126-전금-004-P126-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP126네00012",
+      "trans_dtime": "20260624203557",
+      "trans_no": "WP12600004",
+      "currency_code": "KRW",
+      "trans_amt": -5000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "파리바게뜨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP126네00003",
+      "trans_dtime": "20260623093547",
+      "trans_no": "WP12600001",
+      "currency_code": "KRW",
+      "trans_amt": -14200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오T 택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP126네00009",
+      "trans_dtime": "20260621235753",
+      "trans_no": "WP12600003",
+      "currency_code": "KRW",
+      "trans_amt": -18600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "모바일티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP126네00007",
+      "trans_dtime": "20260606183856",
+      "trans_no": "WP12600002",
+      "currency_code": "KRW",
+      "trans_amt": -8800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오버스",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

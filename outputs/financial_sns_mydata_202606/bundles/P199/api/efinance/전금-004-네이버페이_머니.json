@@ -1,0 +1,22 @@
+{
+  "x-api-tran-id": "P199-전금-004-P199-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 1,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP199네00002",
+      "trans_dtime": "20260603130259",
+      "trans_no": "WP19900001",
+      "currency_code": "KRW",
+      "trans_amt": -20000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가박스",
+      "trans_title": "공연/영화 결제",
+      "trans_category": "문화/여가"
+    }
+  ]
+}

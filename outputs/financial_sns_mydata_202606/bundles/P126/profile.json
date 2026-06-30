@@ -1,0 +1,30 @@
+{
+  "persona_id": "P126",
+  "synthetic_name": "가상청년 P126",
+  "age": 23,
+  "birth_year": 2003,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "절약·저축형",
+  "job": "공공기관 계약직",
+  "region": "부산 해운대구",
+  "monthly_income_krw": 2570000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 1290000,
+  "spend_band": "90~150만원",
+  "target_saving_rate": 0.574,
+  "target_investment_rate": 0.089,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "도시락",
+    "예산관리",
+    "자동저축"
+  ],
+  "financial_goal": "비상금",
+  "sns_tendency": "투자피드형",
+  "target_ledger_rows": 124,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

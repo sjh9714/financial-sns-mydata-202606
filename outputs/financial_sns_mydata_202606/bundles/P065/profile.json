@@ -1,0 +1,30 @@
+{
+  "persona_id": "P065",
+  "synthetic_name": "가상청년 P065",
+  "age": 28,
+  "birth_year": 1998,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "사회초년생",
+  "job": "디자이너",
+  "region": "인천 부평구",
+  "monthly_income_krw": 2990000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 2040000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.286,
+  "target_investment_rate": 0.071,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "구독서비스",
+    "모바일결제",
+    "출퇴근"
+  ],
+  "financial_goal": "비상금",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 145,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

@@ -1,0 +1,97 @@
+{
+  "x-api-tran-id": "P176-카드-014-P176-CARD-02",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 11,
+  "purchase_list": [
+    {
+      "approved_num": "AP176000007",
+      "merchant_name": "챗GPT",
+      "merchant_regno": "756-80-46173",
+      "purchase_dtime": "20260630230135",
+      "purchase_amt": 32300.0,
+      "transaction_id": "P176-T0041"
+    },
+    {
+      "approved_num": "AP176000003",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "143-73-54926",
+      "purchase_dtime": "20260630224942",
+      "purchase_amt": 34100.0,
+      "transaction_id": "P176-T0018"
+    },
+    {
+      "approved_num": "AP176000006",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "550-85-15696",
+      "purchase_dtime": "20260630081857",
+      "purchase_amt": 16100.0,
+      "transaction_id": "P176-T0037"
+    },
+    {
+      "approved_num": "AP176000010",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "825-22-46917",
+      "purchase_dtime": "20260627104659",
+      "purchase_amt": 35800.0,
+      "transaction_id": "P176-T0082"
+    },
+    {
+      "approved_num": "AP176000004",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "550-85-15696",
+      "purchase_dtime": "20260625190642",
+      "purchase_amt": 18600.0,
+      "transaction_id": "P176-T0023"
+    },
+    {
+      "approved_num": "AP176000002",
+      "merchant_name": "카카오버스",
+      "merchant_regno": "479-75-79752",
+      "purchase_dtime": "20260622220449",
+      "purchase_amt": 10600.0,
+      "transaction_id": "P176-T0015"
+    },
+    {
+      "approved_num": "AP176000009",
+      "merchant_name": "인터파크티켓",
+      "merchant_regno": "556-52-59019",
+      "purchase_dtime": "20260618194041",
+      "purchase_amt": 56300.0,
+      "transaction_id": "P176-T0068"
+    },
+    {
+      "approved_num": "AP176000008",
+      "merchant_name": "요기요",
+      "merchant_regno": "140-38-54495",
+      "purchase_dtime": "20260618083101",
+      "purchase_amt": 8100.0,
+      "transaction_id": "P176-T0063"
+    },
+    {
+      "approved_num": "AP176000011",
+      "merchant_name": "여기어때",
+      "merchant_regno": "503-56-54584",
+      "purchase_dtime": "20260615205211",
+      "purchase_amt": 87900.0,
+      "transaction_id": "P176-T0088"
+    },
+    {
+      "approved_num": "AP176000005",
+      "merchant_name": "CGV",
+      "merchant_regno": "775-37-52451",
+      "purchase_dtime": "20260607193400",
+      "purchase_amt": 21600.0,
+      "transaction_id": "P176-T0033"
+    },
+    {
+      "approved_num": "AP176000001",
+      "merchant_name": "해커스",
+      "merchant_regno": "791-85-22299",
+      "purchase_dtime": "20260604162654",
+      "purchase_amt": 105800.0,
+      "transaction_id": "P176-T0013"
+    }
+  ]
+}

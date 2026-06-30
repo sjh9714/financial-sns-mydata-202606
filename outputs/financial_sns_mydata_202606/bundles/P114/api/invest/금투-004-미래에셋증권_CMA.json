@@ -1,0 +1,43 @@
+{
+  "x-api-tran-id": "P114-금투-004-P114-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "search_timestamp": "20260630235900",
+  "next_page": null,
+  "base_date": "20260630",
+  "prod_cnt": 2,
+  "prod_list": [
+    {
+      "prod_type": "101",
+      "prod_type_detail": "001",
+      "prod_code": "035720",
+      "ex_code": "001",
+      "prod_name": "카카오",
+      "pos_type": "01",
+      "credit_type": "00",
+      "is_tax_benefits": false,
+      "purchase_amt": 96000.0,
+      "holding_num": 2.0,
+      "trans_unit": "주",
+      "eval_amt": 104945.733,
+      "is_execution": true,
+      "currency_code": "KRW"
+    },
+    {
+      "prod_type": "201",
+      "prod_type_detail": "001",
+      "prod_code": "133690",
+      "ex_code": "001",
+      "prod_name": "TIGER 미국나스닥100",
+      "pos_type": "01",
+      "credit_type": "00",
+      "is_tax_benefits": false,
+      "purchase_amt": 115000.0,
+      "holding_num": 1.0,
+      "trans_unit": "좌",
+      "eval_amt": 114232.111,
+      "is_execution": true,
+      "currency_code": "KRW"
+    }
+  ]
+}

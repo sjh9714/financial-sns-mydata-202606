@@ -1,0 +1,100 @@
+{
+  "x-api-tran-id": "P184-전금-004-P184-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 7,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP184네00017",
+      "trans_dtime": "20260629213743",
+      "trans_no": "WP18400007",
+      "currency_code": "KRW",
+      "trans_amt": -19400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "담소소사골순대",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP184네00014",
+      "trans_dtime": "20260627200237",
+      "trans_no": "WP18400005",
+      "currency_code": "KRW",
+      "trans_amt": -24400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP184네00006",
+      "trans_dtime": "20260625202728",
+      "trans_no": "WP18400003",
+      "currency_code": "KRW",
+      "trans_amt": -123300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "지그재그",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP184네00015",
+      "trans_dtime": "20260622180205",
+      "trans_no": "WP18400006",
+      "currency_code": "KRW",
+      "trans_amt": -20900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "아이엠택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP184네00005",
+      "trans_dtime": "20260613154130",
+      "trans_no": "WP18400002",
+      "currency_code": "KRW",
+      "trans_amt": -77100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "클래스101",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP184네00007",
+      "trans_dtime": "20260611114433",
+      "trans_no": "WP18400004",
+      "currency_code": "KRW",
+      "trans_amt": -14000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배민스토어",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP184네00003",
+      "trans_dtime": "20260604213822",
+      "trans_no": "WP18400001",
+      "currency_code": "KRW",
+      "trans_amt": -76000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "인프런",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    }
+  ]
+}

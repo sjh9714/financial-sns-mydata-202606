@@ -1,0 +1,53 @@
+{
+  "persona_id": "P139",
+  "posts": [
+    {
+      "post_id": "P139-POST-001",
+      "persona_id": "P139",
+      "handle": "fin_p139_daily",
+      "created_at": "2026-06-22T08:35:00+09:00",
+      "post_type": "saving_milestone",
+      "visibility": "public",
+      "source": "derived_from_ledger",
+      "title": "이번 달 저축률 기록",
+      "body": "6월 수입 대비 저축률 16.6% 달성",
+      "metrics": {
+        "like_count": 61,
+        "comment_count": 3,
+        "save_count": 7
+      }
+    },
+    {
+      "post_id": "P139-POST-002",
+      "persona_id": "P139",
+      "handle": "fin_p139_daily",
+      "created_at": "2026-06-09T20:17:00+09:00",
+      "post_type": "investment_trade",
+      "visibility": "public",
+      "source": "derived_from_ledger",
+      "title": "포트폴리오 업데이트",
+      "body": "6월 투자 매수 228,100원, 보유 종목 1개",
+      "metrics": {
+        "like_count": 41,
+        "comment_count": 13,
+        "save_count": 20
+      }
+    },
+    {
+      "post_id": "P139-POST-003",
+      "persona_id": "P139",
+      "handle": "fin_p139_daily",
+      "created_at": "2026-06-20T15:09:00+09:00",
+      "post_type": "spend_pattern",
+      "visibility": "followers",
+      "source": "derived_from_ledger",
+      "title": "소비 카테고리 회고",
+      "body": "가장 큰 소비 카테고리는 온라인쇼핑",
+      "metrics": {
+        "like_count": 27,
+        "comment_count": 14,
+        "save_count": 9
+      }
+    }
+  ]
+}

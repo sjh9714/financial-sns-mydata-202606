@@ -1,0 +1,30 @@
+{
+  "persona_id": "P005",
+  "synthetic_name": "가상청년 P005",
+  "age": 32,
+  "birth_year": 1994,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "절약·저축형",
+  "job": "간호조무사",
+  "region": "광주 동구",
+  "monthly_income_krw": 4570000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2280000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.414,
+  "target_investment_rate": 0.096,
+  "risk_score": 1,
+  "risk_attitude": "원금보전형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "대중교통",
+    "무지출챌린지",
+    "자동저축"
+  ],
+  "financial_goal": "청약",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 87,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

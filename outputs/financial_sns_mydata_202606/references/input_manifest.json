@@ -1,0 +1,12 @@
+{
+  "input_files": {
+    "source_xlsx": "inputs/6월_한달_거래내역.xlsx",
+    "source_api_json_dir": "inputs/source_api_json",
+    "response_schemas_dir": "inputs/response_schemas",
+    "minji_demo_dir": "inputs/mydata_realistic_persona_minji"
+  },
+  "notes": [
+    "입력 파일은 형식과 분포 참고용이며 실제 거래를 복사하지 않는다.",
+    "생성 결과는 deterministic seed 기반 합성 데이터다."
+  ]
+}

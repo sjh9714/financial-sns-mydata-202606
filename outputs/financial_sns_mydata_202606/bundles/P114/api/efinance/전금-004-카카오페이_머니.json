@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P114-전금-004-P114-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP114카00006",
+      "trans_dtime": "20260630163108",
+      "trans_no": "WP11400002",
+      "currency_code": "KRW",
+      "trans_amt": -36200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "홈플러스",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP114카00007",
+      "trans_dtime": "20260615124638",
+      "trans_no": "WP11400003",
+      "currency_code": "KRW",
+      "trans_amt": -43700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "롯데마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP114카00002",
+      "trans_dtime": "20260609195544",
+      "trans_no": "WP11400001",
+      "currency_code": "KRW",
+      "trans_amt": -20600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "롯데마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

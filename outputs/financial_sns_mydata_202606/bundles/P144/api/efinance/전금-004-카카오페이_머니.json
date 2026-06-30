@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P144-전금-004-P144-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP144카00003",
+      "trans_dtime": "20260622194852",
+      "trans_no": "WP14400001",
+      "currency_code": "KRW",
+      "trans_amt": -9900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "스타벅스 합정점",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP144카00005",
+      "trans_dtime": "20260622183511",
+      "trans_no": "WP14400002",
+      "currency_code": "KRW",
+      "trans_amt": -101900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "홈플러스",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP144카00016",
+      "trans_dtime": "20260616130020",
+      "trans_no": "WP14400003",
+      "currency_code": "KRW",
+      "trans_amt": -27600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "담소소사골순대",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

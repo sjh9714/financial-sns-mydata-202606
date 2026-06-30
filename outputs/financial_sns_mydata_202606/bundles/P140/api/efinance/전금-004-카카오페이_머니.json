@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P140-전금-004-P140-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP140카00001",
+      "trans_dtime": "20260630122445",
+      "trans_no": "WP14000001",
+      "currency_code": "KRW",
+      "trans_amt": -57400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "29CM",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP140카00007",
+      "trans_dtime": "20260630073629",
+      "trans_no": "WP14000003",
+      "currency_code": "KRW",
+      "trans_amt": -16400.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오T 택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP140카00002",
+      "trans_dtime": "20260621230022",
+      "trans_no": "WP14000002",
+      "currency_code": "KRW",
+      "trans_amt": -9500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오T 택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

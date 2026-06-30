@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P178-전금-004-P178-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP178네00005",
+      "trans_dtime": "20260614193837",
+      "trans_no": "WP17800001",
+      "currency_code": "KRW",
+      "trans_amt": -77600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "29CM",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP178네00016",
+      "trans_dtime": "20260607121831",
+      "trans_no": "WP17800002",
+      "currency_code": "KRW",
+      "trans_amt": -24000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

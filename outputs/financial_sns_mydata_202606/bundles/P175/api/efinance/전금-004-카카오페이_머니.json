@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P175-전금-004-P175-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP175카00003",
+      "trans_dtime": "20260628194031",
+      "trans_no": "WP17500001",
+      "currency_code": "KRW",
+      "trans_amt": -22100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "김밥천국 홍대점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP175카00004",
+      "trans_dtime": "20260614145857",
+      "trans_no": "WP17500002",
+      "currency_code": "KRW",
+      "trans_amt": -52000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "CU",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

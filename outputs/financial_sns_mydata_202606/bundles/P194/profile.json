@@ -1,0 +1,30 @@
+{
+  "persona_id": "P194",
+  "synthetic_name": "가상청년 P194",
+  "age": 31,
+  "birth_year": 1995,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "청약·내집마련형",
+  "job": "중견기업 사무직",
+  "region": "인천 부평구",
+  "monthly_income_krw": 5440000,
+  "income_band": "500~700만원",
+  "target_monthly_spend_krw": 3060000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.323,
+  "target_investment_rate": 0.156,
+  "risk_score": 1,
+  "risk_attitude": "원금보전형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "배달선호",
+    "장기계획",
+    "주거비관리"
+  ],
+  "financial_goal": "내집마련",
+  "sns_tendency": "소비인사이트형",
+  "target_ledger_rows": 145,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

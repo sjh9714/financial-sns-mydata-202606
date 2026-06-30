@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P194-전금-004-P194-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP194네00015",
+      "trans_dtime": "20260629125959",
+      "trans_no": "WP19400004",
+      "currency_code": "KRW",
+      "trans_amt": -19300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "주식회사 우아한형제들",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP194네00009",
+      "trans_dtime": "20260622113015",
+      "trans_no": "WP19400002",
+      "currency_code": "KRW",
+      "trans_amt": -17400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "김밥천국 홍대점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP194네00006",
+      "trans_dtime": "20260616125735",
+      "trans_no": "WP19400001",
+      "currency_code": "KRW",
+      "trans_amt": -39000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP194네00010",
+      "trans_dtime": "20260611130538",
+      "trans_no": "WP19400003",
+      "currency_code": "KRW",
+      "trans_amt": -20200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "담소소사골순대",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

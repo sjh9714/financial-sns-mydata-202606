@@ -1,0 +1,75 @@
+{
+  "persona_id": "P108",
+  "reactions": [
+    {
+      "reaction_id": "P108-R001",
+      "actor_persona_id": "P108",
+      "target_persona_id": "P090",
+      "reaction_type": "question",
+      "created_at": "2026-06-20T19:33:00+09:00"
+    },
+    {
+      "reaction_id": "P108-R002",
+      "actor_persona_id": "P108",
+      "target_persona_id": "P090",
+      "reaction_type": "like",
+      "created_at": "2026-06-20T21:03:00+09:00"
+    },
+    {
+      "reaction_id": "P108-R003",
+      "actor_persona_id": "P108",
+      "target_persona_id": "P090",
+      "reaction_type": "like",
+      "created_at": "2026-06-17T12:08:00+09:00"
+    },
+    {
+      "reaction_id": "P108-R004",
+      "actor_persona_id": "P108",
+      "target_persona_id": "P153",
+      "reaction_type": "cheer",
+      "created_at": "2026-06-17T09:49:00+09:00"
+    },
+    {
+      "reaction_id": "P108-R005",
+      "actor_persona_id": "P108",
+      "target_persona_id": "P162",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-14T12:46:00+09:00"
+    },
+    {
+      "reaction_id": "P108-R006",
+      "actor_persona_id": "P108",
+      "target_persona_id": "P064",
+      "reaction_type": "question",
+      "created_at": "2026-06-28T19:49:00+09:00"
+    },
+    {
+      "reaction_id": "P108-R007",
+      "actor_persona_id": "P108",
+      "target_persona_id": "P147",
+      "reaction_type": "cheer",
+      "created_at": "2026-06-09T23:34:00+09:00"
+    },
+    {
+      "reaction_id": "P108-R008",
+      "actor_persona_id": "P108",
+      "target_persona_id": "P173",
+      "reaction_type": "like",
+      "created_at": "2026-06-09T23:04:00+09:00"
+    },
+    {
+      "reaction_id": "P108-R009",
+      "actor_persona_id": "P108",
+      "target_persona_id": "P156",
+      "reaction_type": "cheer",
+      "created_at": "2026-06-30T09:07:00+09:00"
+    },
+    {
+      "reaction_id": "P108-R010",
+      "actor_persona_id": "P108",
+      "target_persona_id": "P133",
+      "reaction_type": "cheer",
+      "created_at": "2026-06-04T22:04:00+09:00"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P181-전금-004-P181-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP181네00006",
+      "trans_dtime": "20260627075806",
+      "trans_no": "WP18100002",
+      "currency_code": "KRW",
+      "trans_amt": -5600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "타다",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP181네00009",
+      "trans_dtime": "20260615194926",
+      "trans_no": "WP18100003",
+      "currency_code": "KRW",
+      "trans_amt": -7000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가MGC커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP181네00005",
+      "trans_dtime": "20260609184605",
+      "trans_no": "WP18100001",
+      "currency_code": "KRW",
+      "trans_amt": -8300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "모바일티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

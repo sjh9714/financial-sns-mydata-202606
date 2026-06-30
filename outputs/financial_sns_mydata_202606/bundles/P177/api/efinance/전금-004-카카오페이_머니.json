@@ -1,0 +1,74 @@
+{
+  "x-api-tran-id": "P177-전금-004-P177-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 5,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP177카00001",
+      "trans_dtime": "20260614094942",
+      "trans_no": "WP17700001",
+      "currency_code": "KRW",
+      "trans_amt": -53500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP177카00014",
+      "trans_dtime": "20260614085017",
+      "trans_no": "WP17700005",
+      "currency_code": "KRW",
+      "trans_amt": -8800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP177카00005",
+      "trans_dtime": "20260609124923",
+      "trans_no": "WP17700002",
+      "currency_code": "KRW",
+      "trans_amt": -68500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "클래스101",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP177카00009",
+      "trans_dtime": "20260608214444",
+      "trans_no": "WP17700003",
+      "currency_code": "KRW",
+      "trans_amt": -38700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "오늘의집",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP177카00011",
+      "trans_dtime": "20260606134223",
+      "trans_no": "WP17700004",
+      "currency_code": "KRW",
+      "trans_amt": -16200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "담소소사골순대",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

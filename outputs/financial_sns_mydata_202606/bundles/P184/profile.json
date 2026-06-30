@@ -1,0 +1,30 @@
+{
+  "persona_id": "P184",
+  "synthetic_name": "가상청년 P184",
+  "age": 29,
+  "birth_year": 1997,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "투자적극형",
+  "job": "IT 컨설턴트",
+  "region": "대구 중구",
+  "monthly_income_krw": 4610000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 1670000,
+  "spend_band": "150~230만원",
+  "target_saving_rate": 0.255,
+  "target_investment_rate": 0.426,
+  "risk_score": 5,
+  "risk_attitude": "공격투자형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "리밸런싱",
+    "모바일결제",
+    "투자공유"
+  ],
+  "financial_goal": "파이어",
+  "sns_tendency": "소비인사이트형",
+  "target_ledger_rows": 161,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

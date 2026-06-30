@@ -1,0 +1,137 @@
+{
+  "x-api-tran-id": "P162-카드-014-P162-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 16,
+  "purchase_list": [
+    {
+      "approved_num": "AP162000003",
+      "merchant_name": "인터파크티켓",
+      "merchant_regno": "606-48-58408",
+      "purchase_dtime": "20260630171815",
+      "purchase_amt": 47200.0,
+      "transaction_id": "P162-T0032"
+    },
+    {
+      "approved_num": "AP162000012",
+      "merchant_name": "지그재그",
+      "merchant_regno": "839-35-10733",
+      "purchase_dtime": "20260630162845",
+      "purchase_amt": 142000.0,
+      "transaction_id": "P162-T0073"
+    },
+    {
+      "approved_num": "AP162000008",
+      "merchant_name": "티머니",
+      "merchant_regno": "432-80-51133",
+      "purchase_dtime": "20260630093840",
+      "purchase_amt": 10700.0,
+      "transaction_id": "P162-T0067"
+    },
+    {
+      "approved_num": "AP162000015",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "556-40-23635",
+      "purchase_dtime": "20260628215657",
+      "purchase_amt": 104500.0,
+      "transaction_id": "P162-T0088"
+    },
+    {
+      "approved_num": "AP162000013",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "774-37-60021",
+      "purchase_dtime": "20260626210506",
+      "purchase_amt": 10800.0,
+      "transaction_id": "P162-T0074"
+    },
+    {
+      "approved_num": "AP162000016",
+      "merchant_name": "롯데마트",
+      "merchant_regno": "314-86-16416",
+      "purchase_dtime": "20260620165220",
+      "purchase_amt": 15000.0,
+      "transaction_id": "P162-T0090"
+    },
+    {
+      "approved_num": "AP162000014",
+      "merchant_name": "해커스",
+      "merchant_regno": "537-83-61972",
+      "purchase_dtime": "20260620131402",
+      "purchase_amt": 161500.0,
+      "transaction_id": "P162-T0082"
+    },
+    {
+      "approved_num": "AP162000004",
+      "merchant_name": "인프런",
+      "merchant_regno": "603-13-67207",
+      "purchase_dtime": "20260614113049",
+      "purchase_amt": 121200.0,
+      "transaction_id": "P162-T0055"
+    },
+    {
+      "approved_num": "AP162000005",
+      "merchant_name": "클래스101",
+      "merchant_regno": "486-42-81906",
+      "purchase_dtime": "20260613185742",
+      "purchase_amt": 99900.0,
+      "transaction_id": "P162-T0057"
+    },
+    {
+      "approved_num": "AP162000009",
+      "merchant_name": "담소소사골순대",
+      "merchant_regno": "818-89-12886",
+      "purchase_dtime": "20260613111425",
+      "purchase_amt": 18000.0,
+      "transaction_id": "P162-T0070"
+    },
+    {
+      "approved_num": "AP162000001",
+      "merchant_name": "우티",
+      "merchant_regno": "643-53-24134",
+      "purchase_dtime": "20260612221536",
+      "purchase_amt": 6400.0,
+      "transaction_id": "P162-T0021"
+    },
+    {
+      "approved_num": "AP162000011",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "774-37-60021",
+      "purchase_dtime": "20260611095821",
+      "purchase_amt": 23000.0,
+      "transaction_id": "P162-T0072"
+    },
+    {
+      "approved_num": "AP162000002",
+      "merchant_name": "카카오T 택시",
+      "merchant_regno": "382-16-70021",
+      "purchase_dtime": "20260608093134",
+      "purchase_amt": 7300.0,
+      "transaction_id": "P162-T0029"
+    },
+    {
+      "approved_num": "AP162000010",
+      "merchant_name": "메가박스",
+      "merchant_regno": "357-58-16481",
+      "purchase_dtime": "20260604171248",
+      "purchase_amt": 33600.0,
+      "transaction_id": "P162-T0071"
+    },
+    {
+      "approved_num": "AP162000007",
+      "merchant_name": "마켓컬리",
+      "merchant_regno": "528-71-73602",
+      "purchase_dtime": "20260603115746",
+      "purchase_amt": 26000.0,
+      "transaction_id": "P162-T0063"
+    },
+    {
+      "approved_num": "AP162000006",
+      "merchant_name": "컴포즈커피",
+      "merchant_regno": "473-51-39505",
+      "purchase_dtime": "20260603111235",
+      "purchase_amt": 11200.0,
+      "transaction_id": "P162-T0062"
+    }
+  ]
+}

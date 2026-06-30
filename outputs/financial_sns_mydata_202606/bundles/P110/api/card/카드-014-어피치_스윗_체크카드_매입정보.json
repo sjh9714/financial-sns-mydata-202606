@@ -1,0 +1,209 @@
+{
+  "x-api-tran-id": "P110-카드-014-P110-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 25,
+  "purchase_list": [
+    {
+      "approved_num": "AP110000006",
+      "merchant_name": "무신사",
+      "merchant_regno": "616-15-85732",
+      "purchase_dtime": "20260630225256",
+      "purchase_amt": 59700.0,
+      "transaction_id": "P110-T0045"
+    },
+    {
+      "approved_num": "AP110000004",
+      "merchant_name": "메가MGC커피",
+      "merchant_regno": "627-28-79640",
+      "purchase_dtime": "20260630124511",
+      "purchase_amt": 6000.0,
+      "transaction_id": "P110-T0043"
+    },
+    {
+      "approved_num": "AP110000019",
+      "merchant_name": "무신사뷰티",
+      "merchant_regno": "300-15-25092",
+      "purchase_dtime": "20260629133059",
+      "purchase_amt": 48600.0,
+      "transaction_id": "P110-T0122"
+    },
+    {
+      "approved_num": "AP110000021",
+      "merchant_name": "올리브영",
+      "merchant_regno": "634-52-83825",
+      "purchase_dtime": "20260629122914",
+      "purchase_amt": 26000.0,
+      "transaction_id": "P110-T0129"
+    },
+    {
+      "approved_num": "AP110000017",
+      "merchant_name": "컴포즈커피",
+      "merchant_regno": "670-68-68997",
+      "purchase_dtime": "20260628210707",
+      "purchase_amt": 3200.0,
+      "transaction_id": "P110-T0112"
+    },
+    {
+      "approved_num": "AP110000009",
+      "merchant_name": "모바일티머니",
+      "merchant_regno": "680-35-84998",
+      "purchase_dtime": "20260628090455",
+      "purchase_amt": 20300.0,
+      "transaction_id": "P110-T0071"
+    },
+    {
+      "approved_num": "AP110000015",
+      "merchant_name": "아고다",
+      "merchant_regno": "204-59-52223",
+      "purchase_dtime": "20260627200138",
+      "purchase_amt": 85200.0,
+      "transaction_id": "P110-T0106"
+    },
+    {
+      "approved_num": "AP110000025",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "595-69-65115",
+      "purchase_dtime": "20260625210220",
+      "purchase_amt": 63200.0,
+      "transaction_id": "P110-T0160"
+    },
+    {
+      "approved_num": "AP110000011",
+      "merchant_name": "노션",
+      "merchant_regno": "283-13-43491",
+      "purchase_dtime": "20260622152440",
+      "purchase_amt": 54200.0,
+      "transaction_id": "P110-T0081"
+    },
+    {
+      "approved_num": "AP110000020",
+      "merchant_name": "담소소사골순대",
+      "merchant_regno": "674-80-53859",
+      "purchase_dtime": "20260621201735",
+      "purchase_amt": 16600.0,
+      "transaction_id": "P110-T0125"
+    },
+    {
+      "approved_num": "AP110000018",
+      "merchant_name": "카카오버스",
+      "merchant_regno": "673-34-71151",
+      "purchase_dtime": "20260620221954",
+      "purchase_amt": 17800.0,
+      "transaction_id": "P110-T0121"
+    },
+    {
+      "approved_num": "AP110000014",
+      "merchant_name": "무신사뷰티",
+      "merchant_regno": "300-15-25092",
+      "purchase_dtime": "20260620132337",
+      "purchase_amt": 58000.0,
+      "transaction_id": "P110-T0101"
+    },
+    {
+      "approved_num": "AP110000001",
+      "merchant_name": "이디야커피",
+      "merchant_regno": "229-39-68348",
+      "purchase_dtime": "20260618132201",
+      "purchase_amt": 5800.0,
+      "transaction_id": "P110-T0037"
+    },
+    {
+      "approved_num": "AP110000023",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "258-78-74073",
+      "purchase_dtime": "20260617200038",
+      "purchase_amt": 25900.0,
+      "transaction_id": "P110-T0143"
+    },
+    {
+      "approved_num": "AP110000003",
+      "merchant_name": "마켓컬리",
+      "merchant_regno": "379-15-57898",
+      "purchase_dtime": "20260616140200",
+      "purchase_amt": 36400.0,
+      "transaction_id": "P110-T0042"
+    },
+    {
+      "approved_num": "AP110000024",
+      "merchant_name": "아이엠택시",
+      "merchant_regno": "316-40-69955",
+      "purchase_dtime": "20260616073434",
+      "purchase_amt": 15600.0,
+      "transaction_id": "P110-T0147"
+    },
+    {
+      "approved_num": "AP110000013",
+      "merchant_name": "세븐일레븐",
+      "merchant_regno": "615-60-29793",
+      "purchase_dtime": "20260614203442",
+      "purchase_amt": 26900.0,
+      "transaction_id": "P110-T0094"
+    },
+    {
+      "approved_num": "AP110000008",
+      "merchant_name": "요기요",
+      "merchant_regno": "585-56-89237",
+      "purchase_dtime": "20260614125823",
+      "purchase_amt": 25800.0,
+      "transaction_id": "P110-T0053"
+    },
+    {
+      "approved_num": "AP110000016",
+      "merchant_name": "올리브영",
+      "merchant_regno": "634-52-83825",
+      "purchase_dtime": "20260608222717",
+      "purchase_amt": 34300.0,
+      "transaction_id": "P110-T0109"
+    },
+    {
+      "approved_num": "AP110000010",
+      "merchant_name": "던킨",
+      "merchant_regno": "534-60-11756",
+      "purchase_dtime": "20260608191651",
+      "purchase_amt": 8600.0,
+      "transaction_id": "P110-T0075"
+    },
+    {
+      "approved_num": "AP110000005",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "864-50-87535",
+      "purchase_dtime": "20260606214432",
+      "purchase_amt": 22700.0,
+      "transaction_id": "P110-T0044"
+    },
+    {
+      "approved_num": "AP110000012",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "864-50-87535",
+      "purchase_dtime": "20260606204946",
+      "purchase_amt": 17100.0,
+      "transaction_id": "P110-T0093"
+    },
+    {
+      "approved_num": "AP110000022",
+      "merchant_name": "카카오T 택시",
+      "merchant_regno": "120-58-50986",
+      "purchase_dtime": "20260606195436",
+      "purchase_amt": 16500.0,
+      "transaction_id": "P110-T0142"
+    },
+    {
+      "approved_num": "AP110000002",
+      "merchant_name": "요기요",
+      "merchant_regno": "585-56-89237",
+      "purchase_dtime": "20260606192913",
+      "purchase_amt": 13800.0,
+      "transaction_id": "P110-T0040"
+    },
+    {
+      "approved_num": "AP110000007",
+      "merchant_name": "무신사",
+      "merchant_regno": "616-15-85732",
+      "purchase_dtime": "20260605104600",
+      "purchase_amt": 35700.0,
+      "transaction_id": "P110-T0046"
+    }
+  ]
+}

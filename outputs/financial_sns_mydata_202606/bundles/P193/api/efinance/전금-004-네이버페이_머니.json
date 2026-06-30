@@ -1,0 +1,22 @@
+{
+  "x-api-tran-id": "P193-전금-004-P193-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 1,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP193네00008",
+      "trans_dtime": "20260606112244",
+      "trans_no": "WP19300001",
+      "currency_code": "KRW",
+      "trans_amt": -9500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "주식회사 우아한형제들",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

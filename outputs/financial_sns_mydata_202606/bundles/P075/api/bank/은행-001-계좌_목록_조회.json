@@ -1,0 +1,41 @@
+{
+  "x-api-tran-id": "P075-은행-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "search_timestamp": "20260630235900",
+  "reg_date": "20260601",
+  "next_page": null,
+  "account_cnt": 3,
+  "account_list": [
+    {
+      "account_num": "P075-BANK-MAIN",
+      "is_consent": true,
+      "seqno": null,
+      "is_foreign_deposit": false,
+      "prod_name": "KB Star 청춘통장",
+      "is_minus": false,
+      "account_type": "01",
+      "account_status": "01"
+    },
+    {
+      "account_num": "P075-BANK-SAVE",
+      "is_consent": true,
+      "seqno": null,
+      "is_foreign_deposit": false,
+      "prod_name": "청년희망 적금",
+      "is_minus": false,
+      "account_type": "02",
+      "account_status": "01"
+    },
+    {
+      "account_num": "P075-BANK-HOUSING",
+      "is_consent": true,
+      "seqno": null,
+      "is_foreign_deposit": false,
+      "prod_name": "주택청약종합저축",
+      "is_minus": false,
+      "account_type": "02",
+      "account_status": "01"
+    }
+  ]
+}

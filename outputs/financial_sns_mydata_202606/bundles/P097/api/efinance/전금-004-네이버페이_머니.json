@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P097-전금-004-P097-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP097네00008",
+      "trans_dtime": "20260627124740",
+      "trans_no": "WP09700002",
+      "currency_code": "KRW",
+      "trans_amt": -48900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP097네00010",
+      "trans_dtime": "20260624113519",
+      "trans_no": "WP09700003",
+      "currency_code": "KRW",
+      "trans_amt": -16900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "요기요",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP097네00006",
+      "trans_dtime": "20260607110503",
+      "trans_no": "WP09700001",
+      "currency_code": "KRW",
+      "trans_amt": -28500.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "한솥도시락 신촌점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    }
+  ]
+}

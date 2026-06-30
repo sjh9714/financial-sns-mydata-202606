@@ -1,0 +1,100 @@
+{
+  "x-api-tran-id": "P123-전금-004-P123-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 7,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP123카00012",
+      "trans_dtime": "20260630121556",
+      "trans_no": "WP12300007",
+      "currency_code": "KRW",
+      "trans_amt": -4500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "컴포즈커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP123카00002",
+      "trans_dtime": "20260616110218",
+      "trans_no": "WP12300001",
+      "currency_code": "KRW",
+      "trans_amt": -44500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "인프런",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP123카00009",
+      "trans_dtime": "20260615232506",
+      "trans_no": "WP12300005",
+      "currency_code": "KRW",
+      "trans_amt": -19600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "마켓컬리",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP123카00008",
+      "trans_dtime": "20260607224306",
+      "trans_no": "WP12300004",
+      "currency_code": "KRW",
+      "trans_amt": -50800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP123카00007",
+      "trans_dtime": "20260603204356",
+      "trans_no": "WP12300003",
+      "currency_code": "KRW",
+      "trans_amt": -12700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "요기요",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP123카00011",
+      "trans_dtime": "20260603095302",
+      "trans_no": "WP12300006",
+      "currency_code": "KRW",
+      "trans_amt": -3500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "모바일티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP123카00004",
+      "trans_dtime": "20260602220737",
+      "trans_no": "WP12300002",
+      "currency_code": "KRW",
+      "trans_amt": -32500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "클래스101",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    }
+  ]
+}

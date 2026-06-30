@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P089-전금-004-P089-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP089카00004",
+      "trans_dtime": "20260629122952",
+      "trans_no": "WP08900001",
+      "currency_code": "KRW",
+      "trans_amt": -54900.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "교보문고",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP089카00007",
+      "trans_dtime": "20260608202545",
+      "trans_no": "WP08900002",
+      "currency_code": "KRW",
+      "trans_amt": -32000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "롯데마트",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

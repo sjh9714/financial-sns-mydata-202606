@@ -1,0 +1,209 @@
+{
+  "x-api-tran-id": "P192-카드-014-P192-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 25,
+  "purchase_list": [
+    {
+      "approved_num": "AP192000023",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "297-38-16230",
+      "purchase_dtime": "20260630200950",
+      "purchase_amt": 10500.0,
+      "transaction_id": "P192-T0075"
+    },
+    {
+      "approved_num": "AP192000011",
+      "merchant_name": "던킨",
+      "merchant_regno": "321-75-40293",
+      "purchase_dtime": "20260630195720",
+      "purchase_amt": 4900.0,
+      "transaction_id": "P192-T0036"
+    },
+    {
+      "approved_num": "AP192000019",
+      "merchant_name": "메가MGC커피",
+      "merchant_regno": "415-20-59501",
+      "purchase_dtime": "20260630093324",
+      "purchase_amt": 7300.0,
+      "transaction_id": "P192-T0054"
+    },
+    {
+      "approved_num": "AP192000021",
+      "merchant_name": "카카오T 택시",
+      "merchant_regno": "749-45-20203",
+      "purchase_dtime": "20260630093122",
+      "purchase_amt": 4900.0,
+      "transaction_id": "P192-T0071"
+    },
+    {
+      "approved_num": "AP192000012",
+      "merchant_name": "홈플러스",
+      "merchant_regno": "173-89-76590",
+      "purchase_dtime": "20260628184747",
+      "purchase_amt": 34600.0,
+      "transaction_id": "P192-T0037"
+    },
+    {
+      "approved_num": "AP192000005",
+      "merchant_name": "김밥천국 홍대점",
+      "merchant_regno": "399-64-53653",
+      "purchase_dtime": "20260627181520",
+      "purchase_amt": 13300.0,
+      "transaction_id": "P192-T0020"
+    },
+    {
+      "approved_num": "AP192000013",
+      "merchant_name": "무신사",
+      "merchant_regno": "489-88-56368",
+      "purchase_dtime": "20260626202749",
+      "purchase_amt": 43700.0,
+      "transaction_id": "P192-T0042"
+    },
+    {
+      "approved_num": "AP192000002",
+      "merchant_name": "실손보험료",
+      "merchant_regno": "539-38-50587",
+      "purchase_dtime": "20260626174026",
+      "purchase_amt": 58200.0,
+      "transaction_id": "P192-T0009"
+    },
+    {
+      "approved_num": "AP192000010",
+      "merchant_name": "우티",
+      "merchant_regno": "694-49-72199",
+      "purchase_dtime": "20260624180225",
+      "purchase_amt": 15400.0,
+      "transaction_id": "P192-T0034"
+    },
+    {
+      "approved_num": "AP192000001",
+      "merchant_name": "구독 서비스",
+      "merchant_regno": "124-59-59909",
+      "purchase_dtime": "20260624113950",
+      "purchase_amt": 22500.0,
+      "transaction_id": "P192-T0008"
+    },
+    {
+      "approved_num": "AP192000016",
+      "merchant_name": "서울교통공사",
+      "merchant_regno": "797-52-23345",
+      "purchase_dtime": "20260623224739",
+      "purchase_amt": 10700.0,
+      "transaction_id": "P192-T0048"
+    },
+    {
+      "approved_num": "AP192000015",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "761-58-73066",
+      "purchase_dtime": "20260623213810",
+      "purchase_amt": 73700.0,
+      "transaction_id": "P192-T0046"
+    },
+    {
+      "approved_num": "AP192000003",
+      "merchant_name": "카카오버스",
+      "merchant_regno": "205-70-33269",
+      "purchase_dtime": "20260623095631",
+      "purchase_amt": 6000.0,
+      "transaction_id": "P192-T0018"
+    },
+    {
+      "approved_num": "AP192000014",
+      "merchant_name": "365약국",
+      "merchant_regno": "245-65-69641",
+      "purchase_dtime": "20260621234145",
+      "purchase_amt": 11300.0,
+      "transaction_id": "P192-T0045"
+    },
+    {
+      "approved_num": "AP192000024",
+      "merchant_name": "에이블리",
+      "merchant_regno": "315-17-67431",
+      "purchase_dtime": "20260619135417",
+      "purchase_amt": 16400.0,
+      "transaction_id": "P192-T0079"
+    },
+    {
+      "approved_num": "AP192000009",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "362-81-29712",
+      "purchase_dtime": "20260615124635",
+      "purchase_amt": 74100.0,
+      "transaction_id": "P192-T0031"
+    },
+    {
+      "approved_num": "AP192000017",
+      "merchant_name": "무신사",
+      "merchant_regno": "489-88-56368",
+      "purchase_dtime": "20260614130000",
+      "purchase_amt": 74200.0,
+      "transaction_id": "P192-T0050"
+    },
+    {
+      "approved_num": "AP192000008",
+      "merchant_name": "챗GPT",
+      "merchant_regno": "414-77-36301",
+      "purchase_dtime": "20260611180014",
+      "purchase_amt": 26300.0,
+      "transaction_id": "P192-T0030"
+    },
+    {
+      "approved_num": "AP192000022",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "213-71-39362",
+      "purchase_dtime": "20260610215719",
+      "purchase_amt": 28700.0,
+      "transaction_id": "P192-T0073"
+    },
+    {
+      "approved_num": "AP192000004",
+      "merchant_name": "요기요",
+      "merchant_regno": "607-48-22469",
+      "purchase_dtime": "20260608215730",
+      "purchase_amt": 9300.0,
+      "transaction_id": "P192-T0019"
+    },
+    {
+      "approved_num": "AP192000025",
+      "merchant_name": "롯데마트",
+      "merchant_regno": "625-39-36563",
+      "purchase_dtime": "20260608093048",
+      "purchase_amt": 39100.0,
+      "transaction_id": "P192-T0084"
+    },
+    {
+      "approved_num": "AP192000006",
+      "merchant_name": "클래스101",
+      "merchant_regno": "479-29-82952",
+      "purchase_dtime": "20260607124235",
+      "purchase_amt": 61800.0,
+      "transaction_id": "P192-T0022"
+    },
+    {
+      "approved_num": "AP192000018",
+      "merchant_name": "이마트",
+      "merchant_regno": "482-64-25598",
+      "purchase_dtime": "20260605135049",
+      "purchase_amt": 39900.0,
+      "transaction_id": "P192-T0053"
+    },
+    {
+      "approved_num": "AP192000020",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "213-71-39362",
+      "purchase_dtime": "20260605125017",
+      "purchase_amt": 47000.0,
+      "transaction_id": "P192-T0061"
+    },
+    {
+      "approved_num": "AP192000007",
+      "merchant_name": "이마트",
+      "merchant_regno": "482-64-25598",
+      "purchase_dtime": "20260603131129",
+      "purchase_amt": 26900.0,
+      "transaction_id": "P192-T0024"
+    }
+  ]
+}

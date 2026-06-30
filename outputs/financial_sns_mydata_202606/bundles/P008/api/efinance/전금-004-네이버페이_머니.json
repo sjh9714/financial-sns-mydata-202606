@@ -1,0 +1,74 @@
+{
+  "x-api-tran-id": "P008-전금-004-P008-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 5,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP008네00006",
+      "trans_dtime": "20260619213057",
+      "trans_no": "WP00800001",
+      "currency_code": "KRW",
+      "trans_amt": -70600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP008네00010",
+      "trans_dtime": "20260613171009",
+      "trans_no": "WP00800002",
+      "currency_code": "KRW",
+      "trans_amt": -118700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "패스트캠퍼스",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP008네00013",
+      "trans_dtime": "20260607192440",
+      "trans_no": "WP00800004",
+      "currency_code": "KRW",
+      "trans_amt": -20800.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "요기요",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP008네00014",
+      "trans_dtime": "20260605195806",
+      "trans_no": "WP00800005",
+      "currency_code": "KRW",
+      "trans_amt": -9900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "스타벅스 합정점",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP008네00011",
+      "trans_dtime": "20260605183327",
+      "trans_no": "WP00800003",
+      "currency_code": "KRW",
+      "trans_amt": -110000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "패스트캠퍼스",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    }
+  ]
+}

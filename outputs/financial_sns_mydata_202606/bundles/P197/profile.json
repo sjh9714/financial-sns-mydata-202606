@@ -1,0 +1,30 @@
+{
+  "persona_id": "P197",
+  "synthetic_name": "가상청년 P197",
+  "age": 33,
+  "birth_year": 1993,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "고소득 FIRE형",
+  "job": "스타트업 리드",
+  "region": "서울 성동구",
+  "monthly_income_krw": 9350000,
+  "income_band": "700만원 이상",
+  "target_monthly_spend_krw": 2630000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.479,
+  "target_investment_rate": 0.252,
+  "risk_score": 4,
+  "risk_attitude": "성장추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "고소득",
+    "소액투자",
+    "투자자동화"
+  ],
+  "financial_goal": "FIRE",
+  "sns_tendency": "절약챌린지형",
+  "target_ledger_rows": 124,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

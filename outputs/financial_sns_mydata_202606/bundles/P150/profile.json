@@ -1,0 +1,30 @@
+{
+  "persona_id": "P150",
+  "synthetic_name": "가상청년 P150",
+  "age": 33,
+  "birth_year": 1993,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "소비·구독형",
+  "job": "패션 MD",
+  "region": "서울 마포구",
+  "monthly_income_krw": 3470000,
+  "income_band": "250~350만원",
+  "target_monthly_spend_krw": 3250000,
+  "spend_band": "320만원 이상",
+  "target_saving_rate": 0.082,
+  "target_investment_rate": 0.094,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "쉐어하우스",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "대중교통",
+    "온라인쇼핑",
+    "취향소비"
+  ],
+  "financial_goal": "여행",
+  "sns_tendency": "소비인사이트형",
+  "target_ledger_rows": 147,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

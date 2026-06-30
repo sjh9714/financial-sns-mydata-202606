@@ -1,0 +1,21 @@
+{
+  "x-api-tran-id": "P117-금투-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "search_timestamp": "20260630235900",
+  "next_page": null,
+  "account_cnt": 1,
+  "account_list": [
+    {
+      "account_num": "P117-INV-001",
+      "is_consent": true,
+      "account_name": "한국투자증권 종합계좌",
+      "account_type": "01",
+      "issue_date": "20250115",
+      "is_tax_benefits": false,
+      "is_cma": false,
+      "is_stock_trans": true,
+      "is_account_link": true
+    }
+  ]
+}

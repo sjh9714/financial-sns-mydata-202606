@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P084-전금-004-P084-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP084카00008",
+      "trans_dtime": "20260630225841",
+      "trans_no": "WP08400003",
+      "currency_code": "KRW",
+      "trans_amt": -15100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "모바일티머니",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP084카00002",
+      "trans_dtime": "20260613204952",
+      "trans_no": "WP08400002",
+      "currency_code": "KRW",
+      "trans_amt": -19700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "세븐일레븐",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP084카00001",
+      "trans_dtime": "20260602190233",
+      "trans_no": "WP08400001",
+      "currency_code": "KRW",
+      "trans_amt": -59800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노션",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

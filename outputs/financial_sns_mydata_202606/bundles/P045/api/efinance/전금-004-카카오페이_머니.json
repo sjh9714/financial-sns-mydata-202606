@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P045-전금-004-P045-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP045카00003",
+      "trans_dtime": "20260615210202",
+      "trans_no": "WP04500001",
+      "currency_code": "KRW",
+      "trans_amt": -7700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "던킨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP045카00009",
+      "trans_dtime": "20260612184232",
+      "trans_no": "WP04500002",
+      "currency_code": "KRW",
+      "trans_amt": -6600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오버스",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP045카00013",
+      "trans_dtime": "20260611205933",
+      "trans_no": "WP04500003",
+      "currency_code": "KRW",
+      "trans_amt": -31500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

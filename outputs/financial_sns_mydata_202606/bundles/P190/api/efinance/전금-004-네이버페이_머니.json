@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P190-전금-004-P190-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP190네00009",
+      "trans_dtime": "20260621230953",
+      "trans_no": "WP19000003",
+      "currency_code": "KRW",
+      "trans_amt": -36000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "인프런",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP190네00006",
+      "trans_dtime": "20260602210536",
+      "trans_no": "WP19000001",
+      "currency_code": "KRW",
+      "trans_amt": -66100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP190네00008",
+      "trans_dtime": "20260601125411",
+      "trans_no": "WP19000002",
+      "currency_code": "KRW",
+      "trans_amt": -51300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "x-api-tran-id": "P148-카드-014-P148-CARD-01",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 25,
+  "purchase_list": [
+    {
+      "approved_num": "AP148000012",
+      "merchant_name": "무신사",
+      "merchant_regno": "657-78-15150",
+      "purchase_dtime": "20260630234552",
+      "purchase_amt": 89000.0,
+      "transaction_id": "P148-T0068"
+    },
+    {
+      "approved_num": "AP148000007",
+      "merchant_name": "11번가",
+      "merchant_regno": "895-55-56830",
+      "purchase_dtime": "20260630210224",
+      "purchase_amt": 70700.0,
+      "transaction_id": "P148-T0048"
+    },
+    {
+      "approved_num": "AP148000004",
+      "merchant_name": "CGV",
+      "merchant_regno": "726-19-29186",
+      "purchase_dtime": "20260630120108",
+      "purchase_amt": 51600.0,
+      "transaction_id": "P148-T0023"
+    },
+    {
+      "approved_num": "AP148000017",
+      "merchant_name": "교보문고",
+      "merchant_regno": "433-69-11810",
+      "purchase_dtime": "20260629122422",
+      "purchase_amt": 42800.0,
+      "transaction_id": "P148-T0092"
+    },
+    {
+      "approved_num": "AP148000015",
+      "merchant_name": "세븐일레븐",
+      "merchant_regno": "366-70-82451",
+      "purchase_dtime": "20260629090203",
+      "purchase_amt": 74900.0,
+      "transaction_id": "P148-T0086"
+    },
+    {
+      "approved_num": "AP148000008",
+      "merchant_name": "마켓컬리",
+      "merchant_regno": "155-17-45758",
+      "purchase_dtime": "20260627225725",
+      "purchase_amt": 46300.0,
+      "transaction_id": "P148-T0051"
+    },
+    {
+      "approved_num": "AP148000025",
+      "merchant_name": "아모레몰",
+      "merchant_regno": "847-25-26734",
+      "purchase_dtime": "20260627184332",
+      "purchase_amt": 36400.0,
+      "transaction_id": "P148-T0126"
+    },
+    {
+      "approved_num": "AP148000019",
+      "merchant_name": "교보문고",
+      "merchant_regno": "433-69-11810",
+      "purchase_dtime": "20260627180116",
+      "purchase_amt": 41600.0,
+      "transaction_id": "P148-T0099"
+    },
+    {
+      "approved_num": "AP148000016",
+      "merchant_name": "멜론",
+      "merchant_regno": "440-12-14395",
+      "purchase_dtime": "20260626212238",
+      "purchase_amt": 4100.0,
+      "transaction_id": "P148-T0091"
+    },
+    {
+      "approved_num": "AP148000020",
+      "merchant_name": "배민스토어",
+      "merchant_regno": "375-37-23621",
+      "purchase_dtime": "20260622091327",
+      "purchase_amt": 14000.0,
+      "transaction_id": "P148-T0100"
+    },
+    {
+      "approved_num": "AP148000023",
+      "merchant_name": "스타벅스 합정점",
+      "merchant_regno": "128-71-82002",
+      "purchase_dtime": "20260620115539",
+      "purchase_amt": 8500.0,
+      "transaction_id": "P148-T0108"
+    },
+    {
+      "approved_num": "AP148000011",
+      "merchant_name": "모바일티머니",
+      "merchant_regno": "850-25-50426",
+      "purchase_dtime": "20260619181504",
+      "purchase_amt": 8000.0,
+      "transaction_id": "P148-T0066"
+    },
+    {
+      "approved_num": "AP148000003",
+      "merchant_name": "29CM",
+      "merchant_regno": "270-68-51305",
+      "purchase_dtime": "20260618130647",
+      "purchase_amt": 140700.0,
+      "transaction_id": "P148-T0022"
+    },
+    {
+      "approved_num": "AP148000013",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "649-77-15396",
+      "purchase_dtime": "20260618101643",
+      "purchase_amt": 86800.0,
+      "transaction_id": "P148-T0071"
+    },
+    {
+      "approved_num": "AP148000006",
+      "merchant_name": "배민스토어",
+      "merchant_regno": "375-37-23621",
+      "purchase_dtime": "20260617214143",
+      "purchase_amt": 31400.0,
+      "transaction_id": "P148-T0045"
+    },
+    {
+      "approved_num": "AP148000014",
+      "merchant_name": "이디야커피",
+      "merchant_regno": "253-31-13704",
+      "purchase_dtime": "20260615133136",
+      "purchase_amt": 11300.0,
+      "transaction_id": "P148-T0084"
+    },
+    {
+      "approved_num": "AP148000002",
+      "merchant_name": "이디야커피",
+      "merchant_regno": "253-31-13704",
+      "purchase_dtime": "20260614124541",
+      "purchase_amt": 4000.0,
+      "transaction_id": "P148-T0019"
+    },
+    {
+      "approved_num": "AP148000009",
+      "merchant_name": "11번가",
+      "merchant_regno": "895-55-56830",
+      "purchase_dtime": "20260613225925",
+      "purchase_amt": 52700.0,
+      "transaction_id": "P148-T0060"
+    },
+    {
+      "approved_num": "AP148000010",
+      "merchant_name": "메가MGC커피",
+      "merchant_regno": "408-19-66700",
+      "purchase_dtime": "20260613094640",
+      "purchase_amt": 8700.0,
+      "transaction_id": "P148-T0062"
+    },
+    {
+      "approved_num": "AP148000021",
+      "merchant_name": "서울교통공사",
+      "merchant_regno": "144-27-54680",
+      "purchase_dtime": "20260612231421",
+      "purchase_amt": 13000.0,
+      "transaction_id": "P148-T0106"
+    },
+    {
+      "approved_num": "AP148000022",
+      "merchant_name": "올리브영",
+      "merchant_regno": "802-18-28392",
+      "purchase_dtime": "20260612231021",
+      "purchase_amt": 79700.0,
+      "transaction_id": "P148-T0107"
+    },
+    {
+      "approved_num": "AP148000024",
+      "merchant_name": "무신사뷰티",
+      "merchant_regno": "758-58-30419",
+      "purchase_dtime": "20260612133205",
+      "purchase_amt": 60500.0,
+      "transaction_id": "P148-T0125"
+    },
+    {
+      "approved_num": "AP148000018",
+      "merchant_name": "무신사",
+      "merchant_regno": "657-78-15150",
+      "purchase_dtime": "20260610223535",
+      "purchase_amt": 43200.0,
+      "transaction_id": "P148-T0094"
+    },
+    {
+      "approved_num": "AP148000005",
+      "merchant_name": "우티",
+      "merchant_regno": "198-81-55853",
+      "purchase_dtime": "20260610091144",
+      "purchase_amt": 19800.0,
+      "transaction_id": "P148-T0040"
+    },
+    {
+      "approved_num": "AP148000001",
+      "merchant_name": "에이블리",
+      "merchant_regno": "527-25-21171",
+      "purchase_dtime": "20260608222801",
+      "purchase_amt": 117000.0,
+      "transaction_id": "P148-T0017"
+    }
+  ]
+}

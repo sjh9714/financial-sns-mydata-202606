@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P121-전금-004-P121-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP121네00005",
+      "trans_dtime": "20260630135142",
+      "trans_no": "WP12100002",
+      "currency_code": "KRW",
+      "trans_amt": -12100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP121네00001",
+      "trans_dtime": "20260608185146",
+      "trans_no": "WP12100001",
+      "currency_code": "KRW",
+      "trans_amt": -17300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "인프런",
+      "trans_title": "학원/강의 결제",
+      "trans_category": "교육/학습"
+    }
+  ]
+}

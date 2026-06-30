@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P068-전금-004-P068-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP068네00009",
+      "trans_dtime": "20260625154227",
+      "trans_no": "WP06800003",
+      "currency_code": "KRW",
+      "trans_amt": -55300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "넷플릭스",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP068네00005",
+      "trans_dtime": "20260623233648",
+      "trans_no": "WP06800001",
+      "currency_code": "KRW",
+      "trans_amt": -71400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노션",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP068네00007",
+      "trans_dtime": "20260610071033",
+      "trans_no": "WP06800002",
+      "currency_code": "KRW",
+      "trans_amt": -3400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "우티",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    }
+  ]
+}

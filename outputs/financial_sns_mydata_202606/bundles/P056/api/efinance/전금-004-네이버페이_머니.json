@@ -1,0 +1,48 @@
+{
+  "x-api-tran-id": "P056-전금-004-P056-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 3,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP056네00008",
+      "trans_dtime": "20260626225415",
+      "trans_no": "WP05600002",
+      "currency_code": "KRW",
+      "trans_amt": -14600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "아이엠택시",
+      "trans_title": "택시 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP056네00009",
+      "trans_dtime": "20260623150645",
+      "trans_no": "WP05600003",
+      "currency_code": "KRW",
+      "trans_amt": -75200.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "마켓컬리",
+      "trans_title": "마트 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP056네00006",
+      "trans_dtime": "20260620194941",
+      "trans_no": "WP05600001",
+      "currency_code": "KRW",
+      "trans_amt": -5400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가MGC커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

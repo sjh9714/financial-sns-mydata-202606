@@ -1,0 +1,26 @@
+{
+  "persona_id": "P007",
+  "reactions": [
+    {
+      "reaction_id": "P007-R001",
+      "actor_persona_id": "P007",
+      "target_persona_id": "P096",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-28T16:22:00+09:00"
+    },
+    {
+      "reaction_id": "P007-R002",
+      "actor_persona_id": "P007",
+      "target_persona_id": "P137",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-18T19:16:00+09:00"
+    },
+    {
+      "reaction_id": "P007-R003",
+      "actor_persona_id": "P007",
+      "target_persona_id": "P135",
+      "reaction_type": "like",
+      "created_at": "2026-06-18T21:31:00+09:00"
+    }
+  ]
+}

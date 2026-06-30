@@ -1,0 +1,113 @@
+{
+  "x-api-tran-id": "P196-전금-004-P196-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 8,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP196네00011",
+      "trans_dtime": "20260630202910",
+      "trans_no": "WP19600006",
+      "currency_code": "KRW",
+      "trans_amt": -13700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "요기요",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP196네00010",
+      "trans_dtime": "20260622094126",
+      "trans_no": "WP19600005",
+      "currency_code": "KRW",
+      "trans_amt": -7000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배스킨라빈스",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP196네00004",
+      "trans_dtime": "20260620195202",
+      "trans_no": "WP19600003",
+      "currency_code": "KRW",
+      "trans_amt": -14900.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오버스",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP196네00013",
+      "trans_dtime": "20260616101655",
+      "trans_no": "WP19600008",
+      "currency_code": "KRW",
+      "trans_amt": -96300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP196네00003",
+      "trans_dtime": "20260613214508",
+      "trans_no": "WP19600002",
+      "currency_code": "KRW",
+      "trans_amt": -6700.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "파리바게뜨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP196네00001",
+      "trans_dtime": "20260610131250",
+      "trans_no": "WP19600001",
+      "currency_code": "KRW",
+      "trans_amt": -15100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가MGC커피",
+      "trans_title": "커피/음료 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP196네00009",
+      "trans_dtime": "20260603194304",
+      "trans_no": "WP19600004",
+      "currency_code": "KRW",
+      "trans_amt": -37000.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "넷플릭스",
+      "trans_title": "서비스구독 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP196네00012",
+      "trans_dtime": "20260601220958",
+      "trans_no": "WP19600007",
+      "currency_code": "KRW",
+      "trans_amt": -21400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "CU",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    }
+  ]
+}

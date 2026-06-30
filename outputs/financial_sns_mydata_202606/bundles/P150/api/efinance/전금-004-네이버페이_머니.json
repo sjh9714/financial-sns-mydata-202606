@@ -1,0 +1,74 @@
+{
+  "x-api-tran-id": "P150-전금-004-P150-WALLET-NAVER",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 5,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP150네00010",
+      "trans_dtime": "20260629183738",
+      "trans_no": "WP15000005",
+      "currency_code": "KRW",
+      "trans_amt": -20300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "메가박스",
+      "trans_title": "공연/영화 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP150네00005",
+      "trans_dtime": "20260628182340",
+      "trans_no": "WP15000002",
+      "currency_code": "KRW",
+      "trans_amt": -7100.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노티드",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP150네00003",
+      "trans_dtime": "20260617092104",
+      "trans_no": "WP15000001",
+      "currency_code": "KRW",
+      "trans_amt": -4400.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "카카오버스",
+      "trans_title": "대중교통 결제",
+      "trans_category": "교통"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP150네00008",
+      "trans_dtime": "20260613081052",
+      "trans_no": "WP15000003",
+      "currency_code": "KRW",
+      "trans_amt": -5600.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "배스킨라빈스",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP150네00009",
+      "trans_dtime": "20260608121005",
+      "trans_no": "WP15000004",
+      "currency_code": "KRW",
+      "trans_amt": -38300.0,
+      "trans_org_code": "06000002",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

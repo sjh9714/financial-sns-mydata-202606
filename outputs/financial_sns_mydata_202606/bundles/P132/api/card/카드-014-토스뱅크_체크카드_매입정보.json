@@ -1,0 +1,145 @@
+{
+  "x-api-tran-id": "P132-카드-014-P132-CARD-03",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 17,
+  "purchase_list": [
+    {
+      "approved_num": "AP132000013",
+      "merchant_name": "무신사",
+      "merchant_regno": "565-87-68251",
+      "purchase_dtime": "20260630232010",
+      "purchase_amt": 42800.0,
+      "transaction_id": "P132-T0102"
+    },
+    {
+      "approved_num": "AP132000017",
+      "merchant_name": "우티",
+      "merchant_regno": "699-72-18169",
+      "purchase_dtime": "20260629195038",
+      "purchase_amt": 7700.0,
+      "transaction_id": "P132-T0126"
+    },
+    {
+      "approved_num": "AP132000016",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "827-22-31779",
+      "purchase_dtime": "20260629123304",
+      "purchase_amt": 31400.0,
+      "transaction_id": "P132-T0114"
+    },
+    {
+      "approved_num": "AP132000004",
+      "merchant_name": "이마트",
+      "merchant_regno": "630-17-49117",
+      "purchase_dtime": "20260628182644",
+      "purchase_amt": 8500.0,
+      "transaction_id": "P132-T0023"
+    },
+    {
+      "approved_num": "AP132000015",
+      "merchant_name": "타다",
+      "merchant_regno": "394-86-68176",
+      "purchase_dtime": "20260627094828",
+      "purchase_amt": 23500.0,
+      "transaction_id": "P132-T0111"
+    },
+    {
+      "approved_num": "AP132000002",
+      "merchant_name": "요기요",
+      "merchant_regno": "503-10-60984",
+      "purchase_dtime": "20260624183325",
+      "purchase_amt": 8700.0,
+      "transaction_id": "P132-T0016"
+    },
+    {
+      "approved_num": "AP132000008",
+      "merchant_name": "교보문고",
+      "merchant_regno": "246-42-81149",
+      "purchase_dtime": "20260623125436",
+      "purchase_amt": 11100.0,
+      "transaction_id": "P132-T0050"
+    },
+    {
+      "approved_num": "AP132000003",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "500-44-23261",
+      "purchase_dtime": "20260622222736",
+      "purchase_amt": 24100.0,
+      "transaction_id": "P132-T0020"
+    },
+    {
+      "approved_num": "AP132000009",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "500-44-23261",
+      "purchase_dtime": "20260619234008",
+      "purchase_amt": 34700.0,
+      "transaction_id": "P132-T0066"
+    },
+    {
+      "approved_num": "AP132000001",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "827-22-31779",
+      "purchase_dtime": "20260616124443",
+      "purchase_amt": 39100.0,
+      "transaction_id": "P132-T0011"
+    },
+    {
+      "approved_num": "AP132000012",
+      "merchant_name": "파리바게뜨",
+      "merchant_regno": "537-49-77972",
+      "purchase_dtime": "20260616122535",
+      "purchase_amt": 3900.0,
+      "transaction_id": "P132-T0072"
+    },
+    {
+      "approved_num": "AP132000006",
+      "merchant_name": "요기요",
+      "merchant_regno": "503-10-60984",
+      "purchase_dtime": "20260614203619",
+      "purchase_amt": 10600.0,
+      "transaction_id": "P132-T0040"
+    },
+    {
+      "approved_num": "AP132000010",
+      "merchant_name": "무신사",
+      "merchant_regno": "565-87-68251",
+      "purchase_dtime": "20260611213420",
+      "purchase_amt": 22400.0,
+      "transaction_id": "P132-T0067"
+    },
+    {
+      "approved_num": "AP132000011",
+      "merchant_name": "노티드",
+      "merchant_regno": "640-64-25056",
+      "purchase_dtime": "20260608210910",
+      "purchase_amt": 6500.0,
+      "transaction_id": "P132-T0068"
+    },
+    {
+      "approved_num": "AP132000005",
+      "merchant_name": "지그재그",
+      "merchant_regno": "472-74-86090",
+      "purchase_dtime": "20260608185542",
+      "purchase_amt": 50700.0,
+      "transaction_id": "P132-T0031"
+    },
+    {
+      "approved_num": "AP132000014",
+      "merchant_name": "티머니",
+      "merchant_regno": "133-49-57510",
+      "purchase_dtime": "20260607095556",
+      "purchase_amt": 8700.0,
+      "transaction_id": "P132-T0104"
+    },
+    {
+      "approved_num": "AP132000007",
+      "merchant_name": "365약국",
+      "merchant_regno": "418-55-62762",
+      "purchase_dtime": "20260603091126",
+      "purchase_amt": 16000.0,
+      "transaction_id": "P132-T0046"
+    }
+  ]
+}

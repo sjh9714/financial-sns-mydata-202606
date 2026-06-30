@@ -1,0 +1,35 @@
+{
+  "x-api-tran-id": "P187-전금-004-P187-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 2,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP187카00004",
+      "trans_dtime": "20260627234703",
+      "trans_no": "WP18700001",
+      "currency_code": "KRW",
+      "trans_amt": -11000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "이마트24",
+      "trans_title": "편의점 결제",
+      "trans_category": "생활"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP187카00006",
+      "trans_dtime": "20260619233928",
+      "trans_no": "WP18700002",
+      "currency_code": "KRW",
+      "trans_amt": -33100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    }
+  ]
+}

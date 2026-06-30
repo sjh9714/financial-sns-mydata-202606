@@ -1,0 +1,74 @@
+{
+  "x-api-tran-id": "P134-전금-004-P134-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 5,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP134카00006",
+      "trans_dtime": "20260620080020",
+      "trans_no": "WP13400003",
+      "currency_code": "KRW",
+      "trans_amt": -19300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "쿠팡이츠",
+      "trans_title": "배달 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP134카00003",
+      "trans_dtime": "20260612204944",
+      "trans_no": "WP13400001",
+      "currency_code": "KRW",
+      "trans_amt": -14100.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "한솥도시락 신촌점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP134카00005",
+      "trans_dtime": "20260611152017",
+      "trans_no": "WP13400002",
+      "currency_code": "KRW",
+      "trans_amt": -33300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "교보문고",
+      "trans_title": "도서 결제",
+      "trans_category": "문화/여가"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP134카00010",
+      "trans_dtime": "20260610185629",
+      "trans_no": "WP13400005",
+      "currency_code": "KRW",
+      "trans_amt": -92200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "지그재그",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP134카00009",
+      "trans_dtime": "20260603204426",
+      "trans_no": "WP13400004",
+      "currency_code": "KRW",
+      "trans_amt": -5700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노티드",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    }
+  ]
+}

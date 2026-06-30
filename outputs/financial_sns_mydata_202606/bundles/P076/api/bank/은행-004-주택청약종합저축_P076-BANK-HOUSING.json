@@ -1,0 +1,20 @@
+{
+  "x-api-tran-id": "P076-은행-004-P076-BANK-HOUSING",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 1,
+  "trans_list": [
+    {
+      "trans_dtime": "20260625122411",
+      "trans_no": "BP07600001",
+      "trans_type": "03",
+      "trans_class": "내계좌이체",
+      "currency_code": "KRW",
+      "trans_amt": 270000.0,
+      "balance_amt": 6609326.0,
+      "paid_in_cnt": null,
+      "trans_memo": "청약 납입"
+    }
+  ]
+}

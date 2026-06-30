@@ -1,0 +1,153 @@
+{
+  "x-api-tran-id": "P134-카드-014-P134-CARD-03",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "purchase_cnt": 18,
+  "purchase_list": [
+    {
+      "approved_num": "AP134000004",
+      "merchant_name": "오늘의집",
+      "merchant_regno": "670-57-20997",
+      "purchase_dtime": "20260623224114",
+      "purchase_amt": 59800.0,
+      "transaction_id": "P134-T0028"
+    },
+    {
+      "approved_num": "AP134000009",
+      "merchant_name": "지그재그",
+      "merchant_regno": "274-80-11982",
+      "purchase_dtime": "20260622155302",
+      "purchase_amt": 45700.0,
+      "transaction_id": "P134-T0047"
+    },
+    {
+      "approved_num": "AP134000011",
+      "merchant_name": "파리바게뜨",
+      "merchant_regno": "563-19-79266",
+      "purchase_dtime": "20260621204903",
+      "purchase_amt": 8500.0,
+      "transaction_id": "P134-T0063"
+    },
+    {
+      "approved_num": "AP134000016",
+      "merchant_name": "파리바게뜨",
+      "merchant_regno": "563-19-79266",
+      "purchase_dtime": "20260618095414",
+      "purchase_amt": 5200.0,
+      "transaction_id": "P134-T0089"
+    },
+    {
+      "approved_num": "AP134000017",
+      "merchant_name": "무신사",
+      "merchant_regno": "142-38-75295",
+      "purchase_dtime": "20260617201305",
+      "purchase_amt": 85500.0,
+      "transaction_id": "P134-T0095"
+    },
+    {
+      "approved_num": "AP134000001",
+      "merchant_name": "휴대폰 요금",
+      "merchant_regno": "419-32-61470",
+      "purchase_dtime": "20260617080730",
+      "purchase_amt": 86700.0,
+      "transaction_id": "P134-T0005"
+    },
+    {
+      "approved_num": "AP134000007",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "279-47-21829",
+      "purchase_dtime": "20260616205805",
+      "purchase_amt": 85600.0,
+      "transaction_id": "P134-T0032"
+    },
+    {
+      "approved_num": "AP134000015",
+      "merchant_name": "배민스토어",
+      "merchant_regno": "174-43-64774",
+      "purchase_dtime": "20260614213813",
+      "purchase_amt": 34400.0,
+      "transaction_id": "P134-T0078"
+    },
+    {
+      "approved_num": "AP134000013",
+      "merchant_name": "두끼 노량진역점",
+      "merchant_regno": "899-67-42676",
+      "purchase_dtime": "20260614181219",
+      "purchase_amt": 15400.0,
+      "transaction_id": "P134-T0068"
+    },
+    {
+      "approved_num": "AP134000005",
+      "merchant_name": "이마트24",
+      "merchant_regno": "293-26-48168",
+      "purchase_dtime": "20260610174134",
+      "purchase_amt": 61200.0,
+      "transaction_id": "P134-T0029"
+    },
+    {
+      "approved_num": "AP134000018",
+      "merchant_name": "네이버쇼핑",
+      "merchant_regno": "279-47-21829",
+      "purchase_dtime": "20260610102634",
+      "purchase_amt": 95100.0,
+      "transaction_id": "P134-T0123"
+    },
+    {
+      "approved_num": "AP134000006",
+      "merchant_name": "CU",
+      "merchant_regno": "288-71-33399",
+      "purchase_dtime": "20260609203826",
+      "purchase_amt": 56300.0,
+      "transaction_id": "P134-T0030"
+    },
+    {
+      "approved_num": "AP134000002",
+      "merchant_name": "쿠팡",
+      "merchant_regno": "149-51-11296",
+      "purchase_dtime": "20260609105549",
+      "purchase_amt": 142100.0,
+      "transaction_id": "P134-T0017"
+    },
+    {
+      "approved_num": "AP134000014",
+      "merchant_name": "아모레몰",
+      "merchant_regno": "818-78-76332",
+      "purchase_dtime": "20260608200816",
+      "purchase_amt": 65600.0,
+      "transaction_id": "P134-T0074"
+    },
+    {
+      "approved_num": "AP134000008",
+      "merchant_name": "무신사",
+      "merchant_regno": "142-38-75295",
+      "purchase_dtime": "20260605222322",
+      "purchase_amt": 71700.0,
+      "transaction_id": "P134-T0033"
+    },
+    {
+      "approved_num": "AP134000010",
+      "merchant_name": "11번가",
+      "merchant_regno": "363-13-25527",
+      "purchase_dtime": "20260605201503",
+      "purchase_amt": 83900.0,
+      "transaction_id": "P134-T0049"
+    },
+    {
+      "approved_num": "AP134000012",
+      "merchant_name": "CU",
+      "merchant_regno": "288-71-33399",
+      "purchase_dtime": "20260604215713",
+      "purchase_amt": 73700.0,
+      "transaction_id": "P134-T0066"
+    },
+    {
+      "approved_num": "AP134000003",
+      "merchant_name": "무신사",
+      "merchant_regno": "142-38-75295",
+      "purchase_dtime": "20260603104652",
+      "purchase_amt": 37900.0,
+      "transaction_id": "P134-T0024"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "persona_id": "P182",
+  "reactions": [
+    {
+      "reaction_id": "P182-R001",
+      "actor_persona_id": "P182",
+      "target_persona_id": "P196",
+      "reaction_type": "question",
+      "created_at": "2026-06-03T12:30:00+09:00"
+    },
+    {
+      "reaction_id": "P182-R002",
+      "actor_persona_id": "P182",
+      "target_persona_id": "P126",
+      "reaction_type": "question",
+      "created_at": "2026-06-18T13:32:00+09:00"
+    },
+    {
+      "reaction_id": "P182-R003",
+      "actor_persona_id": "P182",
+      "target_persona_id": "P019",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-24T11:15:00+09:00"
+    },
+    {
+      "reaction_id": "P182-R004",
+      "actor_persona_id": "P182",
+      "target_persona_id": "P190",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-13T15:06:00+09:00"
+    },
+    {
+      "reaction_id": "P182-R005",
+      "actor_persona_id": "P182",
+      "target_persona_id": "P043",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-15T10:50:00+09:00"
+    },
+    {
+      "reaction_id": "P182-R006",
+      "actor_persona_id": "P182",
+      "target_persona_id": "P043",
+      "reaction_type": "like",
+      "created_at": "2026-06-15T09:52:00+09:00"
+    },
+    {
+      "reaction_id": "P182-R007",
+      "actor_persona_id": "P182",
+      "target_persona_id": "P190",
+      "reaction_type": "question",
+      "created_at": "2026-06-11T23:17:00+09:00"
+    },
+    {
+      "reaction_id": "P182-R008",
+      "actor_persona_id": "P182",
+      "target_persona_id": "P031",
+      "reaction_type": "question",
+      "created_at": "2026-06-08T22:02:00+09:00"
+    },
+    {
+      "reaction_id": "P182-R009",
+      "actor_persona_id": "P182",
+      "target_persona_id": "P190",
+      "reaction_type": "question",
+      "created_at": "2026-06-21T14:16:00+09:00"
+    },
+    {
+      "reaction_id": "P182-R010",
+      "actor_persona_id": "P182",
+      "target_persona_id": "P196",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-24T13:16:00+09:00"
+    },
+    {
+      "reaction_id": "P182-R011",
+      "actor_persona_id": "P182",
+      "target_persona_id": "P118",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-13T10:54:00+09:00"
+    }
+  ]
+}

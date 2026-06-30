@@ -1,0 +1,22 @@
+{
+  "x-api-tran-id": "P105-전금-004-P105-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 1,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP105카00005",
+      "trans_dtime": "20260611122025",
+      "trans_no": "WP10500001",
+      "currency_code": "KRW",
+      "trans_amt": -108200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "야놀자",
+      "trans_title": "숙박 결제",
+      "trans_category": "여행/숙박"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "x-api-tran-id": "P077-전금-004-P077-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 4,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP077카00003",
+      "trans_dtime": "20260630123443",
+      "trans_no": "WP07700001",
+      "currency_code": "KRW",
+      "trans_amt": -27300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사뷰티",
+      "trans_title": "화장품 결제",
+      "trans_category": "뷰티/미용"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP077카00010",
+      "trans_dtime": "20260617101201",
+      "trans_no": "WP07700004",
+      "currency_code": "KRW",
+      "trans_amt": -58700.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP077카00004",
+      "trans_dtime": "20260610123833",
+      "trans_no": "WP07700002",
+      "currency_code": "KRW",
+      "trans_amt": -9000.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "던킨",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP077카00008",
+      "trans_dtime": "20260607124421",
+      "trans_no": "WP07700003",
+      "currency_code": "KRW",
+      "trans_amt": -97800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "야놀자",
+      "trans_title": "숙박 결제",
+      "trans_category": "여행/숙박"
+    }
+  ]
+}

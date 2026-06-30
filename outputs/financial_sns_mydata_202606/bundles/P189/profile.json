@@ -1,0 +1,30 @@
+{
+  "persona_id": "P189",
+  "synthetic_name": "가상청년 P189",
+  "age": 31,
+  "birth_year": 1995,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "청약·내집마련형",
+  "job": "공무원",
+  "region": "광주 동구",
+  "monthly_income_krw": 5340000,
+  "income_band": "500~700만원",
+  "target_monthly_spend_krw": 2410000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.472,
+  "target_investment_rate": 0.081,
+  "risk_score": 3,
+  "risk_attitude": "중립형",
+  "household_type": "신혼/동거",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "대중교통",
+    "장기계획",
+    "주거비관리"
+  ],
+  "financial_goal": "전세보증금",
+  "sns_tendency": "투자피드형",
+  "target_ledger_rows": 112,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

@@ -1,0 +1,30 @@
+{
+  "persona_id": "P113",
+  "synthetic_name": "가상청년 P113",
+  "age": 31,
+  "birth_year": 1995,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "절약·저축형",
+  "job": "회계 담당자",
+  "region": "대전 서구",
+  "monthly_income_krw": 2180000,
+  "income_band": "150~250만원",
+  "target_monthly_spend_krw": 1070000,
+  "spend_band": "90~150만원",
+  "target_saving_rate": 0.409,
+  "target_investment_rate": 0.09,
+  "risk_score": 3,
+  "risk_attitude": "중립형",
+  "household_type": "부모동거",
+  "household_size": 3,
+  "lifestyle_tags": [
+    "도시락",
+    "모바일결제",
+    "자동저축"
+  ],
+  "financial_goal": "목돈 만들기",
+  "sns_tendency": "투자피드형",
+  "target_ledger_rows": 85,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

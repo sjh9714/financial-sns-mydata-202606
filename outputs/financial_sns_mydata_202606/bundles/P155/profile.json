@@ -1,0 +1,30 @@
+{
+  "persona_id": "P155",
+  "synthetic_name": "가상청년 P155",
+  "age": 30,
+  "birth_year": 1996,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "프리랜서",
+  "job": "프리랜서 개발자",
+  "region": "인천 부평구",
+  "monthly_income_krw": 4500000,
+  "income_band": "350~500만원",
+  "target_monthly_spend_krw": 2450000,
+  "spend_band": "230~320만원",
+  "target_saving_rate": 0.111,
+  "target_investment_rate": 0.15,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "1인가구",
+  "household_size": 1,
+  "lifestyle_tags": [
+    "모바일결제",
+    "불규칙수입",
+    "자기계발"
+  ],
+  "financial_goal": "수입 안정화",
+  "sns_tendency": "눈팅형",
+  "target_ledger_rows": 148,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

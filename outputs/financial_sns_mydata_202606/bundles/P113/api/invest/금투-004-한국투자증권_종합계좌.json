@@ -1,0 +1,43 @@
+{
+  "x-api-tran-id": "P113-금투-004-P113-INV-001",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "search_timestamp": "20260630235900",
+  "next_page": null,
+  "base_date": "20260630",
+  "prod_cnt": 2,
+  "prod_list": [
+    {
+      "prod_type": "201",
+      "prod_type_detail": "001",
+      "prod_code": "069500",
+      "ex_code": "001",
+      "prod_name": "KODEX 200",
+      "pos_type": "01",
+      "credit_type": "00",
+      "is_tax_benefits": false,
+      "purchase_amt": 78000.0,
+      "holding_num": 2.0,
+      "trans_unit": "좌",
+      "eval_amt": 74855.855,
+      "is_execution": true,
+      "currency_code": "KRW"
+    },
+    {
+      "prod_type": "101",
+      "prod_type_detail": "001",
+      "prod_code": "373220",
+      "ex_code": "001",
+      "prod_name": "LG에너지솔루션",
+      "pos_type": "01",
+      "credit_type": "00",
+      "is_tax_benefits": false,
+      "purchase_amt": 350000.0,
+      "holding_num": 1.0,
+      "trans_unit": "주",
+      "eval_amt": 345823.668,
+      "is_execution": true,
+      "currency_code": "KRW"
+    }
+  ]
+}

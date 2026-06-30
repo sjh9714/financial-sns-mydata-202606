@@ -1,0 +1,75 @@
+{
+  "persona_id": "P114",
+  "reactions": [
+    {
+      "reaction_id": "P114-R001",
+      "actor_persona_id": "P114",
+      "target_persona_id": "P107",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-20T18:58:00+09:00"
+    },
+    {
+      "reaction_id": "P114-R002",
+      "actor_persona_id": "P114",
+      "target_persona_id": "P148",
+      "reaction_type": "like",
+      "created_at": "2026-06-04T23:29:00+09:00"
+    },
+    {
+      "reaction_id": "P114-R003",
+      "actor_persona_id": "P114",
+      "target_persona_id": "P148",
+      "reaction_type": "cheer",
+      "created_at": "2026-06-10T20:19:00+09:00"
+    },
+    {
+      "reaction_id": "P114-R004",
+      "actor_persona_id": "P114",
+      "target_persona_id": "P028",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-13T23:07:00+09:00"
+    },
+    {
+      "reaction_id": "P114-R005",
+      "actor_persona_id": "P114",
+      "target_persona_id": "P087",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-01T09:38:00+09:00"
+    },
+    {
+      "reaction_id": "P114-R006",
+      "actor_persona_id": "P114",
+      "target_persona_id": "P087",
+      "reaction_type": "bookmark",
+      "created_at": "2026-06-06T11:42:00+09:00"
+    },
+    {
+      "reaction_id": "P114-R007",
+      "actor_persona_id": "P114",
+      "target_persona_id": "P173",
+      "reaction_type": "like",
+      "created_at": "2026-06-08T09:37:00+09:00"
+    },
+    {
+      "reaction_id": "P114-R008",
+      "actor_persona_id": "P114",
+      "target_persona_id": "P173",
+      "reaction_type": "question",
+      "created_at": "2026-06-13T22:15:00+09:00"
+    },
+    {
+      "reaction_id": "P114-R009",
+      "actor_persona_id": "P114",
+      "target_persona_id": "P173",
+      "reaction_type": "like",
+      "created_at": "2026-06-07T16:03:00+09:00"
+    },
+    {
+      "reaction_id": "P114-R010",
+      "actor_persona_id": "P114",
+      "target_persona_id": "P148",
+      "reaction_type": "question",
+      "created_at": "2026-06-01T23:51:00+09:00"
+    }
+  ]
+}

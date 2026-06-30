@@ -1,0 +1,30 @@
+{
+  "persona_id": "P043",
+  "synthetic_name": "가상청년 P043",
+  "age": 24,
+  "birth_year": 2002,
+  "generation": "대한민국 청년(만19~34세)",
+  "archetype": "취준·지원",
+  "job": "취업준비생",
+  "region": "서울 성동구",
+  "monthly_income_krw": 560000,
+  "income_band": "150만원 미만",
+  "target_monthly_spend_krw": 420000,
+  "spend_band": "90만원 미만",
+  "target_saving_rate": 0.021,
+  "target_investment_rate": 0.04,
+  "risk_score": 2,
+  "risk_attitude": "안정추구형",
+  "household_type": "쉐어하우스",
+  "household_size": 2,
+  "lifestyle_tags": [
+    "교육투자",
+    "대중교통",
+    "절약"
+  ],
+  "financial_goal": "취업준비비 마련",
+  "sns_tendency": "눈팅형",
+  "target_ledger_rows": 72,
+  "data_month": "2026-06",
+  "is_synthetic": true
+}

@@ -1,0 +1,100 @@
+{
+  "x-api-tran-id": "P090-전금-004-P090-WALLET-KAKAO",
+  "rsp_code": "00000",
+  "rsp_msg": "SUCCESS",
+  "next_page": null,
+  "trans_cnt": 7,
+  "trans_list": [
+    {
+      "trans_type": "04",
+      "trans_num": "EP090카00011",
+      "trans_dtime": "20260625221222",
+      "trans_no": "WP09000007",
+      "currency_code": "KRW",
+      "trans_amt": -62800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP090카00005",
+      "trans_dtime": "20260624121245",
+      "trans_no": "WP09000002",
+      "currency_code": "KRW",
+      "trans_amt": -82800.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "11번가",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP090카00006",
+      "trans_dtime": "20260618094140",
+      "trans_no": "WP09000003",
+      "currency_code": "KRW",
+      "trans_amt": -75500.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "에이블리",
+      "trans_title": "패션 결제",
+      "trans_category": "패션/쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP090카00007",
+      "trans_dtime": "20260614202935",
+      "trans_no": "WP09000004",
+      "currency_code": "KRW",
+      "trans_amt": -44600.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "네이버쇼핑",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP090카00004",
+      "trans_dtime": "20260613120912",
+      "trans_no": "WP09000001",
+      "currency_code": "KRW",
+      "trans_amt": -5300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "노티드",
+      "trans_title": "디저트/떡 결제",
+      "trans_category": "카페/간식"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP090카00009",
+      "trans_dtime": "20260613102858",
+      "trans_no": "WP09000006",
+      "currency_code": "KRW",
+      "trans_amt": -30300.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "무신사",
+      "trans_title": "인터넷쇼핑 결제",
+      "trans_category": "온라인쇼핑"
+    },
+    {
+      "trans_type": "04",
+      "trans_num": "EP090카00008",
+      "trans_dtime": "20260603205342",
+      "trans_no": "WP09000005",
+      "currency_code": "KRW",
+      "trans_amt": -16200.0,
+      "trans_org_code": "06000001",
+      "trans_memo": "머니 결제",
+      "merchant_name": "두끼 노량진역점",
+      "trans_title": "한식 결제",
+      "trans_category": "식비"
+    }
+  ]
+}
